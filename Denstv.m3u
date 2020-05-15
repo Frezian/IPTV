@@ -130,7 +130,10 @@ https://vcdnjt.useetv.com/joss/14/animax/chunklist_w739131567_b684100_sleng_7000
 http://rr1.dens.tv/h/h144/01.m3u8?app_type=web&userid=mkwipjybnee&tkn=9NK7VMIRPXDGLJBF3JWSZUWOR3GH5F4Q&chname=Animax_HD
 
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="KIDS",ANIPLUS
-http://210.210.155.35:80/dr9445/h/h02/index.m3u8
+https://vcdnjt.useetv.com/joss/14/aniplus/chunklist_w1639792963_b684100_sleng_70259.m3u8
+
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="KIDS",CARTOON NETWORK
+https://vcdnjt.useetv.com/joss/14/cartoonnetwork/chunklist_w2069881178_b684100_sleng_69475.m3u8
 
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="KIDS",EGG NETWORK
 http://210.210.155.35:80/uq2663/h/h22/01.m3u8
