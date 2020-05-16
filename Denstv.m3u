@@ -318,47 +318,29 @@ https://vcdnjt.useetv.com/joss/14/imc/chunklist_w569228584_b684100_sleng_23992.m
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="MOVIES",Dunia Lain
 https://vcdnjt.useetv.com/joss/14/dunialain/chunklist_w1967765240_b684100_sleng_1409.m3u8
 
-#EXTINF:-1 group-title="MOVIES",FOX
-http://mantul.biz.id:8888/Handi5/Handi5ok/9
+#EXTINF:-1 group-title="MOVIES",Fox Crime ID
+http://client.vpnuser.ws:8080/8azXQAJRlK/91xteXDqRP/62254
 
-#EXTINF:-1 group-title="MOVIES",Fox Action Movies
-http://mantul.biz.id:8888/Handi5/Handi5ok/20
+#EXTINF:-1 group-title="MOVIES",Fox Family Movies ID
+http://client.vpnuser.ws:8080/8azXQAJRlK/91xteXDqRP/62253
 
-#EXTINF:-1 group-title="MOVIES",Fox Action Movies FHD
-http://mantul.biz.id:8888/Handi5/Handi5ok/21
+#EXTINF:-1 group-title="MOVIES",Fox ID
+http://client.vpnuser.ws:8080/8azXQAJRlK/91xteXDqRP/62255
 
-#EXTINF:-1 group-title="MOVIES",Fox Crime
-http://mantul.biz.id:8888/Handi5/Handi5ok/35
+#EXTINF:-1 group-title="MOVIES",Fox Life ID
+http://client.vpnuser.ws:8080/8azXQAJRlK/91xteXDqRP/62252
 
-#EXTINF:-1 group-title="MOVIES",Fox Crime FHD
-http://mantul.biz.id:8888/Handi5/Handi5ok/36
+#EXTINF:-1 group-title="MOVIES",Fox Movies Action ID
+http://client.vpnuser.ws:8080/8azXQAJRlK/91xteXDqRP/62250
 
-#EXTINF:-1 group-title="MOVIES",FOX Family Movies
-http://mantul.biz.id:8888/Handi5/Handi5ok/131
-
-#EXTINF:-1 group-title="MOVIES",FOX Family Movies FHD
-http://mantul.biz.id:8888/Handi5/Handi5ok/130
-
-#EXTINF:-1 group-title="MOVIES",FOX FHD
-http://mantul.biz.id:8888/Handi5/Handi5ok/296
-
-#EXTINF:-1 group-title="MOVIES",Fox Life
-http://mantul.biz.id:8888/Handi5/Handi5ok/33
-
-#EXTINF:-1 group-title="MOVIES",Fox Life FHD
-http://mantul.biz.id:8888/Handi5/Handi5ok/34
-
-#EXTINF:-1 group-title="MOVIES",Fox Movies Premium
-http://mantul.biz.id:8888/Handi5/Handi5ok/50
-
-#EXTINF:-1 group-title="MOVIES",Fox Movies Premium FHD
-http://mantul.biz.id:8888/Handi5/Handi5ok/51
+#EXTINF:-1 group-title="MOVIES",Fox Movies ID
+http://client.vpnuser.ws:8080/8azXQAJRlK/91xteXDqRP/62251
 
 #EXTINF:-1 group-title="MOVIES",HBO
 http://mantul.biz.id:8888/Handi5/Handi5ok/1
 
-#EXTINF:-1 group-title="MOVIES",HBO Family
-http://mantul.biz.id:8888/Handi5/Handi5ok/5
+#EXTINF:-1 group-title="MOVIES",HBO Family ID
+http://client.vpnuser.ws:8080/8azXQAJRlK/91xteXDqRP/62172
 
 #EXTINF:-1 group-title="MOVIES",HBO Family FHD
 http://mantul.biz.id:8888/Handi5/Handi5ok/6
@@ -366,17 +348,23 @@ http://mantul.biz.id:8888/Handi5/Handi5ok/6
 #EXTINF:-1 group-title="MOVIES",HBO FHD
 http://mantul.biz.id:8888/Handi5/Handi5ok/252
 
-#EXTINF:-1 group-title="MOVIES",HBO Hits
-http://mantul.biz.id:8888/Handi5/Handi5ok/3
+#EXTINF:-1 group-title="MOVIES",HBO Hits ID
+http://client.vpnuser.ws:8080/8azXQAJRlK/91xteXDqRP/62173
 
 #EXTINF:-1 group-title="MOVIES",HBO Hits FHD
 http://mantul.biz.id:8888/Handi5/Handi5ok/4
 
-#EXTINF:-1 group-title="MOVIES",HBO Signature
-http://mantul.biz.id:8888/Handi5/Handi5ok/44
+#EXTINF:-1 group-title="MOVIES",HBO Signature ID
+http://client.vpnuser.ws:8080/8azXQAJRlK/91xteXDqRP/62174
 
 #EXTINF:-1 group-title="MOVIES",HBO Signature FHD
 http://mantul.biz.id:8888/Handi5/Handi5ok/1019
+
+#EXTINF:-1 group-title="MOVIES",HBO RED ID
+http://client.vpnuser.ws:8080/8azXQAJRlK/91xteXDqRP/62171
+
+#EXTINF:-1 group-title="MOVIES",HBO CINEMAX ID
+http://client.vpnuser.ws:8080/8azXQAJRlK/91xteXDqRP/62170
 
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="MOVIES",HITS
 http://210.210.155.35:80/uq2663/h/h37/01.m3u8
