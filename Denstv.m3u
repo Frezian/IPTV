@@ -490,6 +490,24 @@ https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="SPORTS",FIGHT SPORTS
 http://210.210.155.35:80/uq2663/h/h05/01.m3u8
 
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="SPORTS", EUROSPORT 1
+http://163.172.179.78:8081/tv/eurosport-1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="SPORTS", EUROSPORT 1 HD
+http://interboxservice.co.uk:8080/mike12345/IriKQ72xo3/76645
+
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="SPORTS", EUROSPORT 2
+http://163.172.179.78:8081/tv/eurosport-2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="SPORTS", EUROSPORT 2 HD
+http://interboxservice.co.uk:8080/mike12345/IriKQ72xo3/76643
+
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="SPORTS", LA LIGA
+http://interboxservice.co.uk:8080/mike12345/IriKQ72xo3/204854
+
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="SPORTS", LA LIGA HD
+http://interboxservice.co.uk:8080/mike12345/IriKQ72xo3/204855
+
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="SPORTS",PPTV HD
 http://183.182.100.184/live/pptvthai/playlist.m3u8
 
@@ -522,12 +540,6 @@ https://cdn-laos.workpoint.news/epl-x2_720/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="SPORTS", TRUE PREMIER LEAGUE 3
 https://cdn-laos.workpoint.news/epl-x3_720/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="SPORTS", EUROSPORT 1
-http://163.172.179.78:8081/tv/eurosport-1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="SPORTS", EUROSPORT 2
-http://163.172.179.78:8081/tv/eurosport-2/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="SPORTS", SKYNET 1
 https://cdn-laos.workpoint.news/sd-skynetsports1_480/index.m3u8
