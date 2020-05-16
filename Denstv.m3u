@@ -454,6 +454,12 @@ https://vcdnjt.useetv.com/joss/15/foxsport2/chunklist_w61448113_b1344100_sleng_2
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="SPORTS", FOX SPORT 3
 https://vcdnjt.useetv.com/joss/15/foxsport3/chunklist_w659832811_b1344100_sleng_247687.m3u8
 
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="SPORTS", FS 1
+http://34.107.144.139/live/fs1/chunks.m3u8?userAgent=
+
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="SPORTS", BT SPORT 1
+http://103.194.171.151/hls/bt1.m3u8?userAgent=
+
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="SPORTS", BEIN SPORT 1
 https://vcdnjt.useetv.com/joss/15/bein1/chunklist_w1385039321_b1344100_sleng_247479.m3u8
 
