@@ -136,7 +136,7 @@ http://rr1.dens.tv/h/h144/01.m3u8?app_type=web&userid=mkwipjybnee&tkn=9NK7VMIRPX
 https://vcdnjt.useetv.com/joss/14/aniplus/chunklist_w1639792963_b684100_sleng_70259.m3u8
 
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="KIDS",CARTOON NETWORK
-https://vcdnjt.useetv.com/joss/14/cartoonnetwork/chunklist_w2069881178_b684100_sleng_69475.m3u8
+http://client.vpnuser.ws:8080/8azXQAJRlK/91xteXDqRP/62279
 
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="KIDS",EGG NETWORK
 http://210.210.155.35:80/uq2663/h/h22/01.m3u8
@@ -503,7 +503,7 @@ http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/.m3u8
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
 
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="SPORTS",FIGHT SPORTS
-http://210.210.155.35:80/uq2663/h/h05/01.m3u8
+http://client.vpnuser.ws:8080/8azXQAJRlK/91xteXDqRP/62258
 
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="SPORTS", EUROSPORT 1
 http://163.172.179.78:8081/tv/eurosport-1/playlist.m3u8
@@ -523,8 +523,11 @@ http://interboxservice.co.uk:8080/mike12345/IriKQ72xo3/204854
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="SPORTS", LA LIGA HD
 http://interboxservice.co.uk:8080/mike12345/IriKQ72xo3/204855
 
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="SPORTS",PPTV HD
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="SPORTS",PPTV SD
 http://183.182.100.184/live/pptvthai/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="PPTV 1 TH" tvg-logo="" group-title="SPORTS",PPTV HD
+http://client.vpnuser.ws:8080/8azXQAJRlK/91xteXDqRP/8669
 
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="SPORTS", REAL MADRID TV
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
