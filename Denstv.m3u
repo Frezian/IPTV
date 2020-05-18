@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/xMXy9IsKJfKo_4TiJwmBlss-2X0=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/665/rcti-8458c0.jpg" group-title="INDONESIA", RCTI
-https://etslive-2-vidio-com.akamaized.net/exp=1589807065~acl=/hls-p/ingest_778_*/*~hmac=9e0d6f6155a3d45f9349cbb67e08a42663f72ecb5f8654fed9fb58b7a8add217/hls-p/ingest_778_720p/1589798671573.ts
+http://mrbjmiptv.online/play/trial@mrbjmiptv.online/97890963/s1aMZV1l/gerbil/rcti_gerbil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="INDONESIA", MNC
 https://linier3.rctiplus.id/live/eds/MNCTV_Logo/sa_hls/MNCTV_Logo-avc1_2000000=1-mp4a_64000=2.m3u8
