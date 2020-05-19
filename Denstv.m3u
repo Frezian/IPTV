@@ -131,10 +131,13 @@ http://119.235.249.58:1935/tahfidztv/live/playlist.m3u8
 https://vcdnjt.useetv.com/joss/14/animax/chunklist_w739131567_b684100_sleng_70005.m3u8
 
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="KIDS",ANIMAX mHD
-http://client.vpnuser.ws:8080/8azXQAJRlK/91xteXDqRP/62298
+http://rr1.dens.tv/h/h144/01.m3u8
 
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="KIDS",ANIPLUS
 https://vcdnjt.useetv.com/joss/14/aniplus/chunklist_w1639792963_b684100_sleng_70259.m3u8
+
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="KIDS",ANIPLUS SERVER 2
+http://rr1.dens.tv/h/h02/01.m3u8
 
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="KIDS",CARTOON NETWORK
 http://client.vpnuser.ws:8080/8azXQAJRlK/91xteXDqRP/62279
@@ -508,6 +511,9 @@ https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u
 
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="SPORTS",FIGHT SPORTS
 http://client.vpnuser.ws:8080/8azXQAJRlK/91xteXDqRP/62258
+
+EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="SPORTS", FIGHT SPORTS SERVER 2
+http://rr.dens.tv/h/h05/02.m3u8
 
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="SPORTS", EUROSPORT 1
 http://163.172.179.78:8081/tv/eurosport-1/playlist.m3u8
