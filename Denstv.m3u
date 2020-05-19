@@ -12,13 +12,13 @@ https://vcdnjt.useetv.com:443/joss/15/antv/chunklist_w1093587531_b684100_sleng_1
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_115.png" group-title="INDONESIA", ANTV 2
 http://rr2.dens.tv/s/s07/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_89.png" group-title="INDONESIA", SCTV
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/sctv.png" group-title="INDONESIA", SCTV
 https://vcdnjt.useetv.com/joss/15/sctv/chunklist_w1027229960_b1344100_sleng_88719.m3u8
 
-#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_78.png" group-title="INDONESIA", INDOSIAR
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/Indosiar.png" group-title="INDONESIA", INDOSIAR
 https://vcdnjt.useetv.com:443/joss/15/indosiar/chunklist_w216473056_b684100_sleng_177560.m3u8?enc=fNhkrkjP1SfsMprexUm1ZA&exp=1587469129
 
-#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_78.png" group-title="INDONESIA", INDOSIAR 2
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/Indosiar.png" group-title="INDONESIA", INDOSIAR 2
 http://client.vpnuser.ws:8080/8azXQAJRlK/91xteXDqRP/62236
 
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_116.jpg" group-title="INDONESIA", NET TV
@@ -126,13 +126,13 @@ http://stream2.ninmedia.tv:1935/tawaftv/rtmp.stream_360p/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="RAMADHAN", TAHFIDZ TV
 http://119.235.249.58:1935/tahfidztv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_animax_small.png" group-title="KIDS",ANIMAX
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_animax_small.png" group-title="KIDS",ANIMAX
 https://vcdnjt.useetv.com/joss/14/animax/chunklist_w739131567_b684100_sleng_70005.m3u8
 
-#EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_animax_small.png" group-title="KIDS",ANIMAX mHD
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_animax_small.png" group-title="KIDS",ANIMAX mHD
 http://rr1.dens.tv/h/h144/01.m3u8
 
-#EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_aniplus_big1.png" group-title="KIDS",ANIPLUS
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_aniplus_big1.png" group-title="KIDS",ANIPLUS
 https://vcdnjt.useetv.com/joss/14/aniplus/chunklist_w1639792963_b684100_sleng_70259.m3u8
 
 #EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_aniplus_big1.png" group-title="KIDS",ANIPLUS SERVER 2
@@ -174,10 +174,10 @@ http://rr.dens.tv/h/h98/index.m3u8
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="KIDS", MIAO MI
 https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_37.jpg" group-title="KIDS", NICK JR.
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/nickjr.jpg" group-title="KIDS", NICK JR.
 https://vcdnjt.useetv.com/joss/14/nickjr/chunklist_w385685409_b684100_b684100_sleng_69513.m3u8
 
-#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_49.jpg" group-title="KIDS", NICKELODEON
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/nickelodeon.png" group-title="KIDS", NICKELODEON
 https://vcdnjt.useetv.com/joss/14/nickelodeon/chunklist_w1745396667_b684100_sleng_69533.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_spacetoonplus_small1.png" group-title="KIDS", SPACETOON PLUS
@@ -303,73 +303,73 @@ http://live-edge01.telecentro.net.ar/live/msctphd-360/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="MUSIC", PRAMBORS
 https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(d38de229-8abc-4072-91d4-2c42935f7e3b)/manifest.mpd
 
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="MOVIES", AXN
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/axn_150x150.jpg" group-title="MOVIES", AXN
 https://vcdnjt.useetv.com:443/joss/15/axn/chunklist_w1332206438_b684100_sleng_177560.m3u8?enc=oKFj9Xw1YXcLgJJxFI-NrA&exp=1587470166
 
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="MOVIES",BLUE ANT ENTERTAINMENT
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_blueant_small.png" group-title="MOVIES",BLUE ANT ENTERTAINMENT
 http://210.210.155.35:80/dr9445/h/h16/01.m3u8
 
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="MOVIES",BLUE ANT EXTREME
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_blueantext_small.png" group-title="MOVIES",BLUE ANT EXTREME
 http://210.210.155.35:80/dr9445/h/h15/01.m3u8
 
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="MOVIES",CELESTIAL MOVIES
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/celestial.png" group-title="MOVIES",CELESTIAL MOVIES
 https://vcdnjt.useetv.com/joss/14/celestialmovie/chunklist_w1671904161_b684100_sleng_62648.m3u8
 
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="MOVIES",CINEMA WORLD
+#EXTINF:-1 tvg-logo="hhttps://www.useetv.com/assets/images/channel/logo_cinemaworld_small.png" group-title="MOVIES",CINEMA WORLD
 https://vcdnjt.useetv.com/joss/14/cinemaworld/chunklist_w1529108846_b684100_sleng_62660.m3u8
 
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="MOVIES",IMC
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_imc_small.png" group-title="MOVIES",IMC
 https://vcdnjt.useetv.com/joss/14/imc/chunklist_w569228584_b684100_sleng_23992.m3u8
 
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="MOVIES",Dunia Lain
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_dunialain_small.png" group-title="MOVIES",Dunia Lain
 https://vcdnjt.useetv.com/joss/14/dunialain/chunklist_w1967765240_b684100_sleng_1409.m3u8
 
-#EXTINF:-1 group-title="MOVIES",Fox Crime ID
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_152.png" group-title="MOVIES",Fox Crime ID
 http://client.vpnuser.ws:8080/8azXQAJRlK/91xteXDqRP/62254
 
-#EXTINF:-1 group-title="MOVIES",Fox Family Movies ID
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_15.png" group-title="MOVIES",Fox Family Movies ID
 http://client.vpnuser.ws:8080/8azXQAJRlK/91xteXDqRP/62253
 
-#EXTINF:-1 group-title="MOVIES",Fox ID
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_437.png" group-title="MOVIES",Fox ID
 http://client.vpnuser.ws:8080/8azXQAJRlK/91xteXDqRP/62255
 
-#EXTINF:-1 group-title="MOVIES",Fox Life ID
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_439.png" group-title="MOVIES",Fox Life ID
 http://client.vpnuser.ws:8080/8azXQAJRlK/91xteXDqRP/62252
 
-#EXTINF:-1 group-title="MOVIES",Fox Movies Action ID
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_16.png" group-title="MOVIES",Fox Movies Action ID
 http://client.vpnuser.ws:8080/8azXQAJRlK/91xteXDqRP/62250
 
-#EXTINF:-1 group-title="MOVIES",Fox Movies ID
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_14.png" group-title="MOVIES",Fox Movies ID
 http://client.vpnuser.ws:8080/8azXQAJRlK/91xteXDqRP/62251
 
-#EXTINF:-1 group-title="MOVIES",HBO
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/hbo.png" group-title="MOVIES",HBO
 http://mantul.biz.id:8888/Handi5/Handi5ok/1
 
-#EXTINF:-1 group-title="MOVIES",HBO Family ID
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_family.png" group-title="MOVIES",HBO Family ID
 http://client.vpnuser.ws:8080/8azXQAJRlK/91xteXDqRP/62172
 
-#EXTINF:-1 group-title="MOVIES",HBO Family FHD
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_family.png" group-title="MOVIES",HBO Family FHD
 http://mantul.biz.id:8888/Handi5/Handi5ok/6
 
-#EXTINF:-1 group-title="MOVIES",HBO FHD
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/hbo.png" group-title="MOVIES",HBO FHD
 http://mantul.biz.id:8888/Handi5/Handi5ok/252
 
-#EXTINF:-1 group-title="MOVIES",HBO Hits ID
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_hits.png" group-title="MOVIES",HBO Hits ID
 http://client.vpnuser.ws:8080/8azXQAJRlK/91xteXDqRP/62173
 
-#EXTINF:-1 group-title="MOVIES",HBO Hits FHD
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_hits.png" group-title="MOVIES",HBO Hits FHD
 http://mantul.biz.id:8888/Handi5/Handi5ok/4
 
-#EXTINF:-1 group-title="MOVIES",HBO Signature ID
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_signature.png" group-title="MOVIES",HBO Signature ID
 http://client.vpnuser.ws:8080/8azXQAJRlK/91xteXDqRP/62174
 
-#EXTINF:-1 group-title="MOVIES",HBO Signature FHD
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_signature.png" group-title="MOVIES",HBO Signature FHD
 http://mantul.biz.id:8888/Handi5/Handi5ok/1019
 
-#EXTINF:-1 group-title="MOVIES",HBO RED ID
+#EXTINF:-1 tvg-logo="https://www.mewatch.sg/image/11230416/16x9/947/533/8f90074b9a37cc9f382566d31aa02071/gd/red-by-hbo.png" group-title="MOVIES",HBO RED ID
 http://client.vpnuser.ws:8080/8azXQAJRlK/91xteXDqRP/62171
 
-#EXTINF:-1 group-title="MOVIES",HBO CINEMAX ID
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/cinemax.jpg" group-title="MOVIES",HBO CINEMAX ID
 http://client.vpnuser.ws:8080/8azXQAJRlK/91xteXDqRP/62170
 
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="MOVIES",HITS
