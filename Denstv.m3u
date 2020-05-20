@@ -406,10 +406,10 @@ https://d11h6a6nhl9kj9.cloudfront.net/hls/suriactv/master01.m3u8
 https://vcdnjt.useetv.com:443/joss/15/flik/chunklist_w1315467241_b684100_sleng_177560.m3u8?enc=7a8bbpCJQ6mBgyNUWncrTg&exp=1587470989
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_kix_small.png" group-title="MOVIES", KIX
-https://vcdnjt.useetv.com:443/joss/15/kix/chunklist_w1894174703_b684100_sleng_177560.m3u8?enc=9DqDgkvoYxAvNa25ih60Qw&exp=1587469891
+https://vcdnjt.useetv.com/joss/15/kix/chunklist_w1115225188_b684100_sleng_355897.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_kix_small.png" group-title="MOVIES", KIX HD
-https://vcdnjt.useetv.com/joss/15/kix/chunklist_w1115225188_b684100_sleng_355897.m3u8
+http://mantul.biz.id:8888/andrew/andrew/251
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvn_small.png" group-title="MOVIES", TVN
 https://vcdnjt.useetv.com:443/joss/15/tvn/chunklist_w828994627_b684100_sleng_177560.m3u8?enc=TcG4UU24km1DkwOLcEXhrw&exp=1585294859&encp=AjtUSiMQ7BYCxKmni52bYg&expp=1585303559
@@ -432,7 +432,7 @@ https://vcdnjt.useetv.com/joss/15/warner/chunklist_w1318492207_b684100_sleng_355
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_zbioskop_small1.png" group-title="MOVIES",ZEE BIOSKOP
 https://vcdnjt.useetv.com/joss/14/zbioskop/chunklist_w2085074683_b684100_sleng_63371.m3u8
 
-#EXTINF:-1 tvg-logo=https://vignette.wikia.nocookie.net/logopedia/images/5/54/Astro_Supersport_Plus_PyeongChang_2018.png" group-title="SPORTS",Astro SuperSport 1
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/54/Astro_Supersport_Plus_PyeongChang_2018.png" group-title="SPORTS",Astro SuperSport 1
 http://mantul.biz.id:8888/andrew/andrew/162
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/06/Astro_Supersport_2_2015.png" group-title="SPORTS",Astro SuperSport 2
