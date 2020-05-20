@@ -1,10 +1,10 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_80.png" group-title="INDONESIA", RCTI
-https://cdn-livetv5.metube.id/hls/rcti_480/index.m3u8
+http://mantul.biz.id:8888/andrew/andrew/190
 
 #EXTINF:-1 tvg-id="MNCTV.id" tvg-name="MNC TV ID" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_82.png" group-title="INDONESIA", MNC
-https://cdn-livetv5.metube.id/hls/mnctv_480/index.m3u8
+http://mantul.biz.id:8888/andrew/andrew/191
 
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_115.png" group-title="INDONESIA", ANTV
 https://vcdnjt.useetv.com:443/joss/15/antv/chunklist_w1093587531_b684100_sleng_177560.m3u8?enc=XfbC-Lmih8yA3SLw742zUw&exp=1586533597
@@ -129,26 +129,23 @@ http://119.235.249.58:1935/tahfidztv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_animax_small.png" group-title="KIDS",ANIMAX
 https://vcdnjt.useetv.com/joss/14/animax/chunklist_w739131567_b684100_sleng_70005.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_animax_small.png" group-title="KIDS",ANIMAX mHD
-http://rr1.dens.tv/h/h144/01.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_animax_small.png" group-title="KIDS",ANIMAX HD
+ttp://mantul.biz.id:8888/andrew/andrew/129
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_aniplus_big1.png" group-title="KIDS",ANIPLUS
 https://vcdnjt.useetv.com/joss/14/aniplus/chunklist_w1639792963_b684100_sleng_70259.m3u8
 
-#EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_aniplus_big1.png" group-title="KIDS",ANIPLUS SERVER 2
-http://rr1.dens.tv/h/h02/01.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_aniplus_big1.png" group-title="KIDS",ANIPLUS HD
+http://mantul.biz.id:8888/andrew/andrew/265
 
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/cartoon_network.png" group-title="KIDS",CARTOON NETWORK
-http://client.vpnuser.ws:8080/8azXQAJRlK/91xteXDqRP/62279
+http://mantul.biz.id:8888/andrew/andrew/248
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_egg_small1.png" group-title="KIDS",EGG NETWORK
-http://210.210.155.35:80/uq2663/h/h22/01.m3u8
+http://mantul.biz.id:8888/andrew/andrew/146
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_babyfirst_small.png" group-title="KIDS", BABY FIRST
 https://vcdnjt.useetv.com/joss/14/babyfirst/chunklist_w1050663769_b684100_sleng_69390.m3u8
-
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="KIDS", BOING
-https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8
 
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_39.jpg" group-title="KIDS", BOOMERANG
 https://vcdnjt.useetv.com/joss/14/boomerang/chunklist_w1603072832_b684100_sleng_69450.m3u8
@@ -306,11 +303,20 @@ https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(d38de229-8abc-
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/axn_150x150.jpg" group-title="MOVIES", AXN
 https://vcdnjt.useetv.com:443/joss/15/axn/chunklist_w1332206438_b684100_sleng_177560.m3u8?enc=oKFj9Xw1YXcLgJJxFI-NrA&exp=1587470166
 
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/axn_150x150.jpg" group-title="MOVIES", AXN HD
+http://mantul.biz.id:8888/andrew/andrew/199
+
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_blueant_small.png" group-title="MOVIES",BLUE ANT ENTERTAINMENT
 http://210.210.155.35:80/dr9445/h/h16/01.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_blueant_small.png" group-title="MOVIES",BLUE ANT ENTERTAINMENT HD
+http://mantul.biz.id:8888/andrew/andrew/135
+
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_blueantext_small.png" group-title="MOVIES",BLUE ANT EXTREME
 http://210.210.155.35:80/dr9445/h/h15/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_blueantext_small.png" group-title="MOVIES",BLUE ANT EXTREME HD
+http://mantul.biz.id:8888/andrew/andrew/133
 
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/celestial.png" group-title="MOVIES",CELESTIAL MOVIES
 https://vcdnjt.useetv.com/joss/14/celestialmovie/chunklist_w1671904161_b684100_sleng_62648.m3u8
@@ -378,8 +384,8 @@ http://mantul.biz.id:8888/Handi5/Handi5ok/72
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_kplus_small1.png" group-title="MOVIES",K+
 https://vcdnjt.useetv.com/joss/15/kplus/chunklist_w298237442_b684100_sleng_255964.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_kplus_small1.png" group-title="MOVIES",K+ HD
-http://rr.dens.tv/h/h08/01.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_kplus_small1.png" group-title="MOVIES",K+ mHD
+http://mantul.biz.id:8888/andrew/andrew/76
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sgem_small.png" group-title="MOVIES",SONY GEM
 https://vcdnjt.useetv.com/joss/15/sgem/chunklist_w401910324_b684100_sleng_256008.m3u8
@@ -424,7 +430,7 @@ https://cdn-laos.workpoint.news/sd-starchineselegend_480/index.m3u8
 https://vcdnjt.useetv.com/joss/14/thrill/chunklist_w822829107_b684100_sleng_67787.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_thrill_small.png" group-title="MOVIES", THRILL ID
-http://client.vpnuser.ws:8080/8azXQAJRlK/91xteXDqRP/62189
+http://mantul.biz.id:8888/andrew/andrew/250
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_warner_small.png" group-title="MOVIES", WARNER TV
 https://vcdnjt.useetv.com/joss/15/warner/chunklist_w1318492207_b684100_sleng_355937.m3u8
