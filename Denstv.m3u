@@ -450,11 +450,20 @@ http://183.182.100.184/live/pptvthai/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i7.pngguru.com/preview/336/574/509/2018-motogp-season-motogp-2-moto2-circuit-ricardo-tormo-moto-gp.jpg" group-title="SPORTS", MOTO GP 3
 http://79.106.48.2/live/rtsh_sport_ott_p3/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports1_small.png" group-title="SPORTS", FOX SPORT 1 SD
+https://vcdnjt.useetv.com/joss/15/foxsport1/chunklist_w348496298_b894100_sleng_471035.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports1_small.png" group-title="SPORTS", FOX SPORT 1 HD
 https://vcdnjt.useetv.com/joss/15/foxsport1/chunklist_w662956550_b1344100_sleng_247649.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports1_small.png" group-title="SPORTS", FOX SPORT 2 SD
+https://vcdnjt.useetv.com/joss/15/foxsport2/chunklist_w602405053_b894100_sleng_471047.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports2_small.png" group-title="SPORTS", FOX SPORT 2 HD
 https://vcdnjt.useetv.com/joss/15/foxsport2/chunklist_w61448113_b1344100_sleng_247672.m3u8
+
+EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports1_small.png" group-title="SPORTS", FOX SPORT 3 SD
+https://vcdnjt.useetv.com/joss/15/foxsport3/chunklist_w297336772_b894100_sleng_471053.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports3_small.png" group-title="SPORTS", FOX SPORT 3 HD
 https://vcdnjt.useetv.com/joss/15/foxsport3/chunklist_w659832811_b1344100_sleng_247687.m3u8
@@ -507,10 +516,16 @@ http://interboxservice.co.uk:8080/mike12345/IriKQ72xo3/149739
 #EXTINF:-1 tvg-id="BTSportESPN.uk" tvg-name="BT ESPN FHD" tvg-logo="https://ia600109.us.archive.org/7/items/newfolder_20180122/btsptespnhd.png" group-title="SPORTS",BT ESPN FHD
 http://interboxservice.co.uk:8080/mike12345/IriKQ72xo3/149740
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein1_small1.png" group-title="SPORTS", BEIN SPORT 1
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein1_small1.png" group-title="SPORTS", BEIN SPORT 1 SD
+https://vcdnjt.useetv.com/joss/15/bein1/chunklist_w1092737456_b894100_sleng_90025.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein1_small1.png" group-title="SPORTS", BEIN SPORT 1 HD
 https://vcdnjt.useetv.com/joss/15/bein1/chunklist_w1385039321_b1344100_sleng_247479.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein2_small2.png" group-title="SPORTS", BEIN SPORT 2
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein2_small2.png" group-title="SPORTS", BEIN SPORT 2 SD
+https://vcdnjt.useetv.com/joss/15/bein2/chunklist_w279048530_b894100_sleng_90041.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein2_small2.png" group-title="SPORTS", BEIN SPORT 2 HD
 https://vcdnjt.useetv.com/joss/15/bein2/chunklist_w1790348684_b1344100_sleng_247505.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ1_small.png" group-title="SPORTS", CHAMPION TV 1
