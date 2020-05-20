@@ -541,7 +541,7 @@ http://rr.dens.tv/h/h05/02.m3u8
 http://163.172.179.78:8081/tv/eurosport-1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/Eurosport_1_Logo.jpg/800px-Eurosport_1_Logo.jpg" group-title="SPORTS", UK - EUROSPORT 1 HD
-http://93.190.141.193:8080/8902145397/e4zr8mf0/740
+http://interboxservice.co.uk:8080/mike12345/IriKQ72xo3/76646
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/Eurosport_1_Logo.jpg/800px-Eurosport_1_Logo.jpg" group-title="SPORTS", UK - EUROSPORT 1 FHD
 http://interboxservice.co.uk:8080/mike12345/IriKQ72xo3/76645
@@ -550,8 +550,7 @@ http://interboxservice.co.uk:8080/mike12345/IriKQ72xo3/76645
 http://163.172.179.78:8081/tv/eurosport-2/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/19/Eurosport_2_Logo.jpg/800px-Eurosport_2_Logo.jpg" group-title="SPORTS", UK - EUROSPORT 2 HD
-http://93.190.141.193:8080/8902145397/e4zr8mf0/739
-
+http://interboxservice.co.uk:8080/mike12345/IriKQ72xo3/76644
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/19/Eurosport_2_Logo.jpg/800px-Eurosport_2_Logo.jpg" group-title="SPORTS", UK - EUROSPORT 2 FHD
 http://interboxservice.co.uk:8080/mike12345/IriKQ72xo3/76643
