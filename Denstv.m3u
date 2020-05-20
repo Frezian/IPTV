@@ -54,7 +54,7 @@ https://linier.akamaized.net:443/live/eds/iNews_Logo/sa_hls/iNews_Logo-avc1_1000
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_114.png" group-title="INDONESIA", RTV
 https://cdnkbl1.useetv.com/joss/14/rtv/chunklist_w1794295740_b684100_sleng_180671.m3u8
 
-#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_103.png" group-title="INDONESIA", BERITASATU
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_103.jpg" group-title="INDONESIA", BERITASATU
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b846000.m3u8
 
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/cnn_new.jpg" group-title="INDONESIA", CNN INDONESIA
@@ -315,7 +315,7 @@ http://210.210.155.35:80/dr9445/h/h15/01.m3u8
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/celestial.png" group-title="MOVIES",CELESTIAL MOVIES
 https://vcdnjt.useetv.com/joss/14/celestialmovie/chunklist_w1671904161_b684100_sleng_62648.m3u8
 
-#EXTINF:-1 tvg-logo="hhttps://www.useetv.com/assets/images/channel/logo_cinemaworld_small.png" group-title="MOVIES",CINEMA WORLD
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cinemaworld_small.png" group-title="MOVIES",CINEMA WORLD
 https://vcdnjt.useetv.com/joss/14/cinemaworld/chunklist_w1529108846_b684100_sleng_62660.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_imc_small.png" group-title="MOVIES",IMC
@@ -444,13 +444,13 @@ http://mantul.biz.id:8888/andrew/andrew/160
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/9f/Astro_Supersport_4_2015.png" group-title="SPORTS",Astro SuperSport 4
 http://mantul.biz.id:8888/andrew/andrew/159
 
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/63/MotoGP.svg" group-title="SPORTS", MOTO GP 1
+#EXTINF:-1 tvg-logo="https://i7.pngguru.com/preview/336/574/509/2018-motogp-season-motogp-2-moto2-circuit-ricardo-tormo-moto-gp.jpg" group-title="SPORTS", MOTO GP 1
 http://video.detik.com/trans7/smil:trans7.smil/chunklist_w1925750281_b384000_sleng.m3u8
 
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/63/MotoGP.svg" group-title="SPORTS", MOTO GP 2
+#EXTINF:-1 tvg-logo="https://i7.pngguru.com/preview/336/574/509/2018-motogp-season-motogp-2-moto2-circuit-ricardo-tormo-moto-gp.jpg" group-title="SPORTS", MOTO GP 2
 http://183.182.100.184/live/pptvthai/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/63/MotoGP.svg" group-title="SPORTS", MOTO GP 3
+#EXTINF:-1 tvg-logo="https://i7.pngguru.com/preview/336/574/509/2018-motogp-season-motogp-2-moto2-circuit-ricardo-tormo-moto-gp.jpg" group-title="SPORTS", MOTO GP 3
 http://79.106.48.2/live/rtsh_sport_ott_p3/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports1_small.png" group-title="SPORTS", FOX SPORT 1 HD
