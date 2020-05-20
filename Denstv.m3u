@@ -465,6 +465,12 @@ https://vcdnjt.useetv.com/joss/15/foxsport3/chunklist_w659832811_b1344100_sleng_
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="SPORTS", FS 1
 http://34.107.144.139/live/fs1/chunks.m3u8?userAgent=
 
+#EXTINF:-1 tvg-id="FOXSports1.us" tvg-name="FOX SPORTS 1 (US)" tvg-logo="https://ia801509.us.archive.org/20/items/bmcrocks17_gmail_Tlc/USABetterLogo/foxsports1.png" group-title="SPORTS",FOX SPORTS 1 (US)
+http://interboxservice.co.uk:8080/mike12345/IriKQ72xo3/103945
+
+#EXTINF:-1 tvg-id="FOXSports2.us" tvg-name="FOX SPORTS 2 (US)" tvg-logo="https://ia801509.us.archive.org/20/items/bmcrocks17_gmail_Tlc/USABetterLogo/foxsports2.png" group-title="SPORTS",FOX SPORTS 2 (US)
+http://interboxservice.co.uk:8080/mike12345/IriKQ72xo3/79858
+
 #EXTINF:-1 tvg-id="BTSport1.uk" tvg-name="BT Sport 1 SD" tvg-logo="https://ia600109.us.archive.org/7/items/newfolder_20180122/btsport1.png" group-title="SPORTS",BT SPORT 1 SD
 http://interboxservice.co.uk:8080/mike12345/IriKQ72xo3/149743
 
@@ -561,10 +567,52 @@ http://interboxservice.co.uk:8080/mike12345/IriKQ72xo3/204854
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS4pUbLVmVSwCVHsmHe-iFdPom3DGniYZfJkqA3xrGyHjMK5pOd&usqp=CAU" group-title="SPORTS", LA LIGA HD
 http://interboxservice.co.uk:8080/mike12345/IriKQ72xo3/204855
 
+#EXTINF:-1 tvg-id="SkySportsPremierLeague.uk" tvg-name="SKY SPORTS PREMIER LEAGUE HD" tvg-logo="https://archive.org/download/newfolder_20180122/skysportsplhd.png" group-title="SPORTS",SKY SPORTS PREMIER LEAGUE HD
+http://interboxservice.co.uk:8080/mike12345/IriKQ72xo3/102221
+
+#EXTINF:-1 tvg-id="SkySportsPremierLeague.uk" tvg-name="SKY SPORTS PREMIER LEAGUE FHD" tvg-logo="https://archive.org/download/newfolder_20180122/skysportsplhd.png" group-title="SPORTS",SKY SPORTS PREMIER LEAGUE FHD
+http://interboxservice.co.uk:8080/mike12345/IriKQ72xo3/102220
+
+#EXTINF:-1 tvg-id="SkySportsFootball.ie" tvg-name="SKY SPORTS FOOTBALL HD" tvg-logo="https://archive.org/download/newfolder_20180122/skysportsfootballhd.png" group-title="SPORTS",SKY SPORTS FOOTBALL HD
+http://interboxservice.co.uk:8080/mike12345/IriKQ72xo3/102233
+
+#EXTINF:-1 tvg-id="SkySportsFootball.ie" tvg-name="SKY SPORTS FOOTBALL FHD" tvg-logo="https://archive.org/download/newfolder_20180122/skysportsfootballhd.png" group-title="SPORTS",SKY SPORTS FOOTBALL FHD
+http://interboxservice.co.uk:8080/mike12345/IriKQ72xo3/102232
+
+#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="SKY SPORTS F1 HD" tvg-logo="https://archive.org/download/newfolder_20180122/skysportsf1hd.png" group-title="SPORTS",SKY SPORTS F1 HD
+http://interboxservice.co.uk:8080/mike12345/IriKQ72xo3/102236
+
+#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="SKY SPORTS F1 FHD" tvg-logo="https://archive.org/download/newfolder_20180122/skysportsf1hd.png" group-title="SPORTS",SKY SPORTS F1 FHD
+http://interboxservice.co.uk:8080/mike12345/IriKQ72xo3/102235
+
+#EXTINF:-1 tvg-id="SkySportsAction.uk" tvg-name="SKY SPORTS ACTION HD" tvg-logo="https://archive.org/download/newfolder_20180122/skysportsactionhd.png" group-title="SPORTS",SKY SPORTS ACTION HD
+http://interboxservice.co.uk:8080/mike12345/IriKQ72xo3/102245
+
+#EXTINF:-1 tvg-id="SkySportsAction.uk" tvg-name="SKY SPORTS ACTION FHD" tvg-logo="https://archive.org/download/newfolder_20180122/skysportsactionhd.png" group-title="SPORTS",SKY SPORTS ACTION FHD
+http://interboxservice.co.uk:8080/mike12345/IriKQ72xo3/102244
+
+#EXTINF:-1 tvg-id="SkySportsArena.uk" tvg-name="SKY SPORTS ARENA HD" tvg-logo="https://archive.org/download/newfolder_20180122/skysportsarenahd.png" group-title="SPORTS",SKY SPORTS ARENA HD
+http://interboxservice.co.uk:8080/mike12345/IriKQ72xo3/102242
+
+#EXTINF:-1 tvg-id="SkySportsArena.uk" tvg-name="SKY SPORTS ARENA FHD" tvg-logo="https://archive.org/download/newfolder_20180122/skysportsarenahd.png" group-title="SPORTS",SKY SPORTS ARENA FHD
+http://interboxservice.co.uk:8080/mike12345/IriKQ72xo3/102241
+
+#EXTINF:-1 tvg-id="SkySportsMix.uk" tvg-name="SKY SPORTS MIX HD" tvg-logo="https://archive.org/download/newfolder_20180122/skysportsmixhd.png" group-title="SPORTS",SKY SPORTS MIX HD
+http://interboxservice.co.uk:8080/mike12345/IriKQ72xo3/102219
+
+#EXTINF:-1 tvg-id="SkySportsMix.uk" tvg-name="SKY SPORTS MIX FHD" tvg-logo="https://archive.org/download/newfolder_20180122/skysportsmixhd.png" group-title="SPORTS",SKY SPORTS MIX FHD
+http://interboxservice.co.uk:8080/mike12345/IriKQ72xo3/102218
+
+#EXTINF:-1 tvg-id="SkySportsNews.uk" tvg-name="SKY SPORTS NEWS HD" tvg-logo="https://archive.org/download/newfolder_20180122/skysportsnewshd.png" group-title="SPORTS",SKY SPORTS NEWS HD
+http://interboxservice.co.uk:8080/mike12345/IriKQ72xo3/102224
+
+#EXTINF:-1 tvg-id="SkySportsNews.uk" tvg-name="SKY SPORTS NEWS FHD" tvg-logo="https://archive.org/download/newfolder_20180122/skysportsnewshd.png" group-title="SPORTS",SKY SPORTS NEWS FHD
+http://interboxservice.co.uk:8080/mike12345/IriKQ72xo3/102223
+
 #EXTINF:-1 tvg-logo="https://mola01.koicdn.com/assets-global/images/mola_logo_horizontal.png" group-title="SPORTS", MOLA SPORT
 https://cdn-mxs-01.akamaized.net/Content/HLS/Live/channel(02d97239-cf8c-abac-8549-afd56a0b3924)/06.m3u8
 
-#EXTINF:-1 tvg-logo=https://vignette.wikia.nocookie.net/logopedia/images/a/a8/PPTV_2019.svg/revision/latest/scale-to-width-down/340?cb=20190815051944" group-title="SPORTS",PPTV SD
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a8/PPTV_2019.svg/revision/latest/scale-to-width-down/340?cb=20190815051944" group-title="SPORTS",PPTV SD
 http://183.182.100.184/live/pptvthai/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="PPTV 1 TH" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a8/PPTV_2019.svg/revision/latest/scale-to-width-down/340?cb=20190815051944" group-title="SPORTS",PPTV HD
