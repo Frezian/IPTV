@@ -3,6 +3,9 @@
 #EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_80.png" group-title="INDONESIA", RCTI
 http://tvku.live:8888/aris7812/3des18ars/1767
 
+#EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_80.png" group-title="INDONESIA", RCTI Backup
+http://portal.geniptv.com:8080/Ey8HYIl647/eDUhfzriy1/62199
+
 #EXTINF:-1 tvg-id="MNCTV.id" tvg-name="MNC TV ID" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_82.png" group-title="INDONESIA", MNC
 http://mantul.biz.id:8888/andrew/andrew/191
 
@@ -13,7 +16,7 @@ http://portal.geniptv.com:8080/Ey8HYIl647/eDUhfzriy1/62214
 http://mantul.biz.id:8888/andrew/andrew/206
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_antv_small1.png" group-title="INDONESIA", ANTV BACKUP
-https://vcdnjt.useetv.com:443/joss/15/antv/chunklist_w1093587531_b684100_sleng_177560.m3u8?enc=XfbC-Lmih8yA3SLw742zUw&exp=1586533597
+http://portal.geniptv.com:8080/Ey8HYIl647/eDUhfzriy1/62297
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_small1.png" group-title="INDONESIA", SCTV
 https://vcdnjt.useetv.com/joss/15/sctv/chunklist_w1027229960_b1344100_sleng_88719.m3u8
@@ -651,13 +654,22 @@ http://portal.geniptv.com:8080/Ey8HYIl647/eDUhfzriy1/1038
 #EXTINF:-1 tvg-logo="https://vfes-images.ott.kaltura.com/5e30ec9275474065b9866e553be7f917_288X162.png" group-title="SPORTS", REAL MADRID TV
 http://portal.geniptv.com:8080/Ey8HYIl647/eDUhfzriy1/1037
 
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/24/Sony_Ten_1.jpg/revision/latest/scale-to-width-down/340?cb=20190322143617" group-title="SPORTS", TEN 1 HD
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/24/Sony_Ten_1.jpg/revision/latest/scale-to-width-down/340?cb=20190322143617" group-title="SPORTS", TEN 1 SD
+http://portal.geniptv.com:8080/Ey8HYIl647/eDUhfzriy1/17923
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/24/Sony_Ten_1.jpg/revision/latest/scale-to-width-down/340?cb=20190322143617" group-title="SPORTS", TEN 1 FHD
 http://www.sansat.net:25461/ja1206m607/V0zcZ8axyQFkuaZ/54502
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/60/Sony_Ten_2.jpg/revision/latest/scale-to-width-down/340?cb=20190322143848" group-title="SPORTS", TEN 2 SD
+http://portal.geniptv.com:8080/Ey8HYIl647/eDUhfzriy1/17922
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/60/Sony_Ten_2.jpg/revision/latest/scale-to-width-down/340?cb=20190322143848" group-title="SPORTS", TEN 2 HD
 http://www.sansat.net:25461/ja1206m607/V0zcZ8axyQFkuaZ/54503
 
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/6c/Sony_Ten_3.png/revision/latest/scale-to-width-down/220?cb=20190322144135" group-title="SPORTS",  TEN 3 HD
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/6c/Sony_Ten_3.png/revision/latest/scale-to-width-down/220?cb=20190322144135" group-title="SPORTS", TEN 3 SD
+http://portal.geniptv.com:8080/Ey8HYIl647/eDUhfzriy1/17921
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/6c/Sony_Ten_3.png/revision/latest/scale-to-width-down/220?cb=20190322144135" group-title="SPORTS", TEN 3 HD
 http://www.sansat.net:25461/ja1206m607/V0zcZ8axyQFkuaZ/54504
 
 #EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/tv-station-skynet-sport-1-272.png" group-title="SPORTS", SKYNET 1
