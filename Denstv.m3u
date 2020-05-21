@@ -4,10 +4,13 @@
 http://tvku.live:8888/aris7812/3des18ars/1767
 
 #EXTINF:-1 tvg-id="MNCTV.id" tvg-name="MNC TV ID" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_82.png" group-title="INDONESIA", MNC
+http://mantul.biz.id:8888/andrew/andrew/191
+
+#EXTINF:-1 tvg-id="MNCTV.id" tvg-name="MNC TV ID" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_82.png" group-title="INDONESIA", MNC Backup
 http://portal.geniptv.com:8080/Ey8HYIl647/eDUhfzriy1/62214
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_antv_small1.png" group-title="INDONESIA", ANTV
-http://portal.geniptv.com:8080/Ey8HYIl647/eDUhfzriy1/62297
+http://mantul.biz.id:8888/andrew/andrew/206
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_antv_small1.png" group-title="INDONESIA", ANTV BACKUP
 https://vcdnjt.useetv.com:443/joss/15/antv/chunklist_w1093587531_b684100_sleng_177560.m3u8?enc=XfbC-Lmih8yA3SLw742zUw&exp=1586533597
@@ -16,10 +19,10 @@ https://vcdnjt.useetv.com:443/joss/15/antv/chunklist_w1093587531_b684100_sleng_1
 https://vcdnjt.useetv.com/joss/15/sctv/chunklist_w1027229960_b1344100_sleng_88719.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_indosiar_small1.png" group-title="INDONESIA", INDOSIAR
-http://portal.geniptv.com:8080/Ey8HYIl647/eDUhfzriy1/62236
+http://mantul.biz.id:8888/andrew/andrew/60
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_indosiar_small1.png" group-title="INDONESIA", INDOSIAR BACKUP
-http://mantul.biz.id:8888/andrew/andrew/60
+http://portal.geniptv.com:8080/Ey8HYIl647/eDUhfzriy1/62236
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_net_small1.png" group-title="INDONESIA", NET TV
 https://cdnbpp1.useetv.com/joss/15/net/chunklist_w1761005650_b894100_sleng_310393.m3u8
@@ -28,6 +31,9 @@ https://cdnbpp1.useetv.com/joss/15/net/chunklist_w1761005650_b894100_sleng_31039
 https://cdnkbl1.useetv.com/joss/15/net/chunklist_w783957863_b1344100_sleng_35526.m3u8
 
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_81.png" group-title="INDONESIA", GTV
+http://mantul.biz.id:8888/andrew/andrew/192
+
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_81.png" group-title="INDONESIA", GTV Backup
 http://portal.geniptv.com:8080/Ey8HYIl647/eDUhfzriy1/62243
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_trans7_small1.png" group-title="INDONESIA", TRANS 7
@@ -37,6 +43,9 @@ https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1271606575_b280000_sl
 http://video.detik.com/trans7/smil:trans7.smil/chunklist_w1925750281_b384000_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvone_small1.png" group-title="INDONESIA", TV ONE
+http://mantul.biz.id:8888/andrew/andrew/219
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvone_small1.png" group-title="INDONESIA", TV ONE Backup
 http://portal.geniptv.com:8080/Ey8HYIl647/eDUhfzriy1/62195
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_transtv_small1.png" group-title="INDONESIA", TRANS TV
@@ -133,10 +142,10 @@ http://mantul.biz.id:8888/andrew/andrew/146
 https://vcdnjt.useetv.com/joss/14/babyfirst/chunklist_w1050663769_b684100_sleng_69390.m3u8
 
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_39.jpg" group-title="KIDS", BOOMERANG
-http://portal.geniptv.com:8080/Ey8HYIl647/eDUhfzriy1/62281
+https://vcdnjt.useetv.com/joss/14/boomerang/chunklist_w1603072832_b684100_sleng_69450.m3u8
 
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_39.jpg" group-title="KIDS", BOOMERANG BACKUP
-https://vcdnjt.useetv.com/joss/14/boomerang/chunklist_w1603072832_b684100_sleng_69450.m3u8
+http://portal.geniptv.com:8080/Ey8HYIl647/eDUhfzriy1/62281
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/1280px-2014_Disney_Channel_logo.svg.png" group-title="KIDS",Disney Channel
 http://portal.geniptv.com:8080/Ey8HYIl647/eDUhfzriy1/62267
@@ -478,10 +487,10 @@ https://vcdnjt.useetv.com/joss/15/foxsport3/chunklist_w659832811_b1344100_sleng_
 http://34.107.144.139/live/fs1/chunks.m3u8?userAgent=
 
 #EXTINF:-1 tvg-id="FOXSports1.us" tvg-name="FOX SPORTS 1 (US)" tvg-logo="https://ia801509.us.archive.org/20/items/bmcrocks17_gmail_Tlc/USABetterLogo/foxsports1.png" group-title="SPORTS",FOX SPORTS 1 (US)
-http://portal.geniptv.com:8080/Ey8HYIl647/eDUhfzriy1/8996
+http://vip1080.us:8000/Hakan/asdfghj/9476
 
 #EXTINF:-1 tvg-id="FOXSports2.us" tvg-name="FOX SPORTS 2 (US)" tvg-logo="https://ia801509.us.archive.org/20/items/bmcrocks17_gmail_Tlc/USABetterLogo/foxsports2.png" group-title="SPORTS",FOX SPORTS 2 (US)
-http://portal.geniptv.com:8080/Ey8HYIl647/eDUhfzriy1/8995
+http://vip1080.us:8000/Hakan/asdfghj/9475
 
 #EXTINF:-1 tvg-id="BTSport1.uk" tvg-name="BT Sport 1 SD" tvg-logo="https://ia600109.us.archive.org/7/items/newfolder_20180122/btsport1.png" group-title="SPORTS",BT SPORT 1 SD
 http://interboxservice.co.uk:8080/mike12345/IriKQ72xo3/149743
