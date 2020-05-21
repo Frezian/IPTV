@@ -7,18 +7,18 @@ http://tvku.live:8888/aris7812/3des18ars/1767
 http://portal.geniptv.com:8080/Ey8HYIl647/eDUhfzriy1/62214
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_antv_small1.png" group-title="INDONESIA", ANTV
-https://vcdnjt.useetv.com:443/joss/15/antv/chunklist_w1093587531_b684100_sleng_177560.m3u8?enc=XfbC-Lmih8yA3SLw742zUw&exp=1586533597
+http://portal.geniptv.com:8080/Ey8HYIl647/eDUhfzriy1/62297
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_antv_small1.png" group-title="INDONESIA", ANTV 2
-http://rr2.dens.tv/s/s07/01.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_antv_small1.png" group-title="INDONESIA", ANTV BACKUP
+https://vcdnjt.useetv.com:443/joss/15/antv/chunklist_w1093587531_b684100_sleng_177560.m3u8?enc=XfbC-Lmih8yA3SLw742zUw&exp=1586533597
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_small1.png" group-title="INDONESIA", SCTV
 https://vcdnjt.useetv.com/joss/15/sctv/chunklist_w1027229960_b1344100_sleng_88719.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_indosiar_small1.png" group-title="INDONESIA", INDOSIAR
-https://vcdnjt.useetv.com/joss/15/indosiar/chunklist_w2123002469_b894100_sleng_471222.m3u8
+http://portal.geniptv.com:8080/Ey8HYIl647/eDUhfzriy1/62236
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_indosiar_small1.png" group-title="INDONESIA", INDOSIAR 2
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_indosiar_small1.png" group-title="INDONESIA", INDOSIAR BACKUP
 http://mantul.biz.id:8888/andrew/andrew/60
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_net_small1.png" group-title="INDONESIA", NET TV
@@ -549,17 +549,14 @@ https://vcdnjt.useetv.com:443/joss/15/useesports2/chunklist_w589224286_b684100_s
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1111842868908318721/lMvLaebw_400x400.jpg" group-title="SPORTS", TVRI SPORT
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="SPORTS", FIGHT TIME
-http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/.m3u8
-
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="SPORTS", FIGHT BOX
-https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
-
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/150x150fightsport.jpg" group-title="SPORTS",FIGHT SPORTS
 http://mantul.biz.id:8888/andrew/andrew/205
 
-EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/150x150fightsport.jpg", FIGHT SPORTS SERVER 2
-http://rr.dens.tv/h/h05/02.m3u8
+EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/150x150fightsport.jpg", UFC FIGHT PASS US
+http://portal.geniptv.com:8080/Ey8HYIl647/eDUhfzriy1/6421
+
+EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/150x150fightsport.jpg", WWE US
+http://portal.geniptv.com:8080/Ey8HYIl647/eDUhfzriy1/7778
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/Eurosport_1_Logo.jpg/800px-Eurosport_1_Logo.jpg" group-title="SPORTS", UK - EUROSPORT 1
 http://portal.geniptv.com:8080/Ey8HYIl647/eDUhfzriy1/1812
@@ -651,74 +648,20 @@ http://www.sansat.net:25461/ja1206m607/V0zcZ8axyQFkuaZ/54503
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/6c/Sony_Ten_3.png/revision/latest/scale-to-width-down/220?cb=20190322144135" group-title="SPORTS",  TEN 3 HD
 http://www.sansat.net:25461/ja1206m607/V0zcZ8axyQFkuaZ/54504
 
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="SPORTS", SKYNET 1
+#EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/tv-station-skynet-sport-1-272.png" group-title="SPORTS", SKYNET 1
 http://portal.geniptv.com:8080/Ey8HYIl647/eDUhfzriy1/8516
 
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="SPORTS", SKYNET 2
+#EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/tv-station-skynet-sport-2-273.png" group-title="SPORTS", SKYNET 2
 http://portal.geniptv.com:8080/Ey8HYIl647/eDUhfzriy1/8515
 
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="SPORTS", SKYNET 3
+#EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/tv-station-skynet-sport-3-274.png" group-title="SPORTS", SKYNET 3
 http://portal.geniptv.com:8080/Ey8HYIl647/eDUhfzriy1/8514
 
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="SPORTS", SKYNET 4
+#EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/tv-station-skynet-sport-4-275.png" group-title="SPORTS", SKYNET 4
 http://portal.geniptv.com:8080/Ey8HYIl647/eDUhfzriy1/8513
 
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="SPORTS", SKYNET 5
+#EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/tv-station-skynet-sport-5-276.png" group-title="SPORTS", SKYNET 5
 http://portal.geniptv.com:8080/Ey8HYIl647/eDUhfzriy1/8512
 
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="SPORTS", SKYNET 6
+#EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/tv-station-skynet-sport-6-277.png" group-title="SPORTS", SKYNET 6
 http://portal.geniptv.com:8080/Ey8HYIl647/eDUhfzriy1/8511
-
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="CCTV CHANNELS", Fairfield (MT) (Ski Slopes)
-http://76.75.8.116:80/mjpg/video.mjpg
-
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="CCTV CHANNELS", San Diego (CA) (Panda 2)
-http://160.111.252.72:1935/live_edge_panda/smil:panda03_all.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="CCTV CHANNELS", San Diego (CA) (Polar Bear)
-http://polarplunge.hls.camzonecdn.com/CamzoneStreams/polarplunge/Playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="CCTV CHANNELS", Sandusky (OH) (Cedar Point Park 1)
-http://cs2.pixelcaster.com:1935/live/cedar1.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="CCTV CHANNELS", Sandusky (OH) (Cedar Point Park 2)
-http://cs2.pixelcaster.com:1935/live/cedar2.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="CCTV CHANNELS", Wyoming (Devils Tower)
-http://72.36.32.28:80/mjpg/video.mjpg
-
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="CCTV CHANNELS", The Blue Mountains (Craigleith Ski Club)
-http://72.143.50.74:80/mjpg/video.mjpg
-
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="CCTV CHANNELS", Fairfield (MT) (Ski Slopes)
-http://76.75.8.116:80/mjpg/video.mjpg
-
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="CCTV CHANNELS", San Diego (CA) (Panda 2)
-http://160.111.252.72:1935/live_edge_panda/smil:panda03_all.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="CCTV CHANNELS", Roses (La Perola Beach)
-https://cdn-003.whatsupcams.com/hls/es_roses01.m3u8
-
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="CCTV CHANNELS", Roses (Port)
-https://cdn-002.whatsupcams.com/hls/es_roses02.m3u8
-
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="CCTV CHANNELS", Salou (Espig� del Moll)
-http://195.76.183.92:8888/mjpg/video.mjpg
-
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="CCTV CHANNELS", Salou (Passeig Jaume I)
-http://webcam.salou.cat:8889/axis-cgi/mjpg/video.cgi?resolution=380x290&dummy=1452859544402
-
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="CCTV CHANNELS", Foz do Igua�u (Friendship Bridge)
-https://5b33b873179a2.streamlock.net:1443/camerapontefoz/camerapontefoz.stream/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="CCTV CHANNELS", ?eba (West Beach)
-https://streaming.airmax.pl/atlantiskspj21/tracks-v1/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="CCTV CHANNELS", Ryazan Oblast (Vyshensky Monastery)
-http://212.26.225.115:80/mjpg/video.mjpg
-
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="CCTV CHANNELS", Mykonos (Old Port)
-https://cdn-002.whatsupcams.com/hls/gr_mykonos01.m3u8
-
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="CCTV CHANNELS", Chengdu (Panda Reserve)
-http://gccnchwc.v.cdn20.com/gc/xiongmao01_1.flv
