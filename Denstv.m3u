@@ -561,6 +561,10 @@ https://vcdnjt.useetv.com:443/joss/15/useesports2/chunklist_w589224286_b684100_s
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1111842868908318721/lMvLaebw_400x400.jpg" group-title="SPORTS", TVRI SPORT
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_nba_small1.png" group-title="SPORTS",
+https://vcdnjt.useetv.com/joss/15/nba/chunklist_w2141500514_b1344100_sleng_97037.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/150x150fightsport.jpg" group-title="SPORTS",FIGHT SPORTS
 http://portal.geniptv.com:8080/Ey8HYIl647/eDUhfzriy1/62258
 
