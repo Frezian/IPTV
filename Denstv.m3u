@@ -555,10 +555,10 @@ http://portal.geniptv.com:8080/Ey8HYIl647/eDUhfzriy1/62258
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/150x150fightsport.jpg" group-title="SPORTS",FIGHT SPORTS Backup
 http://mantul.biz.id:8888/andrew/andrew/205
 
-EXTINF:-1 tvg-logo="https://ufc-video.s3.amazonaws.com/image/Articles/big-fight-pass-logo.png", UFC FIGHT PASS US
+#EXTINF:-1 tvg-logo="https://ufc-video.s3.amazonaws.com/image/Articles/big-fight-pass-logo.png", UFC FIGHT PASS US
 http://portal.geniptv.com:8080/Ey8HYIl647/eDUhfzriy1/6421
 
-EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/150x150fightsport.jpg", WWE US
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/150x150fightsport.jpg", WWE US
 https://cdn.bleacherreport.net/images/team_logos/328x328/wwe.png
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/Eurosport_1_Logo.jpg/800px-Eurosport_1_Logo.jpg" group-title="SPORTS", UK - EUROSPORT 1
