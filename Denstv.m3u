@@ -4,19 +4,19 @@
 http://tvku.live:8888/aris7812/3des18ars/1767
 
 #EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_80.png" group-title="INDONESIA", RCTI Backup
-http://live.streamtv.to:8080/yjetfsAgC2/qK4UMFItvw/62199
+http://portal.geniptv.com:8080/woVtTKRu6M/BsE4Ct8Pwn/62199
 
 #EXTINF:-1 tvg-id="MNCTV.id" tvg-name="MNC TV ID" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_82.png" group-title="INDONESIA", MNC
 http://mantul.biz.id:8888/andrew/andrew/191
 
 #EXTINF:-1 tvg-id="MNCTV.id" tvg-name="MNC TV ID" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_82.png" group-title="INDONESIA", MNC Backup
-http://live.streamtv.to:8080/yjetfsAgC2/qK4UMFItvw/62214
+http://portal.geniptv.com:8080/woVtTKRu6M/BsE4Ct8Pwn/62214
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_antv_small1.png" group-title="INDONESIA", ANTV
 http://mantul.biz.id:8888/andrew/andrew/206
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_antv_small1.png" group-title="INDONESIA", ANTV BACKUP
-http://live.streamtv.to:8080/yjetfsAgC2/qK4UMFItvw/62297
+http://portal.geniptv.com:8080/woVtTKRu6M/BsE4Ct8Pwn/62297
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_small1.png" group-title="INDONESIA", SCTV
 https://vcdnjt.useetv.com/joss/15/sctv/chunklist_w1027229960_b1344100_sleng_88719.m3u8
@@ -25,7 +25,7 @@ https://vcdnjt.useetv.com/joss/15/sctv/chunklist_w1027229960_b1344100_sleng_8871
 http://mantul.biz.id:8888/andrew/andrew/60
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_indosiar_small1.png" group-title="INDONESIA", INDOSIAR BACKUP
-http://live.streamtv.to:8080/yjetfsAgC2/qK4UMFItvw/62236
+http://portal.geniptv.com:8080/woVtTKRu6M/BsE4Ct8Pwn/62236
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_net_small1.png" group-title="INDONESIA", NET TV
 https://cdnbpp1.useetv.com/joss/15/net/chunklist_w1761005650_b894100_sleng_310393.m3u8
@@ -37,7 +37,7 @@ https://cdnkbl1.useetv.com/joss/15/net/chunklist_w783957863_b1344100_sleng_35526
 http://mantul.biz.id:8888/andrew/andrew/192
 
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_81.png" group-title="INDONESIA", GTV Backup
-http://live.streamtv.to:8080/yjetfsAgC2/qK4UMFItvw/62243
+http://portal.geniptv.com:8080/woVtTKRu6M/BsE4Ct8Pwn/62243
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_trans7_small1.png" group-title="INDONESIA", TRANS 7
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1271606575_b280000_sleng.m3u8
@@ -49,7 +49,7 @@ http://video.detik.com/trans7/smil:trans7.smil/chunklist_w1925750281_b384000_sle
 http://mantul.biz.id:8888/andrew/andrew/219
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvone_small1.png" group-title="INDONESIA", TV ONE Backup
-http://live.streamtv.to:8080/yjetfsAgC2/qK4UMFItvw/62181
+http://portal.geniptv.com:8080/woVtTKRu6M/BsE4Ct8Pwn/62181
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_transtv_small1.png" group-title="INDONESIA", TRANS TV
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1825142121_b280000_sleng.m3u8
@@ -148,10 +148,10 @@ https://vcdnjt.useetv.com/joss/14/babyfirst/chunklist_w1050663769_b684100_sleng_
 https://vcdnjt.useetv.com/joss/14/boomerang/chunklist_w1603072832_b684100_sleng_69450.m3u8
 
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_39.jpg" group-title="KIDS", BOOMERANG BACKUP
-http://live.streamtv.to:8080/yjetfsAgC2/qK4UMFItvw/62281
+http://portal.geniptv.com:8080/woVtTKRu6M/BsE4Ct8Pwn/62281
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/1280px-2014_Disney_Channel_logo.svg.png" group-title="KIDS",Disney Channel
-http://live.streamtv.to:8080/yjetfsAgC2/qK4UMFItvw/62267
+http://portal.geniptv.com:8080/woVtTKRu6M/BsE4Ct8Pwn/62267
 
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/disney_junior.png" group-title="KIDS", DISNEY JUNIOR
 http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
@@ -169,10 +169,10 @@ https://vcdnjt.useetv.com/joss/14/horee/chunklist_w2132513250_b684100_sleng_875.
 http://45.126.83.51/session/5209f934-8ca8-11ea-b316-8a77b77bc726/uq2663/h/h22/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/6/64/MNC_Kids_2015.png" group-title="KIDS", MY KIDS HD
-http://live.streamtv.to:8080/yjetfsAgC2/qK4UMFItvw/62231
+http://portal.geniptv.com:8080/woVtTKRu6M/BsE4Ct8Pwn/62231
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/32/Miao-mi-logo-color.png/" group-title="KIDS", MIAO MI
-http://live.streamtv.to:8080/yjetfsAgC2/qK4UMFItvw/62223
+http://portal.geniptv.com:8080/woVtTKRu6M/BsE4Ct8Pwn/62223
 
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/nickjr.jpg" group-title="KIDS", NICK JR.
 https://vcdnjt.useetv.com/joss/14/nickjr/chunklist_w385685409_b684100_b684100_sleng_69513.m3u8
@@ -388,7 +388,7 @@ http://tvku.live:8888/aris7812/3des18ars/4833
 http://mantul.biz.id:8888/andrew/andrew/72
 
 #EXTINF:-1 tvg-logo="https://www.tiviplus.tv/wp-content/uploads/2019/08/HITS-MOVIES-Logo-250x154.png" group-title="MOVIES",HITS MOVIES
-http://live.streamtv.to:8080/yjetfsAgC2/qK4UMFItvw/62238
+http://portal.geniptv.com:8080/woVtTKRu6M/BsE4Ct8Pwn/62238
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_kplus_small1.png" group-title="MOVIES",K+
 https://vcdnjt.useetv.com/joss/15/kplus/chunklist_w298237442_b684100_sleng_255964.m3u8
@@ -451,16 +451,16 @@ https://edgejt7.useetv.com/joss/15/warner/chunklist_w1042470190_b1344100_sleng_4
 https://vcdnjt.useetv.com/joss/14/zbioskop/chunklist_w2085074683_b684100_sleng_63371.m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/54/Astro_Supersport_Plus_PyeongChang_2018.png" group-title="SPORTS",Astro SuperSport 1
-http://live.streamtv.to:8080/yjetfsAgC2/qK4UMFItvw/18623
+http://portal.geniptv.com:8080/woVtTKRu6M/BsE4Ct8Pwn/18623
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/06/Astro_Supersport_2_2015.png" group-title="SPORTS",Astro SuperSport 2
-http://live.streamtv.to:8080/yjetfsAgC2/qK4UMFItvw/18622
+http://portal.geniptv.com:8080/woVtTKRu6M/BsE4Ct8Pwn/18622
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a7/Astro_Supersport_3_2015.png" group-title="SPORTS",Astro SuperSport 3
-http://live.streamtv.to:8080/yjetfsAgC2/qK4UMFItvw/18621
+http://portal.geniptv.com:8080/woVtTKRu6M/BsE4Ct8Pwn/18621
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/9f/Astro_Supersport_4_2015.png" group-title="SPORTS",Astro SuperSport 4
-http://live.streamtv.to:8080/yjetfsAgC2/qK4UMFItvw/18620
+http://portal.geniptv.com:8080/woVtTKRu6M/BsE4Ct8Pwn/18620
 
 #EXTINF:-1 tvg-logo="https://i7.pngguru.com/preview/336/574/509/2018-motogp-season-motogp-2-moto2-circuit-ricardo-tormo-moto-gp.jpg" group-title="SPORTS", MOTO GP 1
 http://video.detik.com/trans7/smil:trans7.smil/chunklist_w1925750281_b384000_sleng.m3u8
@@ -574,7 +574,7 @@ http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Str
 https://vcdnjt.useetv.com/joss/15/nba/chunklist_w2141500514_b1344100_sleng_97037.m3u8
 
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/150x150fightsport.jpg" group-title="SPORTS",FIGHT SPORTS
-http://live.streamtv.to:8080/yjetfsAgC2/qK4UMFItvw/62258
+http://portal.geniptv.com:8080/woVtTKRu6M/BsE4Ct8Pwn/62258
 
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/150x150fightsport.jpg" group-title="SPORTS",FIGHT SPORTS Backup
 http://mantul.biz.id:8888/andrew/andrew/205
@@ -658,46 +658,46 @@ https://cdn-mxs-01.akamaized.net/Content/HLS/Live/channel(02d97239-cf8c-abac-854
 http://183.182.100.184/live/pptvthai/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="PPTV 1 TH" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a8/PPTV_2019.svg/revision/latest/scale-to-width-down/340?cb=20190815051944" group-title="SPORTS",PPTV HD
-http://live.streamtv.to:8080/yjetfsAgC2/qK4UMFItvw/8669
+http://portal.geniptv.com:8080/woVtTKRu6M/BsE4Ct8Pwn/8669
 
 #EXTINF:-1tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Football_club_barcelona_television.png" group-title="SPORTS",BARCA TV ES
-http://live.streamtv.to:8080/yjetfsAgC2/qK4UMFItvw/1038
+http://portal.geniptv.com:8080/woVtTKRu6M/BsE4Ct8Pwn/1038
 
 #EXTINF:-1 tvg-logo="https://vfes-images.ott.kaltura.com/5e30ec9275474065b9866e553be7f917_288X162.png" group-title="SPORTS", REAL MADRID TV
-http://live.streamtv.to:8080/yjetfsAgC2/qK4UMFItvw/1037
+http://portal.geniptv.com:8080/woVtTKRu6M/BsE4Ct8Pwn/1037
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/24/Sony_Ten_1.jpg/revision/latest/scale-to-width-down/340?cb=20190322143617" group-title="SPORTS", TEN 1 SD
-http://live.streamtv.to:8080/yjetfsAgC2/qK4UMFItvw/17923
+http://portal.geniptv.com:8080/woVtTKRu6M/BsE4Ct8Pwn/17923
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/24/Sony_Ten_1.jpg/revision/latest/scale-to-width-down/340?cb=20190322143617" group-title="SPORTS", TEN 1 FHD
 http://www.sansat.net:25461/ja1206m607/V0zcZ8axyQFkuaZ/54502
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/60/Sony_Ten_2.jpg/revision/latest/scale-to-width-down/340?cb=20190322143848" group-title="SPORTS", TEN 2 SD
-http://live.streamtv.to:8080/yjetfsAgC2/qK4UMFItvw/17922
+http://portal.geniptv.com:8080/woVtTKRu6M/BsE4Ct8Pwn/17922
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/60/Sony_Ten_2.jpg/revision/latest/scale-to-width-down/340?cb=20190322143848" group-title="SPORTS", TEN 2 HD
 http://www.sansat.net:25461/ja1206m607/V0zcZ8axyQFkuaZ/54503
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/6c/Sony_Ten_3.png/revision/latest/scale-to-width-down/220?cb=20190322144135" group-title="SPORTS", TEN 3 SD
-http://live.streamtv.to:8080/yjetfsAgC2/qK4UMFItvw/17921
+http://portal.geniptv.com:8080/woVtTKRu6M/BsE4Ct8Pwn/17921
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/6c/Sony_Ten_3.png/revision/latest/scale-to-width-down/220?cb=20190322144135" group-title="SPORTS", TEN 3 HD
 http://www.sansat.net:25461/ja1206m607/V0zcZ8axyQFkuaZ/54504
 
 #EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/tv-station-skynet-sport-1-272.png" group-title="SPORTS", SKYNET 1
-http://live.streamtv.to:8080/yjetfsAgC2/qK4UMFItvw/17073
+http://portal.geniptv.com:8080/woVtTKRu6M/BsE4Ct8Pwn/17073
 
 #EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/tv-station-skynet-sport-2-273.png" group-title="SPORTS", SKYNET 2
-http://live.streamtv.to:8080/yjetfsAgC2/qK4UMFItvw/17072
+http://portal.geniptv.com:8080/woVtTKRu6M/BsE4Ct8Pwn/17072
 
 #EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/tv-station-skynet-sport-3-274.png" group-title="SPORTS", SKYNET 3
-http://live.streamtv.to:8080/yjetfsAgC2/qK4UMFItvw/17071
+http://portal.geniptv.com:8080/woVtTKRu6M/BsE4Ct8Pwn/17071
 
 #EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/tv-station-skynet-sport-4-275.png" group-title="SPORTS", SKYNET 4
-http://live.streamtv.to:8080/yjetfsAgC2/qK4UMFItvw/17070
+http://portal.geniptv.com:8080/woVtTKRu6M/BsE4Ct8Pwn/17070
 
 #EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/tv-station-skynet-sport-5-276.png" group-title="SPORTS", SKYNET 5
-http://live.streamtv.to:8080/yjetfsAgC2/qK4UMFItvw/17069
+http://portal.geniptv.com:8080/woVtTKRu6M/BsE4Ct8Pwn/17069
 
 #EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/tv-station-skynet-sport-6-277.png" group-title="SPORTS", SKYNET 6
-http://live.streamtv.to:8080/yjetfsAgC2/qK4UMFItvw/17068
+http://portal.geniptv.com:8080/woVtTKRu6M/BsE4Ct8Pwn/17068
