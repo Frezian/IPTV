@@ -1626,46 +1626,200 @@ http://a2.skynets.tv:8880/czw6m008/utWeSIaLbv/30054
 http://a2.skynets.tv:8880/czw6m008/utWeSIaLbv/30053
 #EXTINF:-1 tvg-logo="" group-title="USA SPORTS",MSG2
 http://a2.skynets.tv:8880/czw6m008/utWeSIaLbv/30052
-#EXTINF:-1 tvg-logo="" group-title="USA SPORTS",,US139:MSGPlus
+#EXTINF:-1 tvg-logo="" group-title="USA SPORTS",US139:MSGPlus
 http://a2.skynets.tv:8880/czw6m008/utWeSIaLbv/30051
-#EXTINF:-1 tvg-logo="" group-title="USA SPORTS",,US140:MSG
+#EXTINF:-1 tvg-logo="" group-title="USA SPORTS",US140:MSG
 http://a2.skynets.tv:8880/czw6m008/utWeSIaLbv/30050
-#EXTINF:-1 tvg-logo="" group-title="USA SPORTS",,US141:BTN4
+#EXTINF:-1 tvg-logo="" group-title="USA SPORTS",US141:BTN4
 http://a2.skynets.tv:8880/czw6m008/utWeSIaLbv/30049
-#EXTINF:-1 tvg-logo="" group-title="USA SPORTS",,US142:BTN3
+#EXTINF:-1 tvg-logo="" group-title="USA SPORTS",US142:BTN3
 http://a2.skynets.tv:8880/czw6m008/utWeSIaLbv/30048
-#EXTINF:-1 tvg-logo="" group-title="USA SPORTS",,US143:BTN2
+#EXTINF:-1 tvg-logo="" group-title="USA SPORTS",US143:BTN2
 http://a2.skynets.tv:8880/czw6m008/utWeSIaLbv/30047
-#EXTINF:-1 tvg-logo="" group-title="USA SPORTS",,US144:Big_Ten_Network
+#EXTINF:-1 tvg-logo="" group-title="USA SPORTS",US144:Big_Ten_Network
 http://a2.skynets.tv:8880/czw6m008/utWeSIaLbv/30046
-#EXTINF:-1 tvg-logo="" group-title="USA SPORTS",,US145:Fight_Network
+#EXTINF:-1 tvg-logo="" group-title="USA SPORTS",US145:Fight_Network
 http://a2.skynets.tv:8880/czw6m008/utWeSIaLbv/30045
-#EXTINF:-1 tvg-logo="" group-title="USA SPORTS",,US146:FNTSY_Sports_Network
+#EXTINF:-1 tvg-logo="" group-title="USA SPORTS",US146:FNTSY_Sports_Network
 http://a2.skynets.tv:8880/czw6m008/utWeSIaLbv/30044
-#EXTINF:-1 tvg-logo="" group-title="USA SPORTS",,US147:VSiN
+#EXTINF:-1 tvg-logo="" group-title="USA SPORTS",US147:VSiN
 http://a2.skynets.tv:8880/czw6m008/utWeSIaLbv/30043
 #EXTINF:-1 tvg-logo="" group-title="USA SPORTS",,US148:Ginx_TV
 http://a2.skynets.tv:8880/czw6m008/utWeSIaLbv/30042
 #EXTINF:-1 tvg-logo="" group-title="USA SPORTS",,US149:ATT_SportsNet_SW_ALT
 http://a2.skynets.tv:8880/czw6m008/utWeSIaLbv/30041
-#EXTINF:-1 tvg-logo="" group-title="USA SPORTS",,US150:World_Fishing_Network
+#EXTINF:-1 tvg-logo="" group-title="USA SPORTS",US150:World_Fishing_Network
 http://a2.skynets.tv:8880/czw6m008/utWeSIaLbv/30040
-#EXTINF:-1 tvg-logo="" group-title="USA SPORTS",,US151:NESN_BOS
+#EXTINF:-1 tvg-logo="" group-title="USA SPORTS",US151:NESN_BOS
 http://a2.skynets.tv:8880/czw6m008/utWeSIaLbv/30039
-#EXTINF:-1 tvg-logo="" group-title="USA SPORTS",,US152:NESN_PLUS
+#EXTINF:-1 tvg-logo="" group-title="USA SPORTS",US152:NESN_PLUS
 http://a2.skynets.tv:8880/czw6m008/utWeSIaLbv/30038
-#EXTINF:-1 tvg-logo="" group-title="USA SPORTS",,US153:Sportsman_Channel
+#EXTINF:-1 tvg-logo="" group-title="USA SPORTS",US153:Sportsman_Channel
 http://a2.skynets.tv:8880/czw6m008/utWeSIaLbv/30037
-#EXTINF:-1 tvg-logo="" group-title="USA SPORTS",,US155:Eleven_Sports
+#EXTINF:-1 tvg-logo="" group-title="USA SPORTS",US155:Eleven_Sports
 http://a2.skynets.tv:8880/czw6m008/utWeSIaLbv/30035
-#EXTINF:-1 tvg-logo="" group-title="USA SPORTS",,US661:PVV BOXING 2
+#EXTINF:-1 tvg-logo="" group-title="USA SPORTS",US661:PVV BOXING 2
 http://a2.skynets.tv:8880/czw6m008/utWeSIaLbv/29529
-#EXTINF:-1 tvg-logo="" group-title="USA SPORTS",,US662:PPV BOXING 3
+#EXTINF:-1 tvg-logo="" group-title="USA SPORTS",US662:PPV BOXING 3
 http://a2.skynets.tv:8880/czw6m008/utWeSIaLbv/29528
-#EXTINF:-1 tvg-logo="" group-title="USA SPORTS",,US663:PPV BOXING 4
+#EXTINF:-1 tvg-logo="" group-title="USA SPORTS",US663:PPV BOXING 4
 http://a2.skynets.tv:8880/czw6m008/utWeSIaLbv/29527
-#EXTINF:-1 tvg-logo="" group-title="USA SPORTS",,US664:PPV BOXING 5
+#EXTINF:-1 tvg-logo="" group-title="USA SPORTS",US664:PPV BOXING 5
 http://a2.skynets.tv:8880/czw6m008/utWeSIaLbv/29526
+
+#EXTINF:-1 tvg-logo="" group-title="FRANCE SPORTS",FR003:AB Moteur
+http://a2.skynets.tv:8880/czw6m008/utWeSIaLbv/2863
+#EXTINF:-1 tvg-logo="" group-title="FRANCE SPORTS",FR009:Bein Sport 4 Max
+http://a2.skynets.tv:8880/czw6m008/utWeSIaLbv/2857
+#EXTINF:-1 tvg-logo="" group-title="FRANCE SPORTS",FR011:Bein Sport 5 Max
+http://a2.skynets.tv:8880/czw6m008/utWeSIaLbv/2855
+#EXTINF:-1 tvg-logo="" group-title="FRANCE SPORTS",FR012:Bein Sport 6 Max
+http://a2.skynets.tv:8880/czw6m008/utWeSIaLbv/2854
+#EXTINF:-1 tvg-logo="" group-title="FRANCE SPORTS",FR013:Bein Sport 7 Max
+http://a2.skynets.tv:8880/czw6m008/utWeSIaLbv/2853
+#EXTINF:-1 tvg-logo="" group-title="FRANCE SPORTS",FR014:Bein Sport 8 Max
+http://a2.skynets.tv:8880/czw6m008/utWeSIaLbv/2852
+#EXTINF:-1 tvg-logo="" group-title="FRANCE SPORTS",FR015:Bein Sport 9 Max
+http://a2.skynets.tv:8880/czw6m008/utWeSIaLbv/2851
+#EXTINF:-1 tvg-logo="" group-title="FRANCE SPORTS",FR010:Bein Sport 10 Max
+http://a2.skynets.tv:8880/czw6m008/utWeSIaLbv/2856
+#EXTINF:-1 tvg-logo="" group-title="FRANCE SPORTS",FR017:Bein Sport 1
+http://a2.skynets.tv:8880/czw6m008/utWeSIaLbv/2849
+#EXTINF:-1 tvg-logo="" group-title="FRANCE SPORTS",FR018:Bein Sport  2
+http://a2.skynets.tv:8880/czw6m008/utWeSIaLbv/2848
+#EXTINF:-1 tvg-logo="" group-title="FRANCE SPORTS",FR016:Bein Sport 3
+http://a2.skynets.tv:8880/czw6m008/utWeSIaLbv/2850
+#EXTINF:-1 tvg-logo="" group-title="FRANCE SPORTS",FR027:Canal  Sport
+http://a2.skynets.tv:8880/czw6m008/utWeSIaLbv/2839
+#EXTINF:-1 tvg-logo="" group-title="FRANCE SPORTS",FR050:Euro Sport 1 FR
+http://a2.skynets.tv:8880/czw6m008/utWeSIaLbv/2816
+#EXTINF:-1 tvg-logo="" group-title="FRANCE SPORTS",FR051:Euro Sport 2 FR
+http://a2.skynets.tv:8880/czw6m008/utWeSIaLbv/2815
+#EXTINF:-1 tvg-logo="" group-title="FRANCE SPORTS",FR062:Info Sport
+http://a2.skynets.tv:8880/czw6m008/utWeSIaLbv/2804
+#EXTINF:-1 tvg-logo="" group-title="FRANCE SPORTS",FR081:SFR Sport 1
+http://a2.skynets.tv:8880/czw6m008/utWeSIaLbv/2785
+#EXTINF:-1 tvg-logo="" group-title="FRANCE SPORTS",FR082:SFR Sport 2
+http://a2.skynets.tv:8880/czw6m008/utWeSIaLbv/2784
+#EXTINF:-1 tvg-logo="" group-title="FRANCE SPORTS",FR083:SFR Sport 3
+http://a2.skynets.tv:8880/czw6m008/utWeSIaLbv/2783
+#EXTINF:-1 tvg-logo="" group-title="FRANCE SPORTS",FR080:SFR Sport 4
+http://a2.skynets.tv:8880/czw6m008/utWeSIaLbv/2786
+#EXTINF:-1 tvg-logo="" group-title="FRANCE SPORTS",FR136:Persiana 1
+http://a2.skynets.tv:8880/czw6m008/utWeSIaLbv/28173
+#EXTINF:-1 tvg-logo="" group-title="FRANCE SPORTS",FR112:Eurosport 1
+http://a2.skynets.tv:8880/czw6m008/utWeSIaLbv/28197
+#EXTINF:-1 tvg-logo="" group-title="FRANCE SPORTS",FR111:Eurosport 2
+http://a2.skynets.tv:8880/czw6m008/utWeSIaLbv/28198
+#EXTINF:-1 tvg-logo="" group-title="FRANCE SPORTS",FR266:EUROSPORT 1 FHD
+http://a2.skynets.tv:8880/czw6m008/utWeSIaLbv/28043
+#EXTINF:-1 tvg-logo="" group-title="FRANCE SPORTS",FR267:EUROSPORT 2 FHD
+http://a2.skynets.tv:8880/czw6m008/utWeSIaLbv/28042
+#EXTINF:-1 tvg-logo="" group-title="FRANCE SPORTS",FR268:EXTREME SPORTS HD
+http://a2.skynets.tv:8880/czw6m008/utWeSIaLbv/28041
+#EXTINF:-1 tvg-logo="" group-title="FRANCE SPORTS",FR177:BFM SPORT
+http://a2.skynets.tv:8880/czw6m008/utWeSIaLbv/28132
+#EXTINF:-1 tvg-logo="" group-title="FRANCE SPORTS",FR113:INFOSPORT
+http://a2.skynets.tv:8880/czw6m008/utWeSIaLbv/28196
+#EXTINF:-1 tvg-logo="" group-title="FRANCE SPORTS",FR329:Foot +
+http://a2.skynets.tv:8880/czw6m008/utWeSIaLbv/27980
+#EXTINF:-1 tvg-logo="" group-title="FRANCE SPORTS",FR349:RMC SPORT 1 HD
+http://a2.skynets.tv:8880/czw6m008/utWeSIaLbv/27960
+#EXTINF:-1 tvg-logo="" group-title="FRANCE SPORTS",FR350:RMC SPORT 2 HD
+http://a2.skynets.tv:8880/czw6m008/utWeSIaLbv/27959
+#EXTINF:-1 tvg-logo="" group-title="FRANCE SPORTS",FR351:RMC SPORT 3 HD
+http://a2.skynets.tv:8880/czw6m008/utWeSIaLbv/27958
+#EXTINF:-1 tvg-logo="" group-title="FRANCE SPORTS",FR352:RMC SPORT 4 HD
+http://a2.skynets.tv:8880/czw6m008/utWeSIaLbv/27957
+#EXTINF:-1 tvg-logo="" group-title="FRANCE SPORTS",FR337:RMC ACCESS 1
+http://a2.skynets.tv:8880/czw6m008/utWeSIaLbv/27972
+#EXTINF:-1 tvg-logo="" group-title="FRANCE SPORTS",FR338:RMC ACCESS  2
+http://a2.skynets.tv:8880/czw6m008/utWeSIaLbv/27971
+
+#EXTINF:-1 tvg-logo="" group-title="NETHERLAND SPORTS",NL001:Ziggo Sport Select FHD 1080
+http://a2.skynets.tv:8880/czw6m008/utWeSIaLbv/31530
+#EXTINF:-1 tvg-logo="" group-title="NETHERLAND SPORTS",NL003:Sport 1 Voetbal
+http://a2.skynets.tv:8880/czw6m008/utWeSIaLbv/31528
+#EXTINF:-1 tvg-logo="" group-title="NETHERLAND SPORTS",NL008:Fox Sports 6
+http://a2.skynets.tv:8880/czw6m008/utWeSIaLbv/31523
+#EXTINF:-1 tvg-logo="" group-title="NETHERLAND SPORTS",NL009:Fox Sports 5
+http://a2.skynets.tv:8880/czw6m008/utWeSIaLbv/31522
+#EXTINF:-1 tvg-logo="" group-title="NETHERLAND SPORTS",NL010:Fox Sports 4
+http://a2.skynets.tv:8880/czw6m008/utWeSIaLbv/31521
+#EXTINF:-1 tvg-logo="" group-title="NETHERLAND SPORTS",NL011:Fox Sports 3
+http://a2.skynets.tv:8880/czw6m008/utWeSIaLbv/31520
+#EXTINF:-1 tvg-logo="" group-title="NETHERLAND SPORTS",NL012:Fox Sports 2
+http://a2.skynets.tv:8880/czw6m008/utWeSIaLbv/31519
+#EXTINF:-1 tvg-logo="" group-title="NETHERLAND SPORTS",NL013:Fox Sports 1
+http://a2.skynets.tv:8880/czw6m008/utWeSIaLbv/31518
+#EXTINF:-1 tvg-logo="" group-title="NETHERLAND SPORTS",NL014:Eurosport 1 FHD 1080
+http://a2.skynets.tv:8880/czw6m008/utWeSIaLbv/31517
+#EXTINF:-1 tvg-logo="" group-title="NETHERLAND SPORTS",NL015:Eurosport 2 HD
+http://a2.skynets.tv:8880/czw6m008/utWeSIaLbv/31516
+#EXTINF:-1 tvg-logo="" group-title="NETHERLAND SPORTS",NL017:FOX Sports 1 FHD 1080
+http://a2.skynets.tv:8880/czw6m008/utWeSIaLbv/31514
+#EXTINF:-1 tvg-logo="" group-title="NETHERLAND SPORTS",NL018:FOX Sports 2 HD
+http://a2.skynets.tv:8880/czw6m008/utWeSIaLbv/31513
+#EXTINF:-1 tvg-logo="" group-title="NETHERLAND SPORTS",NL023:Fox Sports 4 HD ( 1080P )
+http://a2.skynets.tv:8880/czw6m008/utWeSIaLbv/31508
+#EXTINF:-1 tvg-logo="" group-title="NETHERLAND SPORTS",NL024:Fox Sports 5 HD ( 1080P )
+http://a2.skynets.tv:8880/czw6m008/utWeSIaLbv/31507
+#EXTINF:-1 tvg-logo="" group-title="NETHERLAND SPORTS",NL025:FOX Sports 3 HD ( 1080P )
+http://a2.skynets.tv:8880/czw6m008/utWeSIaLbv/31506
+#EXTINF:-1 tvg-logo="" group-title="NETHERLAND SPORTS",NL026:Ziggo Sport.Voetbal
+http://a2.skynets.tv:8880/czw6m008/utWeSIaLbv/31505
+#EXTINF:-1 tvg-logo="" group-title="NETHERLAND SPORTS",NL027:Ziggo Sport Select HD
+http://a2.skynets.tv:8880/czw6m008/utWeSIaLbv/31504
+#EXTINF:-1 tvg-logo="" group-title="NETHERLAND SPORTS",NL028:Ziggo Sport Racing
+http://a2.skynets.tv:8880/czw6m008/utWeSIaLbv/31503
+#EXTINF:-1 tvg-logo="" group-title="NETHERLAND SPORTS",NL029:Ziggo Sport Golf
+http://a2.skynets.tv:8880/czw6m008/utWeSIaLbv/31502
+#EXTINF:-1 tvg-logo="" group-title="NETHERLAND SPORTS",NL030:Ziggo Sport Extra2
+http://a2.skynets.tv:8880/czw6m008/utWeSIaLbv/31501
+#EXTINF:-1 tvg-logo="" group-title="NETHERLAND SPORTS",NL031:Ziggo Sport Extra1
+http://a2.skynets.tv:8880/czw6m008/utWeSIaLbv/31500
+#EXTINF:-1 tvg-logo="" group-title="NETHERLAND SPORTS",NL089:EUROSPORT 1 FHD
+http://a2.skynets.tv:8880/czw6m008/utWeSIaLbv/31442
+#EXTINF:-1 tvg-logo="" group-title="NETHERLAND SPORTS",NL090:EUROSPORT 2 HD
+http://a2.skynets.tv:8880/czw6m008/utWeSIaLbv/31441
+#EXTINF:-1 tvg-logo="" group-title="NETHERLAND SPORTS",NL091:Extreme Sports Channel
+http://a2.skynets.tv:8880/czw6m008/utWeSIaLbv/31440
+#EXTINF:-1 tvg-logo="" group-title="NETHERLAND SPORTS",NL100:FOX SPORTS 1 EREDIVISIE HD
+http://a2.skynets.tv:8880/czw6m008/utWeSIaLbv/31431
+#EXTINF:-1 tvg-logo="" group-title="NETHERLAND SPORTS",NL101:FOX SPORTS 1 HD
+http://a2.skynets.tv:8880/czw6m008/utWeSIaLbv/31430
+#EXTINF:-1 tvg-logo="" group-title="NETHERLAND SPORTS",NL102:FOX SPORTS 2 HD
+http://a2.skynets.tv:8880/czw6m008/utWeSIaLbv/31429
+#EXTINF:-1 tvg-logo="" group-title="NETHERLAND SPORTS",NL103:FOX SPORTS 2 INTERNATIONAL
+http://a2.skynets.tv:8880/czw6m008/utWeSIaLbv/31428
+#EXTINF:-1 tvg-logo="" group-title="NETHERLAND SPORTS",NL104:FOX SPORTS 3 EREDIVISIE
+http://a2.skynets.tv:8880/czw6m008/utWeSIaLbv/31427
+#EXTINF:-1 tvg-logo="" group-title="NETHERLAND SPORTS",NL105:FOX SPORTS 3 HD
+http://a2.skynets.tv:8880/czw6m008/utWeSIaLbv/31426
+#EXTINF:-1 tvg-logo="" group-title="NETHERLAND SPORTS",NL106:FOX SPORTS 4 HD
+http://a2.skynets.tv:8880/czw6m008/utWeSIaLbv/31425
+#EXTINF:-1 tvg-logo="" group-title="NETHERLAND SPORTS",NL107:FOX SPORTS 4 INTERNATIONAL
+http://a2.skynets.tv:8880/czw6m008/utWeSIaLbv/31424
+#EXTINF:-1 tvg-logo="" group-title="NETHERLAND SPORTS",NL108:FOX SPORTS 5 EREDIVISIE HD
+http://a2.skynets.tv:8880/czw6m008/utWeSIaLbv/31423
+#EXTINF:-1 tvg-logo="" group-title="NETHERLAND SPORTS",NL109:FOX SPORTS 5 HD
+http://a2.skynets.tv:8880/czw6m008/utWeSIaLbv/31422
+#EXTINF:-1 tvg-logo="" group-title="NETHERLAND SPORTS",NL110:FOX SPORTS 6 HD
+http://a2.skynets.tv:8880/czw6m008/utWeSIaLbv/31421
+#EXTINF:-1 tvg-logo="" group-title="NETHERLAND SPORTS",NL111:FOX SPORTS 6 INTERNATIONAL
+http://a2.skynets.tv:8880/czw6m008/utWeSIaLbv/31420
+#EXTINF:-1 tvg-logo="" group-title="NETHERLAND SPORTS",NL115:Golf HD
+http://a2.skynets.tv:8880/czw6m008/utWeSIaLbv/31416
+#EXTINF:-1 tvg-logo="" group-title="NETHERLAND SPORTS",NL125:Motors TV
+http://a2.skynets.tv:8880/czw6m008/utWeSIaLbv/31406
+#EXTINF:-1 tvg-logo="" group-title="NETHERLAND SPORTS",NL126:Ziggo Sport Voetbal HD
+http://a2.skynets.tv:8880/czw6m008/utWeSIaLbv/31405
+#EXTINF:-1 tvg-logo="" group-title="NETHERLAND SPORTS",NL127:Ziggo Sport DOCU HD
+http://a2.skynets.tv:8880/czw6m008/utWeSIaLbv/31404
+#EXTINF:-1 tvg-logo="" group-title="NETHERLAND SPORTS",NL152:Ziggo Sport Racing HD
+http://a2.skynets.tv:8880/czw6m008/utWeSIaLbv/31379
+#EXTINF:-1 tvg-logo="" group-title="NETHERLAND SPORTS",NL165:Ziggo Sport GOLF HD
+http://a2.skynets.tv:8880/czw6m008/utWeSIaLbv/31366
 
 #EXTINF:-1 tvg-logo="" group-title="INDIA CHANNEL",INDIA-MOVIES | And Pictures HD
 http://boyztoyz.us:80/RonDenston/15.05.19/4732
