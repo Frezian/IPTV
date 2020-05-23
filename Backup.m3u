@@ -1,0 +1,2185 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_80.png" group-title="INDONESIA", RCTI
+https://cdn-livetv5.metube.id/hls/rcti_480/index.m3u8
+
+#EXTINF:-1 tvg-id="MNCTV.id" tvg-name="MNC TV ID" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_82.png" group-title="INDONESIA", MNC
+https://cdn-livetv5.metube.id/hls/mnc_480/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_antv_small1.png" group-title="INDONESIA", ANTV
+https://vcdnjt.useetv.com/joss/15/antv/chunklist_w226638633_b894100_sleng_87965.m3u8
+
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_81.png" group-title="INDONESIA", GTV
+http://mantul.biz.id:8888/Handi5/Handi5ok/192
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_small1.png" group-title="INDONESIA", SCTV
+https://vcdnjt.useetv.com/joss/15/sctv/chunklist_w1027229960_b1344100_sleng_88719.m3u8
+
+#EXTINF:-1,INDOSIAR
+https://cdnmdc2.useetv.com/joss/15/indosiar/chunklist_w72459728_b894100_sleng_108233.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_net_small1.png" group-title="INDONESIA", NET TV
+https://cdnbpp1.useetv.com/joss/15/net/chunklist_w1761005650_b894100_sleng_310393.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_net_small1.png" group-title="INDONESIA", NET TV HD
+https://cdnkbl1.useetv.com/joss/15/net/chunklist_w783957863_b1344100_sleng_35526.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_trans7_small1.png" group-title="INDONESIA", TRANS 7
+https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1271606575_b280000_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_trans7_small1.png" group-title="INDONESIA", TRANS 7 HD
+http://video.detik.com/trans7/smil:trans7.smil/chunklist_w1925750281_b384000_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvone_small1.png" group-title="INDONESIA", TV ONE
+https://cdn-accedo-01.akamaized.net/Content/HLS/Live/channel(7e352a4d-dcc4-4c48-b06c-38c7b36b14d4)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_transtv_small1.png" group-title="INDONESIA", TRANS TV
+https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1825142121_b280000_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_transtv_small1.png" group-title="INDONESIA", TRANS TV HD
+https://cdnkbl1.useetv.com/joss/15/transtv/chunklist_w865643091_b1344100_sleng_355283.m3u8
+
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_83.png" group-title="INDONESIA", INEWS
+https://cdn-livetv6.metube.id/hls/inewstv_480/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_rtv_small1.png" group-title="INDONESIA", RTV
+https://cdnkbl1.useetv.com/joss/14/rtv/chunklist_w1794295740_b684100_sleng_180671.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_beritasatu_small1.png" group-title="INDONESIA", BERITASATU
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b846000.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cnnindonesia_small1.png" group-title="INDONESIA", CNN INDONESIA
+https://live.cnnindonesia.com:443/livecnn/smil:cnntv.smil/chunklist_w1241960898_b192000_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cnnindonesia_small1.png" group-title="INDONESIA", CNN INDONESIA HD
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w825764297_b384000_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/cnbc.png" group-title="INDONESIA", CNBC INDONESIA
+https://live.cnbcindonesia.com:443/livecnbc/smil:cnbctv.smil/chunklist_w290751272_b192000_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_kompastv_small1.png" group-title="INDONESIA",KOMPAS TV
+https://cdnkbl1.useetv.com/joss/15/kompastv/chunklist_w853736691_b894100_sleng_366384.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_kompastv_small1.png" group-title="INDONESIA",KOMPAS TV mHD
+https://stream-02.sg1.dailymotion.com/sec(hq_e0q5VHX_FvDCk_Uz4G1DeTSXmlK3KSyY4q7i3QMc)/dm/3/x6pz4sa/d/live-3.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_metrotv_small1.png" group-title="INDONESIA", METRO TV
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvri_small1.png" group-title="INDONESIA", TVRI
+https://vcdnjt.useetv.com/joss/15/tvri/chunklist_w1013761133_b684100_sleng_270843.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvri_small1.png" group-title="INDONESIA", TVRI 2
+http://210.210.155.35:80/qwr9ew/s/s11/02.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvri_small1.png" group-title="INDONESIA", TVRI NASIONAL
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvri_small1.png" group-title="INDONESIA", TVRI DKI JAKARTA
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIDKI)/Stream(03)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvri_small1.png" group-title="INDONESIA", TVRI BUDAYA
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/Stream(03)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1111842868908318721/lMvLaebw_400x400.jpg" group-title="INDONESIA", TVRI SPORT HD
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_animax_small.png" group-title="INDONESIA", ANIMAX
+https://vcdnjt.useetv.com/joss/14/animax/chunklist_w739131567_b684100_sleng_70005.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_aniplus_big1.png" group-title="INDONESIA",ANIPLUS
+https://vcdnjt.useetv.com/joss/14/aniplus/chunklist_w1639792963_b684100_sleng_70259.m3u8
+
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/cartoon_network.png" group-title="INDONESIA",CARTOON NETWORK
+https://vcdnjt.useetv.com/joss/14/cartoonnetwork/chunklist_w1073351013_b684100_sleng_54935.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_egg_small1.png" group-title="INDONESIA",EGG NETWORK
+https://cdnkbl1.useetv.com/joss/14/egg/chunklist_w1805008036_b684100_sleng_122487.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_babyfirst_small.png" group-title="INDONESIA", BABY FIRST
+https://vcdnjt.useetv.com/joss/14/babyfirst/chunklist_w1050663769_b684100_sleng_69390.m3u8
+
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_39.jpg" group-title="INDONESIA", BOOMERANG
+https://vcdnjt.useetv.com/joss/14/boomerang/chunklist_w1603072832_b684100_sleng_69450.m3u8
+
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/disney_junior.png" group-title="INDONESIA", DISNEY JUNIOR
+http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_duck_small1.png" group-title="INDONESIA", DUCK TV
+https://vcdnjt.useetv.com/joss/14/ducktv/chunklist_w1015900296_b684100_sleng_30766.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_duniaanak_small1.png" group-title="INDONESIA", DUNIA ANAK
+https://vcdnjt.useetv.com/joss/14/duniaanak/chunklist_w208610592_b684100_sleng_69494.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_horee_small.png" group-title="INDONESIA", HOREE
+https://vcdnjt.useetv.com/joss/14/horee/chunklist_w2132513250_b684100_sleng_875.m3u8
+
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/nickjr.jpg" group-title="INDONESIA", NICK JR.
+https://vcdnjt.useetv.com/joss/14/nickjr/chunklist_w385685409_b684100_b684100_sleng_69513.m3u8
+
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/nickelodeon.png" group-title="INDONESIA", NICKELODEON
+https://vcdnjt.useetv.com/joss/14/nickelodeon/chunklist_w1745396667_b684100_sleng_69533.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_spacetoonplus_small1.png" group-title="INDONESIA", SPACETOON PLUS
+https://vcdnjt.useetv.com/joss/14/spacetoonplus/chunklist_w549968608_b684100_sleng_69630.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.maryville.edu/wp-content/uploads/2017/08/channel-logo-animal-planet-1.png" group-title="INDONESIA",Animal Planet HD
+http://203.153.218.28:9981/stream/channelid/1943600623
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/230px-CGTN.svg.png" group-title="INDONESIA",CGTN
+https://cdnkbl1.useetv.com/joss/14/cgtndocumentary/chunklist_w688449162_b684100_sleng_122528.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/d1/60/9b/d1609bafd67a9eb5ac103a31da889098.png" group-title="INDONESIA",Discovery Channel
+https://vcdnjt.useetv.com/joss/15/disco/chunklist_w149297996_b894100_sleng_99925.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/220px-History_Logo.svg.png" group-title="INDONESIA",History
+http://203.153.218.28:9981/stream/channelid/1868154562?ticket=21CAD98B63EE6B1D16AFD5B33F7C68F48FA445CD&profile=pass
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeopeople_small.png" group-title="INDONESIA",Nat Geo People
+http://203.153.218.28:9981/stream/channelid/1114683377?ticket=DB6A54311D3D267C877A5894268561D2577EE4D3&profile=pass
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeowild_small.png" group-title="INDONESIA",Nat Geo Wild
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/03.m3u8
+
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/axn_150x150.jpg" group-title="INDONESIA", AXN
+https://vcdnjt.useetv.com:443/joss/15/axn/chunklist_w1332206438_b684100_sleng_177560.m3u8?enc=oKFj9Xw1YXcLgJJxFI-NrA&exp=1587470166
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_blueant_small.png" group-title="INDONESIA",BLUE ANT ENTERTAINMENT
+http://210.210.155.35:80/dr9445/h/h16/01.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_blueantext_small.png" group-title="INDONESIA",BLUE ANT EXTREME
+http://210.210.155.35:80/dr9445/h/h15/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/celestial.png" group-title="INDONESIA",CELESTIAL MOVIES
+https://vcdnjt.useetv.com/joss/14/celestialmovie/chunklist_w1671904161_b684100_sleng_62648.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cinemaworld_small.png" group-title="INDONESIA",CINEMA WORLD
+https://vcdnjt.useetv.com/joss/14/cinemaworld/chunklist_w1529108846_b684100_sleng_62660.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_imc_small.png" group-title="INDONESIA",IMC
+https://vcdnjt.useetv.com/joss/14/imc/chunklist_w569228584_b684100_sleng_23992.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_dunialain_small.png" group-title="INDONESIA",Dunia Lain
+https://vcdnjt.useetv.com/joss/14/dunialain/chunklist_w1967765240_b684100_sleng_1409.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_kplus_small1.png" group-title="INDONESIA",K+
+https://vcdnjt.useetv.com/joss/15/kplus/chunklist_w298237442_b684100_sleng_255964.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_kplus_small1.png" group-title="INDONESIA",K+ HD
+https://vcdnjt.useetv.com/joss/15/kplus/chunklist_w791475578_b1344100_sleng_90256.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sgem_small.png" group-title="INDONESIA",SONY GEM
+https://vcdnjt.useetv.com/joss/15/sgem/chunklist_w401910324_b684100_sleng_256008.m3u8
+
+#EXTINF:-1 tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2018/01/SONY-CRIME-CHANNEL.png" group-title="INDONESIA", Sony Crime
+http://178.159.5.210:1000/play/SonyCrime/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://sonymovies.co.uk/sites/all/themes/responsive/responsive_sony_movies/logo.png" group-title="INDONESIA", Sony Movies
+http://178.159.5.210:1000/play/sonymovies/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bioskopindonesia_small1.png" group-title="INDONESIA", BIOSKOP INDONESIA
+https://vcdnjt.useetv.com:443/joss/14/bioskopindonesia/chunklist_w1569483238_b684100_sleng_177560.m3u8?enc=S5Y2zs3_7VlB__d4ogl3iA&exp=1587471747
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_galaxy_small1.png" group-title="INDONESIA", GALAXY
+https://vcdnjt.useetv.com:443/joss/15/galaxy/chunklist_w300453741_b684100_sleng_177560.m3u8?enc=l6rpqYqWLQ3V69S92YsbZg&exp=1587471181
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_imc_small.png" group-title="INDONESIA", IMC
+https://vcdnjt.useetv.com:443/joss/14/imc/chunklist_w1486007674_b684100_sleng_177560.m3u8?enc=6lHd4R9KiWZ8awlo8hA7yA&exp=1587471876
+
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="INDONESIA", RIA
+https://d11h6a6nhl9kj9.cloudfront.net/hls/suriactv/master01.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_flik_small1.png" group-title="INDONESIA", FLIK
+https://vcdnjt.useetv.com:443/joss/15/flik/chunklist_w1315467241_b684100_sleng_177560.m3u8?enc=7a8bbpCJQ6mBgyNUWncrTg&exp=1587470989
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_kix_small.png" group-title="INDONESIA", KIX
+https://vcdnjt.useetv.com/joss/15/kix/chunklist_w1419625362_b894100_sleng_471187.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_kix_small.png" group-title="INDONESIA", KIX HD
+https://cdnjt25.useetv.com/joss/15/kix/chunklist_w2010473624_b1344100_sleng_471141.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvn_small.png" group-title="INDONESIA", TVN
+https://vcdnjt.useetv.com:443/joss/15/tvn/chunklist_w828994627_b684100_sleng_177560.m3u8?enc=TcG4UU24km1DkwOLcEXhrw&exp=1585294859&encp=AjtUSiMQ7BYCxKmni52bYg&expp=1585303559
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvnmoviews_small.png" group-title="INDONESIA", TVN MOVIES
+https://vcdnjt.useetv.com:443/joss/15/tvnmovies/chunklist_w612648122_b684100_sleng_177560.m3u8?enc=d62mNPSchE55ElLUcfFpsg&exp=1585294888&encp=lCcniWIdC5U1JwXixDiTjw&expp=1585303588
+
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="INDONESIA", STAR CHINESE LEGEND
+https://cdn-laos.workpoint.news/sd-starchineselegend_480/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_thrill_small.png" group-title="INDONESIA", THRILL
+https://vcdnjt.useetv.com/joss/14/thrill/chunklist_w822829107_b684100_sleng_67787.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_thrill_small.png" group-title="INDONESIA", THRILL ID
+http://tvku.live:8888/aris7812/3des18ars/4
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_warner_small.png" group-title="INDONESIA", WARNER TV
+https://vcdnjt.useetv.com/joss/15/warner/chunklist_w1318492207_b684100_sleng_355937.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_warner_small.png" group-title="INDONESIA", WARNER TV HD
+https://edgejt7.useetv.com/joss/15/warner/chunklist_w1042470190_b1344100_sleng_481557.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_zbioskop_small1.png" group-title="INDONESIA",ZEE BIOSKOP
+https://vcdnjt.useetv.com/joss/14/zbioskop/chunklist_w2085074683_b684100_sleng_63371.m3u8
+
+EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports1_small.png" group-title="INDONESIA", FOX SPORT 1 SD
+https://vcdnjt.useetv.com/joss/15/foxsport1/chunklist_w348496298_b894100_sleng_471035.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports1_small.png" group-title="INDONESIA", FOX SPORT 1 HD
+https://vcdnjt.useetv.com/joss/15/foxsport1/chunklist_w662956550_b1344100_sleng_247649.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports1_small.png" group-title="INDONESIA", FOX SPORT 2 SD
+https://vcdnjt.useetv.com/joss/15/foxsport2/chunklist_w602405053_b894100_sleng_471047.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports2_small.png" group-title="INDONESIA", FOX SPORT 2 HD
+https://vcdnjt.useetv.com/joss/15/foxsport2/chunklist_w61448113_b1344100_sleng_247672.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports1_small.png" group-title="INDONESIA", FOX SPORT 3 SD
+https://vcdnjt.useetv.com/joss/15/foxsport3/chunklist_w297336772_b894100_sleng_471053.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports3_small.png" group-title="INDONESIA", FOX SPORT 3 HD
+https://vcdnjt.useetv.com/joss/15/foxsport3/chunklist_w659832811_b1344100_sleng_247687.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein1_small1.png" group-title="INDONESIA", BEIN SPORT 1 SD
+https://vcdnjt.useetv.com/joss/15/bein1/chunklist_w1092737456_b894100_sleng_90025.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein1_small1.png" group-title="INDONESIA", BEIN SPORT 1 HD
+https://vcdnjt.useetv.com/joss/15/bein1/chunklist_w1385039321_b1344100_sleng_247479.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein2_small2.png" group-title="INDONESIA", BEIN SPORT 2 SD
+https://vcdnjt.useetv.com/joss/15/bein2/chunklist_w279048530_b894100_sleng_90041.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein2_small2.png" group-title="INDONESIA", BEIN SPORT 2 HD
+https://vcdnjt.useetv.com/joss/15/bein2/chunklist_w1790348684_b1344100_sleng_247505.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ1_small.png" group-title="INDONESIA", CHAMPION TV 1 SD
+https://vcdnjt.useetv.com:443/joss/15/champion1/chunklist_w888798869_b684100_sleng_177560.m3u8?enc=SgRpcH6S97eh9aWOJ-vngA&exp=1587471358
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ1_small.png" group-title="INDONESIA", CHAMPION TV 1 HD
+https://cdnjt14.useetv.com/joss/15/champion1/chunklist_w854858626_b1344100_sleng_1262.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ2_small.png" group-title="INDONESIA", CHAMPION TV 2 SD
+https://vcdnjt.useetv.com:443/joss/15/champion2/chunklist_w698562627_b684100_sleng_177560.m3u8?enc=ilVuzptnrtiN-CRXUtRLfw&exp=1587471401
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ2_small.png" group-title="INDONESIA", CHAMPION TV 2 HD
+https://cdnjt14.useetv.com/joss/15/champion2/chunklist_w426217090_b1344100_sleng_30329.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesport_small.png" group-title="INDONESIA", USEE SPORT 1
+https://vcdnjt.useetv.com:443/joss/15/useesport/chunklist_w1734341269_b894100_sleng_177560.m3u8?enc=04WgtycFcN-cMIKu6JcrMQ&exp=1587471571
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesports2_small.png" group-title="INDONESIA", USEE SPORT 2
+https://vcdnjt.useetv.com:443/joss/15/useesports2/chunklist_w589224286_b684100_sleng_177560.m3u8?enc=RStWKB0CU75uFUk98ieI4Q&exp=1587471587
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1111842868908318721/lMvLaebw_400x400.jpg" group-title="INDONESIA", TVRI SPORT
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_nba_small1.png" group-title="INDONESIA", NBA TV
+https://vcdnjt.useetv.com/joss/15/nba/chunklist_w2141500514_b1344100_sleng_97037.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA",MYS | ANI PLUS HD
+http://boyztoyz.us:80/RonDenston/15.05.19/7525
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA",MYS | ANIMAL PLANET
+http://boyztoyz.us:80/RonDenston/15.05.19/7524
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA",MYS | ANIMAX HD KD
+http://boyztoyz.us:80/RonDenston/15.05.19/7523
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA",MYS | ASIAN FOOD CHANNEL
+http://boyztoyz.us:80/RonDenston/15.05.19/7522
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA",MYS | ASTRO AEC HD
+http://boyztoyz.us:80/RonDenston/15.05.19/7521
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA",MYS | ASTRO ARENA HD
+http://boyztoyz.us:80/RonDenston/15.05.19/7520
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA",MYS | ASTRO AWANI HD
+http://boyztoyz.us:80/RonDenston/15.05.19/7519
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA",MYS | ASTRO CERIA
+http://boyztoyz.us:80/RonDenston/15.05.19/7518
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA",MYS | ASTRO CRICKET HD
+http://boyztoyz.us:80/RonDenston/15.05.19/7517
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA",MYS | ASTRO MAYA HD
+http://boyztoyz.us:80/RonDenston/15.05.19/7516
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA",MYS | ASTRO OASIS HD
+http://boyztoyz.us:80/RonDenston/15.05.19/7515
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA",MYS | ASTRO PRIMA HD
+http://boyztoyz.us:80/RonDenston/15.05.19/7514
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA",MYS | ASTRO QUAN JIA HD
+http://boyztoyz.us:80/RonDenston/15.05.19/7513
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA",MYS | ASTRO RIA HD
+http://boyztoyz.us:80/RonDenston/15.05.19/7512
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA",MYS | ASTRO SHUANG XING HD
+http://boyztoyz.us:80/RonDenston/15.05.19/7511
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA",MYS | ASTRO SUPERSPORTS 1
+http://boyztoyz.us:80/RonDenston/15.05.19/7510
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA",MYS | ASTRO SUPERSPORTS 2
+http://boyztoyz.us:80/RonDenston/15.05.19/7509
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA",MYS | ASTRO SUPERSPORTS 3
+http://boyztoyz.us:80/RonDenston/15.05.19/7508
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA",MYS | ASTRO SUPERSPORTS 4
+http://boyztoyz.us:80/RonDenston/15.05.19/7507
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA",MYS | ASTRO TARA HD
+http://boyztoyz.us:80/RonDenston/15.05.19/7506
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA",MYS | ASTRO VAANAVIL HD
+http://boyztoyz.us:80/RonDenston/15.05.19/7505
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA",MYS | ASTRO VINMEEN HD
+http://boyztoyz.us:80/RonDenston/15.05.19/7504
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA",MYS | ASTRO WARNA HD
+http://boyztoyz.us:80/RonDenston/15.05.19/7503
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA",MYS | ASTRO XI YUE
+http://boyztoyz.us:80/RonDenston/15.05.19/7502
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA",MYS | ASTRO XIAO TAI YANG
+http://boyztoyz.us:80/RonDenston/15.05.19/7501
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA",MYS | AXN HD
+http://boyztoyz.us:80/RonDenston/15.05.19/7500
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA",MYS | BABY FIRST
+http://boyztoyz.us:80/RonDenston/15.05.19/7499
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA",MYS | BABY TV KD
+http://boyztoyz.us:80/RonDenston/15.05.19/7498
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA",MYS | BBC EARTH HD
+http://boyztoyz.us:80/RonDenston/15.05.19/7497
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA",MYS | BBC LIFESTYLE
+http://boyztoyz.us:80/RonDenston/15.05.19/7496
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA",MYS | BEIN SPORTS
+http://boyztoyz.us:80/RonDenston/15.05.19/7495
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA",MYS | BLUE ANT EXTREME
+http://boyztoyz.us:80/RonDenston/15.05.19/7494
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA",MYS | BOLLY ONE HD
+http://boyztoyz.us:80/RonDenston/15.05.19/7493
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA",MYS | BOOMERANG HD KD
+http://boyztoyz.us:80/RonDenston/15.05.19/7492
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA",MYS | CARTOON NETWORK
+http://boyztoyz.us:80/RonDenston/15.05.19/7491
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA",MYS | CELESTIAL MOVIES
+http://boyztoyz.us:80/RonDenston/15.05.19/7490
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA",MYS | CHANNEL W
+http://boyztoyz.us:80/RonDenston/15.05.19/7489
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA",MYS | CINEMA WORLD HD
+http://boyztoyz.us:80/RonDenston/15.05.19/7488
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA",MYS | DISCOVERY CHANNEL
+http://boyztoyz.us:80/RonDenston/15.05.19/7487
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA",MYS | DISNEY CH
+http://boyztoyz.us:80/RonDenston/15.05.19/7486
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA",MYS | DISNEY JR
+http://boyztoyz.us:80/RonDenston/15.05.19/7480
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA",MYS | DISNEY XD
+http://boyztoyz.us:80/RonDenston/15.05.19/7479
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA",MYS | DIVA HD
+http://boyztoyz.us:80/RonDenston/15.05.19/7478
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA",MYS | DREAMWORKS HD
+http://boyztoyz.us:80/RonDenston/15.05.19/7526
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA",MYS | DUNIA SINEMA
+http://boyztoyz.us:80/RonDenston/15.05.19/7484
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA",MYS | ENTERTAINMENT
+http://boyztoyz.us:80/RonDenston/15.05.19/7485
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA",MYS | EVERY GOOD GAME HD
+http://boyztoyz.us:80/RonDenston/15.05.19/7483
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA",MYS | FOX ACTION MOVIES HD
+http://boyztoyz.us:80/RonDenston/15.05.19/7482
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA",MYS | FOX FAMILY MOVIES HD
+http://boyztoyz.us:80/RonDenston/15.05.19/7481
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA",MYS | FOX LIFE HD
+http://boyztoyz.us:80/RonDenston/15.05.19/7477
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA",MYS | FOX MOVIES HD
+http://boyztoyz.us:80/RonDenston/15.05.19/7476
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA",MYS | FOX SPORTS 1
+http://boyztoyz.us:80/RonDenston/15.05.19/7475
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA",MYS | FOX SPORTS 2
+http://boyztoyz.us:80/RonDenston/15.05.19/7474
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA",MYS | FOX SPORTS 3
+http://boyztoyz.us:80/RonDenston/15.05.19/7473
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA",MYS | FOX TV HD
+http://boyztoyz.us:80/RonDenston/15.05.19/7472
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA",MYS | FX CINEMA HD
+http://boyztoyz.us:80/RonDenston/15.05.19/7471
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA",MYS | GNIX SPORTS HD
+http://boyztoyz.us:80/RonDenston/15.05.19/7470
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA",MYS | HGTV
+http://boyztoyz.us:80/RonDenston/15.05.19/7469
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA",MYS | HHD
+http://boyztoyz.us:80/RonDenston/15.05.19/7467
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA",MYS | HITS HD
+http://boyztoyz.us:80/RonDenston/15.05.19/7468
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA",MYS | JAYA MAX APAC
+http://boyztoyz.us:80/RonDenston/15.05.19/7438
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA",MYS | KIX
+http://boyztoyz.us:80/RonDenston/15.05.19/7466
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA",MYS | MTV ASIA
+http://boyztoyz.us:80/RonDenston/15.05.19/7465
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA",MYS | MUTV HD
+http://boyztoyz.us:80/RonDenston/15.05.19/7464
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA",MYS | NAT GEO ASIA HD
+http://boyztoyz.us:80/RonDenston/15.05.19/7463
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA",MYS | NAT GEO PEOPLE HD
+http://boyztoyz.us:80/RonDenston/15.05.19/7462
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA",MYS | NAT GEO WILD HD
+http://boyztoyz.us:80/RonDenston/15.05.19/7461
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA",MYS | NICK JR KD
+http://boyztoyz.us:80/RonDenston/15.05.19/7460
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA",MYS | NICK KD
+http://boyztoyz.us:80/RonDenston/15.05.19/7459
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA",MYS | NOW TV CHINESE
+http://boyztoyz.us:80/RonDenston/15.05.19/7458
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA",MYS | OHIK
+http://boyztoyz.us:80/RonDenston/15.05.19/7457
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA",MYS | OUTDOOR HD
+http://boyztoyz.us:80/RonDenston/15.05.19/7456
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA",MYS | PARAMAUNT CHANNEL
+http://boyztoyz.us:80/RonDenston/15.05.19/7455
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA",MYS | PESONA HD
+http://boyztoyz.us:80/RonDenston/15.05.19/7454
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA",MYS | RED HBO HD
+http://boyztoyz.us:80/RonDenston/15.05.19/7453
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA",MYS | SETANTA SPORTS HD
+http://boyztoyz.us:80/RonDenston/15.05.19/7452
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA",MYS | SETi CHINESE
+http://boyztoyz.us:80/RonDenston/15.05.19/7451
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA",MYS | SONY ONE HD
+http://boyztoyz.us:80/RonDenston/15.05.19/7450
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA",MYS | SONY SAB APAC
+http://boyztoyz.us:80/RonDenston/15.05.19/7529
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA",MYS | SONY SETMAX APAC
+http://boyztoyz.us:80/RonDenston/15.05.19/7528
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA",MYS | SONY TV APAC
+http://boyztoyz.us:80/RonDenston/15.05.19/7527
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA",MYS | STAR CHINESE CHANNEL HD
+http://boyztoyz.us:80/RonDenston/15.05.19/7449
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA",MYS | STAR VIJAY APAC
+http://boyztoyz.us:80/RonDenston/15.05.19/7437
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA",MYS | TLC
+http://boyztoyz.us:80/RonDenston/15.05.19/7448
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA",MYS | TRAVEL CHANNEL HD
+http://boyztoyz.us:80/RonDenston/15.05.19/7447
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA",MYS | TV ALHIJRA
+http://boyztoyz.us:80/RonDenston/15.05.19/7446
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA",MYS | TV3
+http://boyztoyz.us:80/RonDenston/15.05.19/7445
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA",MYS | TV8
+http://boyztoyz.us:80/RonDenston/15.05.19/7444
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA",MYS | TV9
+http://boyztoyz.us:80/RonDenston/15.05.19/7443
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA",MYS | TVN HD
+http://boyztoyz.us:80/RonDenston/15.05.19/7442
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA",MYS | TVN MOVIES
+http://boyztoyz.us:80/RonDenston/15.05.19/7441
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA",MYS | WARNER TV HD
+http://boyztoyz.us:80/RonDenston/15.05.19/7440
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA",MYS | WWE NETWORK HD
+http://boyztoyz.us:80/RonDenston/15.05.19/7439
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA",MYS | ZEE TAMIL APAC
+http://boyztoyz.us:80/RonDenston/15.05.19/7436
+
+#EXTINF:-1,---------------United Kingdom---------------
+http://boyztoyz.us:80/RonDenston/15.05.19/850
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: Al Jazeera News English HD
+http://boyztoyz.us:80/RonDenston/15.05.19/406
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: 3E
+http://boyztoyz.us:80/RonDenston/15.05.19/876
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: 3E HD
+http://boyztoyz.us:80/RonDenston/15.05.19/2257
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: 4 Music
+http://boyztoyz.us:80/RonDenston/15.05.19/3899
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: 4 Seven
+http://boyztoyz.us:80/RonDenston/15.05.19/1732
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: 4 Seven HD 1080p
+http://boyztoyz.us:80/RonDenston/15.05.19/4410
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: 5 Select
+http://boyztoyz.us:80/RonDenston/15.05.19/7839
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: 5 Star
+http://boyztoyz.us:80/RonDenston/15.05.19/7841
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: 5 USA
+http://boyztoyz.us:80/RonDenston/15.05.19/250
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: Alibi
+http://boyztoyz.us:80/RonDenston/15.05.19/74
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: Alibi HD 1080p
+http://boyztoyz.us:80/RonDenston/15.05.19/4409
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: AMC
+http://boyztoyz.us:80/RonDenston/15.05.19/3921
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: Animal Planet
+http://boyztoyz.us:80/RonDenston/15.05.19/360
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: Animal Planet HD 1080p
+http://boyztoyz.us:80/RonDenston/15.05.19/4408
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: Baby Tv
+http://boyztoyz.us:80/RonDenston/15.05.19/1733
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: BBC 1
+http://boyztoyz.us:80/RonDenston/15.05.19/101
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: BBC 1 HD 1080p
+http://boyztoyz.us:80/RonDenston/15.05.19/5279
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: BBC 1 Scotland
+http://boyztoyz.us:80/RonDenston/15.05.19/7628
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: BBC 2
+http://boyztoyz.us:80/RonDenston/15.05.19/102
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: BBC 2 HD 1080p
+http://boyztoyz.us:80/RonDenston/15.05.19/5278
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: BBC 2 Scotland
+http://boyztoyz.us:80/RonDenston/15.05.19/7629
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: BBC 3 / CBBC
+http://boyztoyz.us:80/RonDenston/15.05.19/100
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: BBC 3 HD / CBBC HD 1080p
+http://boyztoyz.us:80/RonDenston/15.05.19/5277
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: BBC 4 / Cbeebies
+http://boyztoyz.us:80/RonDenston/15.05.19/99
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: BBC 4 HD / Cbeebies HD 1080p
+http://boyztoyz.us:80/RonDenston/15.05.19/5276
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: BBC Alba
+http://boyztoyz.us:80/RonDenston/15.05.19/3901
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: BBC News
+http://boyztoyz.us:80/RonDenston/15.05.19/461
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: BBC News HD
+http://boyztoyz.us:80/RonDenston/15.05.19/863
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: BBC Scotland HD 1080p
+http://boyztoyz.us:80/RonDenston/15.05.19/7837
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: Bet
+http://boyztoyz.us:80/RonDenston/15.05.19/1045
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: Blaze
+http://boyztoyz.us:80/RonDenston/15.05.19/3913
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: Bloomberg HD
+http://boyztoyz.us:80/RonDenston/15.05.19/2258
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: Boomerang
+http://boyztoyz.us:80/RonDenston/15.05.19/240
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: Brit Asia
+http://boyztoyz.us:80/RonDenston/15.05.19/3898
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: Cartoon Network
+http://boyztoyz.us:80/RonDenston/15.05.19/227
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: Cartoon Network HD 1080p
+http://boyztoyz.us:80/RonDenston/15.05.19/4407
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: CBS Action
+http://boyztoyz.us:80/RonDenston/15.05.19/471
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: CBS Drama
+http://boyztoyz.us:80/RonDenston/15.05.19/472
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: CBS Reality
+http://boyztoyz.us:80/RonDenston/15.05.19/473
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: Challenge TV
+http://boyztoyz.us:80/RonDenston/15.05.19/875
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: Channel 4
+http://boyztoyz.us:80/RonDenston/15.05.19/185
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: Channel 4 HD 1080p
+http://boyztoyz.us:80/RonDenston/15.05.19/4406
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: Channel 5
+http://boyztoyz.us:80/RonDenston/15.05.19/186
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: Channel 5 HD 1080p
+http://boyztoyz.us:80/RonDenston/15.05.19/4405
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: Trace Urban
+http://boyztoyz.us:80/RonDenston/15.05.19/3920
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: CNN News
+http://boyztoyz.us:80/RonDenston/15.05.19/385
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: Comedy Central
+http://boyztoyz.us:80/RonDenston/15.05.19/187
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: Comedy Central Extra
+http://boyztoyz.us:80/RonDenston/15.05.19/188
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: Comedy Central HD 1080p
+http://boyztoyz.us:80/RonDenston/15.05.19/4404
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: Crime & Investigation
+http://boyztoyz.us:80/RonDenston/15.05.19/134
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: Crime & Investigation HD 1080p
+http://boyztoyz.us:80/RonDenston/15.05.19/5248
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: Dave
+http://boyztoyz.us:80/RonDenston/15.05.19/189
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: Dave HD 1080p
+http://boyztoyz.us:80/RonDenston/15.05.19/4403
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: Discovery
+http://boyztoyz.us:80/RonDenston/15.05.19/364
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: Discovery HD 1080p
+http://boyztoyz.us:80/RonDenston/15.05.19/4402
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: Discovery History
+http://boyztoyz.us:80/RonDenston/15.05.19/363
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: Discovery Home
+http://boyztoyz.us:80/RonDenston/15.05.19/361
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: Discovery Science
+http://boyztoyz.us:80/RonDenston/15.05.19/362
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: Discovery Shed
+http://boyztoyz.us:80/RonDenston/15.05.19/27
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: Discovery Turbo
+http://boyztoyz.us:80/RonDenston/15.05.19/365
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: Disney Channel
+http://boyztoyz.us:80/RonDenston/15.05.19/353
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: Disney Channel HD
+http://boyztoyz.us:80/RonDenston/15.05.19/2935
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: Disney Junior
+http://boyztoyz.us:80/RonDenston/15.05.19/351
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: Disney Junior HD
+http://boyztoyz.us:80/RonDenston/15.05.19/3893
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: Disney XD
+http://boyztoyz.us:80/RonDenston/15.05.19/349
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: Disney XD HD
+http://boyztoyz.us:80/RonDenston/15.05.19/3892
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: Dmax
+http://boyztoyz.us:80/RonDenston/15.05.19/479
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: Drama
+http://boyztoyz.us:80/RonDenston/15.05.19/204
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: E! Entertainment
+http://boyztoyz.us:80/RonDenston/15.05.19/896
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: E4
+http://boyztoyz.us:80/RonDenston/15.05.19/439
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: E4 HD 1080p
+http://boyztoyz.us:80/RonDenston/15.05.19/4401
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: Eden HD 1080p
+http://boyztoyz.us:80/RonDenston/15.05.19/4400
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: Euro News
+http://boyztoyz.us:80/RonDenston/15.05.19/460
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: Film 4
+http://boyztoyz.us:80/RonDenston/15.05.19/181
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: Film 4 HD 1080p
+http://boyztoyz.us:80/RonDenston/15.05.19/4397
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: Food Network
+http://boyztoyz.us:80/RonDenston/15.05.19/63
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: Forces Tv
+http://boyztoyz.us:80/RonDenston/15.05.19/3918
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: Fox HD 1080p
+http://boyztoyz.us:80/RonDenston/15.05.19/4396
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: Fox News
+http://boyztoyz.us:80/RonDenston/15.05.19/582
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: Front Runner
+http://boyztoyz.us:80/RonDenston/15.05.19/3900
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: Gold Tv
+http://boyztoyz.us:80/RonDenston/15.05.19/66
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: History 2
+http://boyztoyz.us:80/RonDenston/15.05.19/359
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: History 2 HD 1080p
+http://boyztoyz.us:80/RonDenston/15.05.19/4394
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: History Channel
+http://boyztoyz.us:80/RonDenston/15.05.19/464
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: History Channel HD 1080p
+http://boyztoyz.us:80/RonDenston/15.05.19/1541
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: Home
+http://boyztoyz.us:80/RonDenston/15.05.19/3917
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: Horror Channel
+http://boyztoyz.us:80/RonDenston/15.05.19/3916
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: Horse & Country
+http://boyztoyz.us:80/RonDenston/15.05.19/200
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: Insight 1080p
+http://boyztoyz.us:80/RonDenston/15.05.19/1668
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: Investigation Discovery
+http://boyztoyz.us:80/RonDenston/15.05.19/358
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: Iqra TV
+http://boyztoyz.us:80/RonDenston/15.05.19/3887
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: Islam Channel
+http://boyztoyz.us:80/RonDenston/15.05.19/3886
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: ITV 1
+http://boyztoyz.us:80/RonDenston/15.05.19/103
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: ITV 1 HD 1080p
+http://boyztoyz.us:80/RonDenston/15.05.19/5283
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: ITV 2
+http://boyztoyz.us:80/RonDenston/15.05.19/104
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: ITV 2 HD 1080p
+http://boyztoyz.us:80/RonDenston/15.05.19/5282
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: ITV 3
+http://boyztoyz.us:80/RonDenston/15.05.19/105
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: ITV 3 HD 1080p
+http://boyztoyz.us:80/RonDenston/15.05.19/5281
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: ITV 4
+http://boyztoyz.us:80/RonDenston/15.05.19/106
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: ITV 4 HD 1080p
+http://boyztoyz.us:80/RonDenston/15.05.19/5280
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: ITV Be
+http://boyztoyz.us:80/RonDenston/15.05.19/203
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: ITV Be HD 1080p
+http://boyztoyz.us:80/RonDenston/15.05.19/4393
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: Lifetime
+http://boyztoyz.us:80/RonDenston/15.05.19/1046
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: Lifetime HD 1080p
+http://boyztoyz.us:80/RonDenston/15.05.19/4392
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: Love Nature 1080p
+http://boyztoyz.us:80/RonDenston/15.05.19/6965
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: Madani Channel
+http://boyztoyz.us:80/RonDenston/15.05.19/7824
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: Magic Tv
+http://boyztoyz.us:80/RonDenston/15.05.19/7630
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: More 4
+http://boyztoyz.us:80/RonDenston/15.05.19/480
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: More 4 HD 1080p
+http://boyztoyz.us:80/RonDenston/15.05.19/4391
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: Sony Movies Action
+http://boyztoyz.us:80/RonDenston/15.05.19/845
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: MTV Base
+http://boyztoyz.us:80/RonDenston/15.05.19/127
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: MTV Classic
+http://boyztoyz.us:80/RonDenston/15.05.19/129
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: MTV Club
+http://boyztoyz.us:80/RonDenston/15.05.19/128
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: MTV HD 1080p
+http://boyztoyz.us:80/RonDenston/15.05.19/4390
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: MTV Hits
+http://boyztoyz.us:80/RonDenston/15.05.19/126
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: MTV Live HD 1080p
+http://boyztoyz.us:80/RonDenston/15.05.19/4389
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: MTV Music
+http://boyztoyz.us:80/RonDenston/15.05.19/124
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: MTV OMG
+http://boyztoyz.us:80/RonDenston/15.05.19/7631
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: MTV Rocks
+http://boyztoyz.us:80/RonDenston/15.05.19/125
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: Nat Geo
+http://boyztoyz.us:80/RonDenston/15.05.19/355
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: Nat Geo HD 1080p
+http://boyztoyz.us:80/RonDenston/15.05.19/4388
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: Nat Geo Wild
+http://boyztoyz.us:80/RonDenston/15.05.19/357
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: Nat Geo Wild HD 1080p
+http://boyztoyz.us:80/RonDenston/15.05.19/4387
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: Nick HD 1080p
+http://boyztoyz.us:80/RonDenston/15.05.19/4386
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: Nick Junior
+http://boyztoyz.us:80/RonDenston/15.05.19/344
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: Nick Junior too
+http://boyztoyz.us:80/RonDenston/15.05.19/345
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: Noor TV
+http://boyztoyz.us:80/RonDenston/15.05.19/7740
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: Paramount Network 1080p
+http://boyztoyz.us:80/RonDenston/15.05.19/5251
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: PBS America
+http://boyztoyz.us:80/RonDenston/15.05.19/3914
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: Peace Tv
+http://boyztoyz.us:80/RonDenston/15.05.19/3885
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: Pick Tv
+http://boyztoyz.us:80/RonDenston/15.05.19/446
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: Pop
+http://boyztoyz.us:80/RonDenston/15.05.19/3912
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: Pop Max
+http://boyztoyz.us:80/RonDenston/15.05.19/7632
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: Quest
+http://boyztoyz.us:80/RonDenston/15.05.19/251
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: Quest HD 1080p
+http://boyztoyz.us:80/RonDenston/15.05.19/5250
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: Quest Red
+http://boyztoyz.us:80/RonDenston/15.05.19/7633
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: QVC
+http://boyztoyz.us:80/RonDenston/15.05.19/2272
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: QVC Beauty
+http://boyztoyz.us:80/RonDenston/15.05.19/5246
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: QVC Extra
+http://boyztoyz.us:80/RonDenston/15.05.19/443
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: QVC Style
+http://boyztoyz.us:80/RonDenston/15.05.19/5247
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: Sky Crime 1080p
+http://boyztoyz.us:80/RonDenston/15.05.19/3909
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: Really
+http://boyztoyz.us:80/RonDenston/15.05.19/352
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: cITV
+http://boyztoyz.us:80/RonDenston/15.05.19/1673
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: RT America HD
+http://boyztoyz.us:80/RonDenston/15.05.19/3896
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: RT Documentary HD
+http://boyztoyz.us:80/RonDenston/15.05.19/1681
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: RT HD
+http://boyztoyz.us:80/RonDenston/15.05.19/3894
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: RT News HD
+http://boyztoyz.us:80/RonDenston/15.05.19/3895
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: RTE Junior
+http://boyztoyz.us:80/RonDenston/15.05.19/3911
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: RTE One
+http://boyztoyz.us:80/RonDenston/15.05.19/280
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: RTE One HD 1080p
+http://boyztoyz.us:80/RonDenston/15.05.19/3124
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: RTE Two
+http://boyztoyz.us:80/RonDenston/15.05.19/277
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: RTE Two HD 1080p
+http://boyztoyz.us:80/RonDenston/15.05.19/3123
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: S4C HD
+http://boyztoyz.us:80/RonDenston/15.05.19/1682
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: Sky Arts
+http://boyztoyz.us:80/RonDenston/15.05.19/180
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: Sky Arts HD 1080p
+http://boyztoyz.us:80/RonDenston/15.05.19/4385
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: Sky Atlantic
+http://boyztoyz.us:80/RonDenston/15.05.19/98
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: Sky Atlantic HD 1080p
+http://boyztoyz.us:80/RonDenston/15.05.19/5245
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: Sky Cartoonito
+http://boyztoyz.us:80/RonDenston/15.05.19/354
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: Sky Cinema Action & Adventure
+http://boyztoyz.us:80/RonDenston/15.05.19/110
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: Sky Cinema Action & Adventure HD 1080p
+http://boyztoyz.us:80/RonDenston/15.05.19/4382
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: Sky Cinema Comedy
+http://boyztoyz.us:80/RonDenston/15.05.19/108
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: Sky Cinema Comedy HD 1080p
+http://boyztoyz.us:80/RonDenston/15.05.19/4380
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: Sky Cinema Crime & Thriller
+http://boyztoyz.us:80/RonDenston/15.05.19/113
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: Sky Cinema Crime & Thriller HD 1080p
+http://boyztoyz.us:80/RonDenston/15.05.19/4373
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: Sky Cinema Disney
+http://boyztoyz.us:80/RonDenston/15.05.19/387
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: Sky Cinema Disney HD 1080p
+http://boyztoyz.us:80/RonDenston/15.05.19/4379
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: Sky Cinema Drama & Romance
+http://boyztoyz.us:80/RonDenston/15.05.19/107
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: Sky Cinema Drama & Romance HD 1080p
+http://boyztoyz.us:80/RonDenston/15.05.19/4381
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: Sky Cinema Family
+http://boyztoyz.us:80/RonDenston/15.05.19/65
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: Sky Cinema Family HD 1080p
+http://boyztoyz.us:80/RonDenston/15.05.19/4378
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: Sky Cinema Greats
+http://boyztoyz.us:80/RonDenston/15.05.19/109
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: Sky Cinema Greats HD 1080p
+http://boyztoyz.us:80/RonDenston/15.05.19/4377
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: Sky Cinema Premiere
+http://boyztoyz.us:80/RonDenston/15.05.19/111
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: Sky Cinema Premiere HD 1080p
+http://boyztoyz.us:80/RonDenston/15.05.19/4376
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: Sky Cinema Sci-Fi & Horror
+http://boyztoyz.us:80/RonDenston/15.05.19/112
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: Sky Cinema Sci-Fi & Horror HD 1080p
+http://boyztoyz.us:80/RonDenston/15.05.19/4375
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: Sky Cinema Select
+http://boyztoyz.us:80/RonDenston/15.05.19/64
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: Sky Cinema Select HD 1080p
+http://boyztoyz.us:80/RonDenston/15.05.19/4374
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: Sky Cinema Hits
+http://boyztoyz.us:80/RonDenston/15.05.19/388
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: Sky Cinema Hits HD 1080p
+http://boyztoyz.us:80/RonDenston/15.05.19/4384
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: Sky Witness
+http://boyztoyz.us:80/RonDenston/15.05.19/184
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: Sky Witness HD 1080p
+http://boyztoyz.us:80/RonDenston/15.05.19/4383
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: Sky News HD
+http://boyztoyz.us:80/RonDenston/15.05.19/484
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: Sky Nicklelodeon
+http://boyztoyz.us:80/RonDenston/15.05.19/347
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: Sky Nicktoons
+http://boyztoyz.us:80/RonDenston/15.05.19/346
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: Sky One
+http://boyztoyz.us:80/RonDenston/15.05.19/182
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: Sky One HD 1080p
+http://boyztoyz.us:80/RonDenston/15.05.19/4372
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: Sky Two
+http://boyztoyz.us:80/RonDenston/15.05.19/183
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: Sony Movies
+http://boyztoyz.us:80/RonDenston/15.05.19/481
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: STV HD
+http://boyztoyz.us:80/RonDenston/15.05.19/1680
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: Syfy
+http://boyztoyz.us:80/RonDenston/15.05.19/1042
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: Syfy HD 1080p
+http://boyztoyz.us:80/RonDenston/15.05.19/4371
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: TCM HD 1080p
+http://boyztoyz.us:80/RonDenston/15.05.19/4370
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: TG 4
+http://boyztoyz.us:80/RonDenston/15.05.19/252
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: TG 4 HD
+http://boyztoyz.us:80/RonDenston/15.05.19/3122
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: Tiny Pop
+http://boyztoyz.us:80/RonDenston/15.05.19/3907
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: TLC
+http://boyztoyz.us:80/RonDenston/15.05.19/267
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: TLC HD 1080p
+http://boyztoyz.us:80/RonDenston/15.05.19/4843
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: Travel Channel
+http://boyztoyz.us:80/RonDenston/15.05.19/809
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: Sony Crime
+http://boyztoyz.us:80/RonDenston/15.05.19/3906
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: Sony Channel
+http://boyztoyz.us:80/RonDenston/15.05.19/3905
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: Sony Movies Classic
+http://boyztoyz.us:80/RonDenston/15.05.19/483
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: Sky Comedy
+http://boyztoyz.us:80/RonDenston/15.05.19/1051
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: Sky Comedy HD 1080p
+http://boyztoyz.us:80/RonDenston/15.05.19/4369
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: UTV HD
+http://boyztoyz.us:80/RonDenston/15.05.19/1674
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: Now 70's
+http://boyztoyz.us:80/RonDenston/15.05.19/459
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: Virgin Media One HD
+http://boyztoyz.us:80/RonDenston/15.05.19/2259
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: Virgin Media Two HD
+http://boyztoyz.us:80/RonDenston/15.05.19/2942
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: Virgin Media Three HD
+http://boyztoyz.us:80/RonDenston/15.05.19/7627
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: Watch
+http://boyztoyz.us:80/RonDenston/15.05.19/356
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: Watch HD 1080p
+http://boyztoyz.us:80/RonDenston/15.05.19/4368
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: William Hill
+http://boyztoyz.us:80/RonDenston/15.05.19/7634
+#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: Yesterday
+http://boyztoyz.us:80/RonDenston/15.05.19/3902
+
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | A&E HD
+http://boyztoyz.us:80/RonDenston/15.05.19/6873
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Abc Atlanta
+http://boyztoyz.us:80/RonDenston/15.05.19/6740
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Abc Baltimore
+http://boyztoyz.us:80/RonDenston/15.05.19/6739
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Abc Boston
+http://boyztoyz.us:80/RonDenston/15.05.19/6738
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Abc California
+http://boyztoyz.us:80/RonDenston/15.05.19/6737
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Abc Charlotte
+http://boyztoyz.us:80/RonDenston/15.05.19/6736
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Abc Chicago
+http://boyztoyz.us:80/RonDenston/15.05.19/6735
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Abc Cleveland
+http://boyztoyz.us:80/RonDenston/15.05.19/6734
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Abc Connecticut
+http://boyztoyz.us:80/RonDenston/15.05.19/6733
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Abc Dallas
+http://boyztoyz.us:80/RonDenston/15.05.19/6732
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Abc Detroit
+http://boyztoyz.us:80/RonDenston/15.05.19/6731
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Abc Durham
+http://boyztoyz.us:80/RonDenston/15.05.19/6730
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Abc Finix
+http://boyztoyz.us:80/RonDenston/15.05.19/6729
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Abc Fresno
+http://boyztoyz.us:80/RonDenston/15.05.19/6728
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Abc Fresno 2
+http://boyztoyz.us:80/RonDenston/15.05.19/6727
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Abc Houston
+http://boyztoyz.us:80/RonDenston/15.05.19/6726
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Abc Houston 2
+http://boyztoyz.us:80/RonDenston/15.05.19/6725
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Abc Indiana
+http://boyztoyz.us:80/RonDenston/15.05.19/6724
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Abc Kansas City
+http://boyztoyz.us:80/RonDenston/15.05.19/6723
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Abc Los Angeles
+http://boyztoyz.us:80/RonDenston/15.05.19/6722
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Abc Miami
+http://boyztoyz.us:80/RonDenston/15.05.19/6721
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Abc Milwaukee
+http://boyztoyz.us:80/RonDenston/15.05.19/6720
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Abc Minessota
+http://boyztoyz.us:80/RonDenston/15.05.19/6719
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Abc News HD
+http://boyztoyz.us:80/RonDenston/15.05.19/6932
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Abc Newyork
+http://boyztoyz.us:80/RonDenston/15.05.19/6718
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Abc Ohio
+http://boyztoyz.us:80/RonDenston/15.05.19/6717
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Abc Orlando
+http://boyztoyz.us:80/RonDenston/15.05.19/6716
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Abc Philadelphia
+http://boyztoyz.us:80/RonDenston/15.05.19/6715
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Abc Portland
+http://boyztoyz.us:80/RonDenston/15.05.19/6714
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Abc Raleigh Durham
+http://boyztoyz.us:80/RonDenston/15.05.19/6713
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Abc Sacramento
+http://boyztoyz.us:80/RonDenston/15.05.19/6712
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Abc Saltlake City
+http://boyztoyz.us:80/RonDenston/15.05.19/6711
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Abc San Antonio
+http://boyztoyz.us:80/RonDenston/15.05.19/6710
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Abc San Francisco
+http://boyztoyz.us:80/RonDenston/15.05.19/6709
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Abc San Luis
+http://boyztoyz.us:80/RonDenston/15.05.19/6708
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Abc Seatle
+http://boyztoyz.us:80/RonDenston/15.05.19/6707
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Abc Tampa
+http://boyztoyz.us:80/RonDenston/15.05.19/6706
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Abc Texas
+http://boyztoyz.us:80/RonDenston/15.05.19/6705
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Abc Washington
+http://boyztoyz.us:80/RonDenston/15.05.19/6704
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Ahc HD
+http://boyztoyz.us:80/RonDenston/15.05.19/6781
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Amc HD
+http://boyztoyz.us:80/RonDenston/15.05.19/6823
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Animal Planet HD
+http://boyztoyz.us:80/RonDenston/15.05.19/6933
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Baby Tv HD
+http://boyztoyz.us:80/RonDenston/15.05.19/6789
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Bbc America HD
+http://boyztoyz.us:80/RonDenston/15.05.19/6822
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Bein 1 HD
+http://boyztoyz.us:80/RonDenston/15.05.19/6872
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Bein 10 HD
+http://boyztoyz.us:80/RonDenston/15.05.19/6787
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Bein 2 HD
+http://boyztoyz.us:80/RonDenston/15.05.19/6871
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Bein 3 HD
+http://boyztoyz.us:80/RonDenston/15.05.19/6870
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Bein 4 HD
+http://boyztoyz.us:80/RonDenston/15.05.19/6869
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Bein 5 HD
+http://boyztoyz.us:80/RonDenston/15.05.19/6786
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Bein 6 HD
+http://boyztoyz.us:80/RonDenston/15.05.19/6785
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Bein 7 HD
+http://boyztoyz.us:80/RonDenston/15.05.19/6784
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Bein 8 HD
+http://boyztoyz.us:80/RonDenston/15.05.19/6783
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Bein 9 HD
+http://boyztoyz.us:80/RonDenston/15.05.19/6782
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Bein Sports HD
+http://boyztoyz.us:80/RonDenston/15.05.19/6951
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Ben Fc Tv HD
+http://boyztoyz.us:80/RonDenston/15.05.19/6821
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Boomerang HD
+http://boyztoyz.us:80/RonDenston/15.05.19/6780
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Bravo HD
+http://boyztoyz.us:80/RonDenston/15.05.19/6931
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Btn HD
+http://boyztoyz.us:80/RonDenston/15.05.19/6930
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Cartoon Network HD
+http://boyztoyz.us:80/RonDenston/15.05.19/6929
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Cbn HD
+http://boyztoyz.us:80/RonDenston/15.05.19/6928
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Cbn News HD
+http://boyztoyz.us:80/RonDenston/15.05.19/6927
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Cbs Arizona
+http://boyztoyz.us:80/RonDenston/15.05.19/6703
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Cbs Atlanta
+http://boyztoyz.us:80/RonDenston/15.05.19/6702
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Cbs California
+http://boyztoyz.us:80/RonDenston/15.05.19/6701
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Cbs Cansas City
+http://boyztoyz.us:80/RonDenston/15.05.19/6700
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Cbs Columbus
+http://boyztoyz.us:80/RonDenston/15.05.19/6699
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Cbs Detroit
+http://boyztoyz.us:80/RonDenston/15.05.19/6698
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Cbs Florida
+http://boyztoyz.us:80/RonDenston/15.05.19/6697
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Cbs Fort Worth
+http://boyztoyz.us:80/RonDenston/15.05.19/6696
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Cbs Harrisburg
+http://boyztoyz.us:80/RonDenston/15.05.19/6695
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Cbs Hatford
+http://boyztoyz.us:80/RonDenston/15.05.19/6694
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Cbs Louisville
+http://boyztoyz.us:80/RonDenston/15.05.19/6693
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Cbs Miami
+http://boyztoyz.us:80/RonDenston/15.05.19/6692
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Cbs Milwaukee
+http://boyztoyz.us:80/RonDenston/15.05.19/6691
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Cbs News Ch 3 HD
+http://boyztoyz.us:80/RonDenston/15.05.19/6762
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Cbs Philadelphia
+http://boyztoyz.us:80/RonDenston/15.05.19/6690
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Cbs Pitts
+http://boyztoyz.us:80/RonDenston/15.05.19/6689
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Cbs Seattle
+http://boyztoyz.us:80/RonDenston/15.05.19/6688
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Cbs Sports Network HD
+http://boyztoyz.us:80/RonDenston/15.05.19/6926
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Cbs Stockton
+http://boyztoyz.us:80/RonDenston/15.05.19/6687
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Cbs Virginia
+http://boyztoyz.us:80/RonDenston/15.05.19/6686
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Cbs West Palm Beach
+http://boyztoyz.us:80/RonDenston/15.05.19/6685
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Cbsn HD
+http://boyztoyz.us:80/RonDenston/15.05.19/6925
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Cheddar Sports HD
+http://boyztoyz.us:80/RonDenston/15.05.19/6788
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Cine Sony HD
+http://boyztoyz.us:80/RonDenston/15.05.19/6820
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Cinemax Action Max HD (Nl)
+http://boyztoyz.us:80/RonDenston/15.05.19/6924
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Cinemax East HD
+http://boyztoyz.us:80/RonDenston/15.05.19/6923
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Cinemax Thriller Max HD
+http://boyztoyz.us:80/RonDenston/15.05.19/6922
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Cinemax West HD
+http://boyztoyz.us:80/RonDenston/15.05.19/6779
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Cleveland 19 HD
+http://boyztoyz.us:80/RonDenston/15.05.19/6778
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Cnbc HD
+http://boyztoyz.us:80/RonDenston/15.05.19/6819
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Cnn HD
+http://boyztoyz.us:80/RonDenston/15.05.19/6867
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Comedy Central HD
+http://boyztoyz.us:80/RonDenston/15.05.19/6921
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Cooking Channel HD
+http://boyztoyz.us:80/RonDenston/15.05.19/6793
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Cozi HD
+http://boyztoyz.us:80/RonDenston/15.05.19/6818
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Csn Bayarea
+http://boyztoyz.us:80/RonDenston/15.05.19/6652
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Csn Boston
+http://boyztoyz.us:80/RonDenston/15.05.19/6651
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Csn Chicago
+http://boyztoyz.us:80/RonDenston/15.05.19/6650
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Csn Chicago Plus
+http://boyztoyz.us:80/RonDenston/15.05.19/6649
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Csn Northwest
+http://boyztoyz.us:80/RonDenston/15.05.19/6648
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Csn Philadelphia
+http://boyztoyz.us:80/RonDenston/15.05.19/6647
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Csn Washington
+http://boyztoyz.us:80/RonDenston/15.05.19/6646
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Csn Washington Plus
+http://boyztoyz.us:80/RonDenston/15.05.19/6645
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Cw HD
+http://boyztoyz.us:80/RonDenston/15.05.19/6920
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Destination America HD
+http://boyztoyz.us:80/RonDenston/15.05.19/6919
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Discovery Familia Sp HD
+http://boyztoyz.us:80/RonDenston/15.05.19/6777
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Discovery Family HD
+http://boyztoyz.us:80/RonDenston/15.05.19/6776
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Discovery HD
+http://boyztoyz.us:80/RonDenston/15.05.19/6918
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Discovery Life HD
+http://boyztoyz.us:80/RonDenston/15.05.19/6775
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Discovery Sp HD
+http://boyztoyz.us:80/RonDenston/15.05.19/6774
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Discovery Velocity HD
+http://boyztoyz.us:80/RonDenston/15.05.19/6916
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Disney Channel HD
+http://boyztoyz.us:80/RonDenston/15.05.19/6773
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Disney HD
+http://boyztoyz.us:80/RonDenston/15.05.19/6915
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Disney Junior HD
+http://boyztoyz.us:80/RonDenston/15.05.19/6772
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Disney Xd HD
+http://boyztoyz.us:80/RonDenston/15.05.19/6771
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Diy Network HD
+http://boyztoyz.us:80/RonDenston/15.05.19/6864
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | E! HD
+http://boyztoyz.us:80/RonDenston/15.05.19/6863
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | El Gourmet HD
+http://boyztoyz.us:80/RonDenston/15.05.19/6817
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | El Rey HD
+http://boyztoyz.us:80/RonDenston/15.05.19/6862
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Eleven Sports HD
+http://boyztoyz.us:80/RonDenston/15.05.19/6935
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Epix 3 HD
+http://boyztoyz.us:80/RonDenston/15.05.19/6770
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Espn 2 HD
+http://boyztoyz.us:80/RonDenston/15.05.19/6947
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Espn HD
+http://boyztoyz.us:80/RonDenston/15.05.19/6950
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Espn News HD
+http://boyztoyz.us:80/RonDenston/15.05.19/6949
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Espn U HD
+http://boyztoyz.us:80/RonDenston/15.05.19/6948
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Fight Network HD
+http://boyztoyz.us:80/RonDenston/15.05.19/6816
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Fntsy Sports Network FHD
+http://boyztoyz.us:80/RonDenston/15.05.19/6815
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Food Network HD
+http://boyztoyz.us:80/RonDenston/15.05.19/6861
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Fox Alabama
+http://boyztoyz.us:80/RonDenston/15.05.19/6684
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Fox Business Network HD
+http://boyztoyz.us:80/RonDenston/15.05.19/6914
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Fox Charlotte
+http://boyztoyz.us:80/RonDenston/15.05.19/6683
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Fox Chicago
+http://boyztoyz.us:80/RonDenston/15.05.19/6644
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Fox Csa HD
+http://boyztoyz.us:80/RonDenston/15.05.19/6860
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Fox Csc HD
+http://boyztoyz.us:80/RonDenston/15.05.19/6859
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Fox Csp HD
+http://boyztoyz.us:80/RonDenston/15.05.19/6858
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Fox Deportes HD
+http://boyztoyz.us:80/RonDenston/15.05.19/6857
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Fox Detroit
+http://boyztoyz.us:80/RonDenston/15.05.19/6682
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Fox HD
+http://boyztoyz.us:80/RonDenston/15.05.19/6913
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Fox Houston
+http://boyztoyz.us:80/RonDenston/15.05.19/6681
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Fox Kansas City
+http://boyztoyz.us:80/RonDenston/15.05.19/6680
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Fox Life HD
+http://boyztoyz.us:80/RonDenston/15.05.19/6814
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Fox Los Angeles
+http://boyztoyz.us:80/RonDenston/15.05.19/6679
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Fox Miami
+http://boyztoyz.us:80/RonDenston/15.05.19/6678
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Fox Minnesota
+http://boyztoyz.us:80/RonDenston/15.05.19/6677
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Fox Nebraska
+http://boyztoyz.us:80/RonDenston/15.05.19/6676
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Fox News HD
+http://boyztoyz.us:80/RonDenston/15.05.19/6912
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Fox Newyork
+http://boyztoyz.us:80/RonDenston/15.05.19/6675
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Fox Orlando
+http://boyztoyz.us:80/RonDenston/15.05.19/6674
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Fox Philadelphia
+http://boyztoyz.us:80/RonDenston/15.05.19/6673
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Fox Pitts
+http://boyztoyz.us:80/RonDenston/15.05.19/6672
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Fox Sports 1 HD
+http://boyztoyz.us:80/RonDenston/15.05.19/6946
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Fox Sports 2 HD
+http://boyztoyz.us:80/RonDenston/15.05.19/6945
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Fox Sports Arizona
+http://boyztoyz.us:80/RonDenston/15.05.19/6643
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Fox Sports Detroit
+http://boyztoyz.us:80/RonDenston/15.05.19/6642
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Fox Sports Florida
+http://boyztoyz.us:80/RonDenston/15.05.19/6641
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Fox Sports Midwest
+http://boyztoyz.us:80/RonDenston/15.05.19/6640
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Fox Sports North
+http://boyztoyz.us:80/RonDenston/15.05.19/6639
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Fox Sports Ohio
+http://boyztoyz.us:80/RonDenston/15.05.19/6638
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Fox Sports Ohioplus
+http://boyztoyz.us:80/RonDenston/15.05.19/6637
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Fox Sports Primeticket
+http://boyztoyz.us:80/RonDenston/15.05.19/6636
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Fox Sports Sandiego
+http://boyztoyz.us:80/RonDenston/15.05.19/6635
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Fox Sports Soccer Plus HD
+http://boyztoyz.us:80/RonDenston/15.05.19/6856
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Fox Sports South
+http://boyztoyz.us:80/RonDenston/15.05.19/6634
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Fox Sports South East
+http://boyztoyz.us:80/RonDenston/15.05.19/6633
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Fox Sports South West
+http://boyztoyz.us:80/RonDenston/15.05.19/6632
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Fox Sports South West Plus
+http://boyztoyz.us:80/RonDenston/15.05.19/6631
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Fox Sports Sun
+http://boyztoyz.us:80/RonDenston/15.05.19/6630
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Fox Sports Tennesse
+http://boyztoyz.us:80/RonDenston/15.05.19/6629
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Fox Sports W 1 HD
+http://boyztoyz.us:80/RonDenston/15.05.19/6769
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Fox Sports W 2 HD
+http://boyztoyz.us:80/RonDenston/15.05.19/6768
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Fox Sports West
+http://boyztoyz.us:80/RonDenston/15.05.19/6628
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Fox Sports Wisconsin
+http://boyztoyz.us:80/RonDenston/15.05.19/6627
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Fox Tennessee
+http://boyztoyz.us:80/RonDenston/15.05.19/6671
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Fox Texas
+http://boyztoyz.us:80/RonDenston/15.05.19/6670
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Freeform HD
+http://boyztoyz.us:80/RonDenston/15.05.19/6911
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Fuse HD
+http://boyztoyz.us:80/RonDenston/15.05.19/6855
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Fusion HD
+http://boyztoyz.us:80/RonDenston/15.05.19/6854
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Fx HD
+http://boyztoyz.us:80/RonDenston/15.05.19/6853
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Fxm HD
+http://boyztoyz.us:80/RonDenston/15.05.19/6852
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Fxx HD
+http://boyztoyz.us:80/RonDenston/15.05.19/6851
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Fyi HD
+http://boyztoyz.us:80/RonDenston/15.05.19/6850
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Galavision HD Sp
+http://boyztoyz.us:80/RonDenston/15.05.19/6849
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Ginx Esports Tv HD
+http://boyztoyz.us:80/RonDenston/15.05.19/6767
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Gol Tv En HD
+http://boyztoyz.us:80/RonDenston/15.05.19/6848
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Gol Tv HD Sp
+http://boyztoyz.us:80/RonDenston/15.05.19/6847
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Golf HD
+http://boyztoyz.us:80/RonDenston/15.05.19/6944
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | H2 HD
+http://boyztoyz.us:80/RonDenston/15.05.19/6910
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Hallmark Drama HD
+http://boyztoyz.us:80/RonDenston/15.05.19/6792
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Hallmark HD
+http://boyztoyz.us:80/RonDenston/15.05.19/6909
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Hallmark Movie HD
+http://boyztoyz.us:80/RonDenston/15.05.19/6846
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Hbo East HD
+http://boyztoyz.us:80/RonDenston/15.05.19/6766
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Hbo Family HD
+http://boyztoyz.us:80/RonDenston/15.05.19/6908
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Hbo West HD
+http://boyztoyz.us:80/RonDenston/15.05.19/6907
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Hbo Zone HD
+http://boyztoyz.us:80/RonDenston/15.05.19/6906
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Hgtv HD
+http://boyztoyz.us:80/RonDenston/15.05.19/6905
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | History HD
+http://boyztoyz.us:80/RonDenston/15.05.19/6845
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Hln HD
+http://boyztoyz.us:80/RonDenston/15.05.19/6865
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Ifc HD
+http://boyztoyz.us:80/RonDenston/15.05.19/6813
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Investigation Discovery HD
+http://boyztoyz.us:80/RonDenston/15.05.19/6904
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Ktvu Plus HD
+http://boyztoyz.us:80/RonDenston/15.05.19/6868
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Lifetime HD
+http://boyztoyz.us:80/RonDenston/15.05.19/6844
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Lmn HD
+http://boyztoyz.us:80/RonDenston/15.05.19/6843
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Longhorn Network HD
+http://boyztoyz.us:80/RonDenston/15.05.19/6765
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Mas Chic HD
+http://boyztoyz.us:80/RonDenston/15.05.19/6812
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Mavtv HD
+http://boyztoyz.us:80/RonDenston/15.05.19/6811
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Mgm HD
+http://boyztoyz.us:80/RonDenston/15.05.19/6896
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Mlb Network HD
+http://boyztoyz.us:80/RonDenston/15.05.19/6943
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Motor Trend HD
+http://boyztoyz.us:80/RonDenston/15.05.19/6810
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Msnbc HD
+http://boyztoyz.us:80/RonDenston/15.05.19/6842
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Mtv HD
+http://boyztoyz.us:80/RonDenston/15.05.19/6903
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | My Arizona
+http://boyztoyz.us:80/RonDenston/15.05.19/6669
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | My Charlotte
+http://boyztoyz.us:80/RonDenston/15.05.19/6668
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | My Dallas
+http://boyztoyz.us:80/RonDenston/15.05.19/6667
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | My Houston
+http://boyztoyz.us:80/RonDenston/15.05.19/6666
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | My Los Angeles
+http://boyztoyz.us:80/RonDenston/15.05.19/6665
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | My Minneapolis
+http://boyztoyz.us:80/RonDenston/15.05.19/6664
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | My New Jersey
+http://boyztoyz.us:80/RonDenston/15.05.19/6663
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | My New Mexico
+http://boyztoyz.us:80/RonDenston/15.05.19/6662
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | My Orlando
+http://boyztoyz.us:80/RonDenston/15.05.19/6661
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Nat Geo East HD
+http://boyztoyz.us:80/RonDenston/15.05.19/6841
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Nat Geo HD
+http://boyztoyz.us:80/RonDenston/15.05.19/6764
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Nat Geo Mundo HD
+http://boyztoyz.us:80/RonDenston/15.05.19/6809
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Nat Geo Wild HD
+http://boyztoyz.us:80/RonDenston/15.05.19/6840
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Nba Tv HD
+http://boyztoyz.us:80/RonDenston/15.05.19/6874
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Nbc Chicago
+http://boyztoyz.us:80/RonDenston/15.05.19/6660
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Nbc Connecticut
+http://boyztoyz.us:80/RonDenston/15.05.19/6659
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Nbc HD
+http://boyztoyz.us:80/RonDenston/15.05.19/6902
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Nbc Los Angeles
+http://boyztoyz.us:80/RonDenston/15.05.19/6658
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Nbc Miami
+http://boyztoyz.us:80/RonDenston/15.05.19/6657
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Nbc Philadelphia
+http://boyztoyz.us:80/RonDenston/15.05.19/6656
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Nbc San Diego
+http://boyztoyz.us:80/RonDenston/15.05.19/6655
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Nbc Sports Chicago HD
+http://boyztoyz.us:80/RonDenston/15.05.19/6839
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Nbc Sports Plus Chicago HD
+http://boyztoyz.us:80/RonDenston/15.05.19/6808
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Nbc Texas
+http://boyztoyz.us:80/RonDenston/15.05.19/6654
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Nbc Washington
+http://boyztoyz.us:80/RonDenston/15.05.19/6653
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Nbcsn Bay Area
+http://boyztoyz.us:80/RonDenston/15.05.19/6626
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Nbcsn Boston
+http://boyztoyz.us:80/RonDenston/15.05.19/6625
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Nbcsn California
+http://boyztoyz.us:80/RonDenston/15.05.19/6624
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Nbcsn California Plus
+http://boyztoyz.us:80/RonDenston/15.05.19/6623
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Nbcsn HD
+http://boyztoyz.us:80/RonDenston/15.05.19/6942
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Nesn 1 HD
+http://boyztoyz.us:80/RonDenston/15.05.19/6622
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Nesn 2 HD
+http://boyztoyz.us:80/RonDenston/15.05.19/6621
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Nesn 3 HD
+http://boyztoyz.us:80/RonDenston/15.05.19/6620
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Nesn 4 HD
+http://boyztoyz.us:80/RonDenston/15.05.19/6619
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Nesn 5 HD
+http://boyztoyz.us:80/RonDenston/15.05.19/6618
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | New England Cable News HD
+http://boyztoyz.us:80/RonDenston/15.05.19/6763
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Nfl Network HD
+http://boyztoyz.us:80/RonDenston/15.05.19/6941
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Nfl Now HD
+http://boyztoyz.us:80/RonDenston/15.05.19/6940
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Nhl Network HD
+http://boyztoyz.us:80/RonDenston/15.05.19/6901
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Nick HD
+http://boyztoyz.us:80/RonDenston/15.05.19/6900
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Nick Jr HD
+http://boyztoyz.us:80/RonDenston/15.05.19/6899
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Nicktoons HD
+http://boyztoyz.us:80/RonDenston/15.05.19/6898
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Outdoor HD
+http://boyztoyz.us:80/RonDenston/15.05.19/6807
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Outside Tv HD
+http://boyztoyz.us:80/RonDenston/15.05.19/6806
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Own HD
+http://boyztoyz.us:80/RonDenston/15.05.19/6761
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Oxygen HD
+http://boyztoyz.us:80/RonDenston/15.05.19/6838
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Paramount Network HD
+http://boyztoyz.us:80/RonDenston/15.05.19/6837
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Pbs HD
+http://boyztoyz.us:80/RonDenston/15.05.19/6897
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | People Tv HD
+http://boyztoyz.us:80/RonDenston/15.05.19/6791
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Pop HD
+http://boyztoyz.us:80/RonDenston/15.05.19/6836
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Revolt HD
+http://boyztoyz.us:80/RonDenston/15.05.19/6835
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Rtp International HD
+http://boyztoyz.us:80/RonDenston/15.05.19/6805
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Discovery Science HD
+http://boyztoyz.us:80/RonDenston/15.05.19/6917
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Sec Network HD
+http://boyztoyz.us:80/RonDenston/15.05.19/6939
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Showtime East HD
+http://boyztoyz.us:80/RonDenston/15.05.19/6895
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Showtime Showcase HD
+http://boyztoyz.us:80/RonDenston/15.05.19/6833
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Showtime West HD
+http://boyztoyz.us:80/RonDenston/15.05.19/6834
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Sn Central HD
+http://boyztoyz.us:80/RonDenston/15.05.19/6894
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Sony Movies HD
+http://boyztoyz.us:80/RonDenston/15.05.19/6790
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Sports Illustrated (Sitv ) HD
+http://boyztoyz.us:80/RonDenston/15.05.19/6804
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Sports Illustrated HD
+http://boyztoyz.us:80/RonDenston/15.05.19/6760
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Sports Man HD
+http://boyztoyz.us:80/RonDenston/15.05.19/6803
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Stadium HD 1
+http://boyztoyz.us:80/RonDenston/15.05.19/6797
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Stadium HD 2
+http://boyztoyz.us:80/RonDenston/15.05.19/6796
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Stadium HD 3
+http://boyztoyz.us:80/RonDenston/15.05.19/6795
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Stadium HD Original
+http://boyztoyz.us:80/RonDenston/15.05.19/6794
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Starz East HD
+http://boyztoyz.us:80/RonDenston/15.05.19/6892
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Starz Edge HD
+http://boyztoyz.us:80/RonDenston/15.05.19/6891
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Starz Encore HD
+http://boyztoyz.us:80/RonDenston/15.05.19/6832
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Starz HD
+http://boyztoyz.us:80/RonDenston/15.05.19/6890
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Starz Kids & Family
+http://boyztoyz.us:80/RonDenston/15.05.19/6889
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Sundance HD
+http://boyztoyz.us:80/RonDenston/15.05.19/6802
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Syfy HD
+http://boyztoyz.us:80/RonDenston/15.05.19/6888
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Tbs HD
+http://boyztoyz.us:80/RonDenston/15.05.19/6887
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Tcm HD
+http://boyztoyz.us:80/RonDenston/15.05.19/6866
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Telemondo HD Sp
+http://boyztoyz.us:80/RonDenston/15.05.19/6831
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Telemundo Boston
+http://boyztoyz.us:80/RonDenston/15.05.19/6751
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Telemundo California
+http://boyztoyz.us:80/RonDenston/15.05.19/6755
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Telemundo Chicago
+http://boyztoyz.us:80/RonDenston/15.05.19/6750
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Telemundo Dallas
+http://boyztoyz.us:80/RonDenston/15.05.19/6759
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Telemundo Denver
+http://boyztoyz.us:80/RonDenston/15.05.19/6749
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Telemundo Florida
+http://boyztoyz.us:80/RonDenston/15.05.19/6754
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Telemundo Houston
+http://boyztoyz.us:80/RonDenston/15.05.19/6748
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Telemundo Lasvegas
+http://boyztoyz.us:80/RonDenston/15.05.19/6747
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Telemundo Los Angeles
+http://boyztoyz.us:80/RonDenston/15.05.19/6753
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Telemundo Newyork
+http://boyztoyz.us:80/RonDenston/15.05.19/6756
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Telemundo Philadelphia
+http://boyztoyz.us:80/RonDenston/15.05.19/6752
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Telemundo Phoenix
+http://boyztoyz.us:80/RonDenston/15.05.19/6746
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Telemundo Sanantonio
+http://boyztoyz.us:80/RonDenston/15.05.19/6745
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Telemundo Texas
+http://boyztoyz.us:80/RonDenston/15.05.19/6758
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Telemundo Tucson
+http://boyztoyz.us:80/RonDenston/15.05.19/6744
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Telemundo Washington
+http://boyztoyz.us:80/RonDenston/15.05.19/6757
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Telexitos HD Sp
+http://boyztoyz.us:80/RonDenston/15.05.19/6830
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Tennis HD
+http://boyztoyz.us:80/RonDenston/15.05.19/6938
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | The Weather Channel HD
+http://boyztoyz.us:80/RonDenston/15.05.19/6886
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Tlc HD
+http://boyztoyz.us:80/RonDenston/15.05.19/6743
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Tnt 2 HD
+http://boyztoyz.us:80/RonDenston/15.05.19/6742
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Tnt HD
+http://boyztoyz.us:80/RonDenston/15.05.19/6885
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Tnt West HD
+http://boyztoyz.us:80/RonDenston/15.05.19/6741
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Travel Channel HD
+http://boyztoyz.us:80/RonDenston/15.05.19/6884
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Tru Tv HD
+http://boyztoyz.us:80/RonDenston/15.05.19/6883
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Tv Land HD
+http://boyztoyz.us:80/RonDenston/15.05.19/6882
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Tyc  Sports HD
+http://boyztoyz.us:80/RonDenston/15.05.19/6829
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Unimas HD
+http://boyztoyz.us:80/RonDenston/15.05.19/6828
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Olympic HD
+http://boyztoyz.us:80/RonDenston/15.05.19/6881
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Universal Kids HD
+http://boyztoyz.us:80/RonDenston/15.05.19/6827
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Universo HD Sp
+http://boyztoyz.us:80/RonDenston/15.05.19/6826
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Univision Dep HD
+http://boyztoyz.us:80/RonDenston/15.05.19/6880
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Univision Deprotes HD Sp
+http://boyztoyz.us:80/RonDenston/15.05.19/6825
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Univision HD Sp
+http://boyztoyz.us:80/RonDenston/15.05.19/6824
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Usa Network HD
+http://boyztoyz.us:80/RonDenston/15.05.19/6879
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Vh1 HD
+http://boyztoyz.us:80/RonDenston/15.05.19/6878
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Viceland HD
+http://boyztoyz.us:80/RonDenston/15.05.19/6877
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | We Tv HD
+http://boyztoyz.us:80/RonDenston/15.05.19/6801
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Wetv HD
+http://boyztoyz.us:80/RonDenston/15.05.19/6800
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Wfox HD (Nl)
+http://boyztoyz.us:80/RonDenston/15.05.19/6876
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Wgn HD
+http://boyztoyz.us:80/RonDenston/15.05.19/6875
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Willow Cricket HD
+http://boyztoyz.us:80/RonDenston/15.05.19/6934
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Wl Ny HD
+http://boyztoyz.us:80/RonDenston/15.05.19/6799
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | World Fishing Network HD
+http://boyztoyz.us:80/RonDenston/15.05.19/6798
+#EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Wwe Network HD
+http://boyztoyz.us:80/RonDenston/15.05.19/6936
+
+#EXTINF:-1 tvg-logo="" group-title="INDIA CHANNEL",INDIA-MOVIES | And Pictures HD
+http://boyztoyz.us:80/RonDenston/15.05.19/4732
+#EXTINF:-1 tvg-logo="" group-title="INDIA CHANNEL",INDIA-MOVIES | B4U Movies
+http://boyztoyz.us:80/RonDenston/15.05.19/4726
+#EXTINF:-1 tvg-logo="" group-title="INDIA CHANNEL",INDIA-MOVIES | Bollywood Premier HD
+http://boyztoyz.us:80/RonDenston/15.05.19/7022
+#EXTINF:-1 tvg-logo="" group-title="INDIA CHANNEL",INDIA-MOVIES | Evergeen Classic HD
+http://boyztoyz.us:80/RonDenston/15.05.19/7024
+#EXTINF:-1 tvg-logo="" group-title="INDIA CHANNEL",INDIA-MOVIES | Dish Box Office Premier
+http://boyztoyz.us:80/RonDenston/15.05.19/7027
+#EXTINF:-1 tvg-logo="" group-title="INDIA CHANNEL",INDIA-MOVIES | Enterr 10
+http://boyztoyz.us:80/RonDenston/15.05.19/4724
+#EXTINF:-1 tvg-logo="" group-title="INDIA CHANNEL",INDIA-MOVIES | Ganga
+http://boyztoyz.us:80/RonDenston/15.05.19/7028
+#EXTINF:-1 tvg-logo="" group-title="INDIA CHANNEL",INDIA-MOVIES | HBO HD
+http://boyztoyz.us:80/RonDenston/15.05.19/4709
+#EXTINF:-1 tvg-logo="" group-title="INDIA CHANNEL",INDIA-MOVIES | Housefull Movies
+http://boyztoyz.us:80/RonDenston/15.05.19/4719
+#EXTINF:-1 tvg-logo="" group-title="INDIA CHANNEL",INDIA-MOVIES | Maha Movies
+http://boyztoyz.us:80/RonDenston/15.05.19/4718
+#EXTINF:-1 tvg-logo="" group-title="INDIA CHANNEL",INDIA-MOVIES | Miniplex HD
+http://boyztoyz.us:80/RonDenston/15.05.19/7029
+#EXTINF:-1 tvg-logo="" group-title="INDIA CHANNEL",INDIA-MOVIES | MNX HD
+http://boyztoyz.us:80/RonDenston/15.05.19/7009
+#EXTINF:-1 tvg-logo="" group-title="INDIA CHANNEL",INDIA-MOVIES | MN+
+http://boyztoyz.us:80/RonDenston/15.05.19/4714
+#EXTINF:-1 tvg-logo="" group-title="INDIA CHANNEL",INDIA-MOVIES | Movies Active
+http://boyztoyz.us:80/RonDenston/15.05.19/7030
+#EXTINF:-1 tvg-logo="" group-title="INDIA CHANNEL",INDIA-MOVIES | Movies Now HD
+http://boyztoyz.us:80/RonDenston/15.05.19/4716
+#EXTINF:-1 tvg-logo="" group-title="INDIA CHANNEL",INDIA-MOVIES | Movies OK HD
+http://boyztoyz.us:80/RonDenston/15.05.19/4729
+#EXTINF:-1 tvg-logo="" group-title="INDIA CHANNEL",INDIA-MOVIES | Colors Cineplex
+http://boyztoyz.us:80/RonDenston/15.05.19/4728
+#EXTINF:-1 tvg-logo="" group-title="INDIA CHANNEL",INDIA-MOVIES | Romedy Now HD
+http://boyztoyz.us:80/RonDenston/15.05.19/4713
+#EXTINF:-1 tvg-logo="" group-title="INDIA CHANNEL",INDIA-MOVIES | Sony Max HD
+http://boyztoyz.us:80/RonDenston/15.05.19/4731
+#EXTINF:-1 tvg-logo="" group-title="INDIA CHANNEL",INDIA-MOVIES | Sony MAX2
+http://boyztoyz.us:80/RonDenston/15.05.19/4727
+#EXTINF:-1 tvg-logo="" group-title="INDIA CHANNEL",INDIA-MOVIES | Sony Pix HD
+http://boyztoyz.us:80/RonDenston/15.05.19/4715
+#EXTINF:-1 tvg-logo="" group-title="INDIA CHANNEL",INDIA-MOVIES | Sony Wah
+http://boyztoyz.us:80/RonDenston/15.05.19/5041
+#EXTINF:-1 tvg-logo="" group-title="INDIA CHANNEL",INDIA-MOVIES | Star Gold HD
+http://boyztoyz.us:80/RonDenston/15.05.19/4730
+#EXTINF:-1 tvg-logo="" group-title="INDIA CHANNEL",INDIA-MOVIES | Star Gold Select HD
+http://boyztoyz.us:80/RonDenston/15.05.19/5037
+#EXTINF:-1 tvg-logo="" group-title="INDIA CHANNEL",INDIA-MOVIES | Star Movies HD
+http://boyztoyz.us:80/RonDenston/15.05.19/5040
+#EXTINF:-1 tvg-logo="" group-title="INDIA CHANNEL",INDIA-MOVIES | Star Movies Select HD
+http://boyztoyz.us:80/RonDenston/15.05.19/5039
+#EXTINF:-1 tvg-logo="" group-title="INDIA CHANNEL",INDIA-MOVIES | Tata Sky World Cinema HD
+http://boyztoyz.us:80/RonDenston/15.05.19/7003
+#EXTINF:-1 tvg-logo="" group-title="INDIA CHANNEL",INDIA-MOVIES | UTV Action
+http://boyztoyz.us:80/RonDenston/15.05.19/7039
+#EXTINF:-1 tvg-logo="" group-title="INDIA CHANNEL",INDIA-MOVIES | UTV HD
+http://boyztoyz.us:80/RonDenston/15.05.19/7040
+#EXTINF:-1 tvg-logo="" group-title="INDIA CHANNEL",INDIA-MOVIES | UTV Movies
+http://boyztoyz.us:80/RonDenston/15.05.19/7038
+#EXTINF:-1 tvg-logo="" group-title="INDIA CHANNEL",INDIA-MOVIES | Warner Bros
+http://boyztoyz.us:80/RonDenston/15.05.19/7001
+#EXTINF:-1 tvg-logo="" group-title="INDIA CHANNEL",INDIA-MOVIES | Zee Action
+http://boyztoyz.us:80/RonDenston/15.05.19/4722
+#EXTINF:-1 tvg-logo="" group-title="INDIA CHANNEL",INDIA-MOVIES | Zee Anmol Cinema
+http://boyztoyz.us:80/RonDenston/15.05.19/4721
+#EXTINF:-1 tvg-logo="" group-title="INDIA CHANNEL",INDIA-MOVIES | Zee Cinema
+http://boyztoyz.us:80/RonDenston/15.05.19/4725
+#EXTINF:-1 tvg-logo="" group-title="INDIA CHANNEL",INDIA-MOVIES | Zee Cinema HD
+http://boyztoyz.us:80/RonDenston/15.05.19/4733
+#EXTINF:-1 tvg-logo="" group-title="INDIA CHANNEL",INDIA-MOVIES | Zee Bollywood (Classic)
+http://boyztoyz.us:80/RonDenston/15.05.19/4723
+#EXTINF:-1 tvg-logo="" group-title="INDIA CHANNEL",INDIA-MOVIES | And Flix HD
+http://boyztoyz.us:80/RonDenston/15.05.19/5030
+#EXTINF:-1 tvg-logo="" group-title="INDIA CHANNEL",INDIA-SPORTS | DD Sports
+http://boyztoyz.us:80/RonDenston/15.05.19/4859
+#EXTINF:-1 tvg-logo="" group-title="INDIA CHANNEL",INDIA-SPORTS | Dsports HD
+http://boyztoyz.us:80/RonDenston/15.05.19/4839
+#EXTINF:-1 tvg-logo="" group-title="INDIA CHANNEL",INDIA-SPORTS | Sony ESPN HD
+http://boyztoyz.us:80/RonDenston/15.05.19/4854
+#EXTINF:-1 tvg-logo="" group-title="INDIA CHANNEL",INDIA-SPORTS | Sony Six HD
+http://boyztoyz.us:80/RonDenston/15.05.19/4856
+#EXTINF:-1 tvg-logo="" group-title="INDIA CHANNEL",INDIA-SPORTS | Star Sports 1 HD
+http://boyztoyz.us:80/RonDenston/15.05.19/4858
+#EXTINF:-1 tvg-logo="" group-title="INDIA CHANNEL",INDIA-SPORTS | Star Sports 2 HD
+http://boyztoyz.us:80/RonDenston/15.05.19/4857
+#EXTINF:-1 tvg-logo="" group-title="INDIA CHANNEL",INDIA-SPORTS | Star Sports 3
+http://boyztoyz.us:80/RonDenston/15.05.19/7731
+#EXTINF:-1 tvg-logo="" group-title="INDIA CHANNEL",INDIA-SPORTS | Star Sports First
+http://boyztoyz.us:80/RonDenston/15.05.19/176
+#EXTINF:-1 tvg-logo="" group-title="INDIA CHANNEL",INDIA-SPORTS | Star Sports 1 HD Hindi
+http://boyztoyz.us:80/RonDenston/15.05.19/4860
+#EXTINF:-1 tvg-logo="" group-title="INDIA CHANNEL",INDIA-SPORTS | Star Sports Tamil
+http://boyztoyz.us:80/RonDenston/15.05.19/7827
+#EXTINF:-1 tvg-logo="" group-title="INDIA CHANNEL",INDIA-SPORTS | Star Sports Select HD1
+http://boyztoyz.us:80/RonDenston/15.05.19/4852
+#EXTINF:-1 tvg-logo="" group-title="INDIA CHANNEL",INDIA-SPORTS | Star Sports Select HD2
+http://boyztoyz.us:80/RonDenston/15.05.19/4851
+#EXTINF:-1 tvg-logo="" group-title="INDIA CHANNEL",INDIA-SPORTS | Ten 1 HD
+http://boyztoyz.us:80/RonDenston/15.05.19/4855
+#EXTINF:-1 tvg-logo="" group-title="INDIA CHANNEL",INDIA-SPORTS | Ten 2 HD
+http://boyztoyz.us:80/RonDenston/15.05.19/4837
+#EXTINF:-1 tvg-logo="" group-title="INDIA CHANNEL",INDIA-SPORTS | Ten 3 HD
+http://boyztoyz.us:80/RonDenston/15.05.19/4836
+
+#EXTINF:-1 tvg-logo="" group-title="SPAIN CHANNEL",ES: #0 FHD
+http://boyztoyz.us:80/RonDenston/15.05.19/2884
+#EXTINF:-1 tvg-logo="" group-title="SPAIN CHANNEL",ES: 24 Horas
+http://boyztoyz.us:80/RonDenston/15.05.19/2861
+#EXTINF:-1 tvg-logo="" group-title="SPAIN CHANNEL",ES: 3/24
+http://boyztoyz.us:80/RonDenston/15.05.19/2734
+#EXTINF:-1 tvg-logo="" group-title="SPAIN CHANNEL",ES: 40 TV
+http://boyztoyz.us:80/RonDenston/15.05.19/2733
+#EXTINF:-1 tvg-logo="" group-title="SPAIN CHANNEL",ES: AMC HD
+http://boyztoyz.us:80/RonDenston/15.05.19/2823
+#EXTINF:-1 tvg-logo="" group-title="SPAIN CHANNEL",ES: Andalucia TV
+http://boyztoyz.us:80/RonDenston/15.05.19/2866
+#EXTINF:-1 tvg-logo="" group-title="SPAIN CHANNEL",ES: Antena 3
+http://boyztoyz.us:80/RonDenston/15.05.19/2879
+#EXTINF:-1 tvg-logo="" group-title="SPAIN CHANNEL",ES: Antena 3 HD
+http://boyztoyz.us:80/RonDenston/15.05.19/2880
+#EXTINF:-1 tvg-logo="" group-title="SPAIN CHANNEL",ES: AXN
+http://boyztoyz.us:80/RonDenston/15.05.19/2821
+#EXTINF:-1 tvg-logo="" group-title="SPAIN CHANNEL",ES: AXN HD
+http://boyztoyz.us:80/RonDenston/15.05.19/2822
+#EXTINF:-1 tvg-logo="" group-title="SPAIN CHANNEL",ES: AXN WHITE FHD
+http://boyztoyz.us:80/RonDenston/15.05.19/2820
+#EXTINF:-1 tvg-logo="" group-title="SPAIN CHANNEL",ES: Barca TV
+http://boyztoyz.us:80/RonDenston/15.05.19/2781
+#EXTINF:-1 tvg-logo="" group-title="SPAIN CHANNEL",ES: beIN La Liga
+http://boyztoyz.us:80/RonDenston/15.05.19/2774
+#EXTINF:-1 tvg-logo="" group-title="SPAIN CHANNEL",ES: Bein LaLiga FHD
+http://boyztoyz.us:80/RonDenston/15.05.19/2775
+#EXTINF:-1 tvg-logo="" group-title="SPAIN CHANNEL",ES: BEIN MAX 1
+http://boyztoyz.us:80/RonDenston/15.05.19/2759
+#EXTINF:-1 tvg-logo="" group-title="SPAIN CHANNEL",ES: BEIN MAX 1 HD
+http://boyztoyz.us:80/RonDenston/15.05.19/2760
+#EXTINF:-1 tvg-logo="" group-title="SPAIN CHANNEL",ES: BEIN MAX 2
+http://boyztoyz.us:80/RonDenston/15.05.19/2757
+#EXTINF:-1 tvg-logo="" group-title="SPAIN CHANNEL",ES: BEIN MAX 2 HD
+http://boyztoyz.us:80/RonDenston/15.05.19/2758
+#EXTINF:-1 tvg-logo="" group-title="SPAIN CHANNEL",ES: BEIN MAX 3
+http://boyztoyz.us:80/RonDenston/15.05.19/2756
+#EXTINF:-1 tvg-logo="" group-title="SPAIN CHANNEL",ES: BEIN MAX 3 HD
+http://boyztoyz.us:80/RonDenston/15.05.19/2755
+#EXTINF:-1 tvg-logo="" group-title="SPAIN CHANNEL",ES: BEIN MAX 4
+http://boyztoyz.us:80/RonDenston/15.05.19/2754
+#EXTINF:-1 tvg-logo="" group-title="SPAIN CHANNEL",ES: BEIN MAX 5
+http://boyztoyz.us:80/RonDenston/15.05.19/2753
+#EXTINF:-1 tvg-logo="" group-title="SPAIN CHANNEL",ES: BEIN MAX 6
+http://boyztoyz.us:80/RonDenston/15.05.19/2752
+#EXTINF:-1 tvg-logo="" group-title="SPAIN CHANNEL",ES: BEIN MAX 7
+http://boyztoyz.us:80/RonDenston/15.05.19/2751
+#EXTINF:-1 tvg-logo="" group-title="SPAIN CHANNEL",ES: BEIN MAX 8
+http://boyztoyz.us:80/RonDenston/15.05.19/2750
+#EXTINF:-1 tvg-logo="" group-title="SPAIN CHANNEL",ES: BeIN Sports FHD
+http://boyztoyz.us:80/RonDenston/15.05.19/2776
+#EXTINF:-1 tvg-logo="" group-title="SPAIN CHANNEL",ES: BEIN SPORTS HD
+http://boyztoyz.us:80/RonDenston/15.05.19/2777
+#EXTINF:-1 tvg-logo="" group-title="SPAIN CHANNEL",ES: Boing
+http://boyztoyz.us:80/RonDenston/15.05.19/2856
+#EXTINF:-1 tvg-logo="" group-title="SPAIN CHANNEL",ES: CALLE 13 FHD
+http://boyztoyz.us:80/RonDenston/15.05.19/2813
+#EXTINF:-1 tvg-logo="" group-title="SPAIN CHANNEL",ES: Canal  Liga
+http://boyztoyz.us:80/RonDenston/15.05.19/2795
+#EXTINF:-1 tvg-logo="" group-title="SPAIN CHANNEL",ES: Canal 2 HD
+http://boyztoyz.us:80/RonDenston/15.05.19/2736
+#EXTINF:-1 tvg-logo="" group-title="SPAIN CHANNEL",ES: Canal 3 HD
+http://boyztoyz.us:80/RonDenston/15.05.19/2737
+#EXTINF:-1 tvg-logo="" group-title="SPAIN CHANNEL",ES: Canal 41 Mar Del
+http://boyztoyz.us:80/RonDenston/15.05.19/2738
+#EXTINF:-1 tvg-logo="" group-title="SPAIN CHANNEL",ES: Canal 7 HD
+http://boyztoyz.us:80/RonDenston/15.05.19/2740
+#EXTINF:-1 tvg-logo="" group-title="SPAIN CHANNEL",ES: Canal Cocina
+http://boyztoyz.us:80/RonDenston/15.05.19/2862
+#EXTINF:-1 tvg-logo="" group-title="SPAIN CHANNEL",ES: Canal Costa
+http://boyztoyz.us:80/RonDenston/15.05.19/2735
+#EXTINF:-1 tvg-logo="" group-title="SPAIN CHANNEL",ES: Canal De Las Estrellas
+http://boyztoyz.us:80/RonDenston/15.05.19/2732
+#EXTINF:-1 tvg-logo="" group-title="SPAIN CHANNEL",ES: Caza Y Pesca FHD
+http://boyztoyz.us:80/RonDenston/15.05.19/2799
+#EXTINF:-1 tvg-logo="" group-title="SPAIN CHANNEL",ES: Clan TVE
+http://boyztoyz.us:80/RonDenston/15.05.19/2857
+#EXTINF:-1 tvg-logo="" group-title="SPAIN CHANNEL",ES: Comedy Central HD
+http://boyztoyz.us:80/RonDenston/15.05.19/2830
+#EXTINF:-1 tvg-logo="" group-title="SPAIN CHANNEL",ES: Comedy Central.
+http://boyztoyz.us:80/RonDenston/15.05.19/2829
+#EXTINF:-1 tvg-logo="" group-title="SPAIN CHANNEL",ES: Cosmo
+http://boyztoyz.us:80/RonDenston/15.05.19/2863
+#EXTINF:-1 tvg-logo="" group-title="SPAIN CHANNEL",ES: Cosmo HD
+http://boyztoyz.us:80/RonDenston/15.05.19/2864
+#EXTINF:-1 tvg-logo="" group-title="SPAIN CHANNEL",ES: Crime   Investigation
+http://boyztoyz.us:80/RonDenston/15.05.19/2846
+#EXTINF:-1 tvg-logo="" group-title="SPAIN CHANNEL",ES: CUATRO FHD
+http://boyztoyz.us:80/RonDenston/15.05.19/2878
+#EXTINF:-1 tvg-logo="" group-title="SPAIN CHANNEL",ES: Cuatro.
+http://boyztoyz.us:80/RonDenston/15.05.19/2877
+#EXTINF:-1 tvg-logo="" group-title="SPAIN CHANNEL",ES: Discovery Channel
+http://boyztoyz.us:80/RonDenston/15.05.19/2851
+#EXTINF:-1 tvg-logo="" group-title="SPAIN CHANNEL",ES: Disney Channel
+http://boyztoyz.us:80/RonDenston/15.05.19/2860
+#EXTINF:-1 tvg-logo="" group-title="SPAIN CHANNEL",ES: Disney Jr.
+http://boyztoyz.us:80/RonDenston/15.05.19/2859
+#EXTINF:-1 tvg-logo="" group-title="SPAIN CHANNEL",ES: DISNEY XD
+http://boyztoyz.us:80/RonDenston/15.05.19/2858
+#EXTINF:-1 tvg-logo="" group-title="SPAIN CHANNEL",ES: DIVINITY
+http://boyztoyz.us:80/RonDenston/15.05.19/2868
+#EXTINF:-1 tvg-logo="" group-title="SPAIN CHANNEL",ES: Energy
+http://boyztoyz.us:80/RonDenston/15.05.19/2867
+#EXTINF:-1 tvg-logo="" group-title="SPAIN CHANNEL",ES: Eurosport 1
+http://boyztoyz.us:80/RonDenston/15.05.19/2779
+#EXTINF:-1 tvg-logo="" group-title="SPAIN CHANNEL",ES: Eurosport 1 HD
+http://boyztoyz.us:80/RonDenston/15.05.19/2780
+#EXTINF:-1 tvg-logo="" group-title="SPAIN CHANNEL",ES: Eurosport 2
+http://boyztoyz.us:80/RonDenston/15.05.19/2778
+#EXTINF:-1 tvg-logo="" group-title="SPAIN CHANNEL",ES: Fdf
+http://boyztoyz.us:80/RonDenston/15.05.19/2869
+#EXTINF:-1 tvg-logo="" group-title="SPAIN CHANNEL",ES: FOX FHD
+http://boyztoyz.us:80/RonDenston/15.05.19/2827
+#EXTINF:-1 tvg-logo="" group-title="SPAIN CHANNEL",ES: FOX LIFE
+http://boyztoyz.us:80/RonDenston/15.05.19/2824
+#EXTINF:-1 tvg-logo="" group-title="SPAIN CHANNEL",ES: Fox Life HD
+http://boyztoyz.us:80/RonDenston/15.05.19/2825
+#EXTINF:-1 tvg-logo="" group-title="SPAIN CHANNEL",ES: Fox.
+http://boyztoyz.us:80/RonDenston/15.05.19/2826
+#EXTINF:-1 tvg-logo="" group-title="SPAIN CHANNEL",ES: Gol TV
+http://boyztoyz.us:80/RonDenston/15.05.19/2794
+#EXTINF:-1 tvg-logo="" group-title="SPAIN CHANNEL",ES: HISTORIA
+http://boyztoyz.us:80/RonDenston/15.05.19/2853
+#EXTINF:-1 tvg-logo="" group-title="SPAIN CHANNEL",ES: Hollywood FHD
+http://boyztoyz.us:80/RonDenston/15.05.19/2828
+#EXTINF:-1 tvg-logo="" group-title="SPAIN CHANNEL",ES: IBERALIA TV
+http://boyztoyz.us:80/RonDenston/15.05.19/2798
+#EXTINF:-1 tvg-logo="" group-title="SPAIN CHANNEL",ES: LA 1
+http://boyztoyz.us:80/RonDenston/15.05.19/2883
+#EXTINF:-1 tvg-logo="" group-title="SPAIN CHANNEL",ES: LA 1 HD
+http://boyztoyz.us:80/RonDenston/15.05.19/2882
+#EXTINF:-1 tvg-logo="" group-title="SPAIN CHANNEL",ES: LA 2
+http://boyztoyz.us:80/RonDenston/15.05.19/2881
+#EXTINF:-1 tvg-logo="" group-title="SPAIN CHANNEL",ES: LA LIGA
+http://boyztoyz.us:80/RonDenston/15.05.19/2769
+#EXTINF:-1 tvg-logo="" group-title="SPAIN CHANNEL",ES: LA LIGA BAR TV 1
+http://boyztoyz.us:80/RonDenston/15.05.19/2771
+#EXTINF:-1 tvg-logo="" group-title="SPAIN CHANNEL",ES: LA LIGA HD
+http://boyztoyz.us:80/RonDenston/15.05.19/2770
+#EXTINF:-1 tvg-logo="" group-title="SPAIN CHANNEL",ES: LA LIGA TV 1 SD
+http://boyztoyz.us:80/RonDenston/15.05.19/2768
+#EXTINF:-1 tvg-logo="" group-title="SPAIN CHANNEL",ES: LA LIGA TV 2 SD
+http://boyztoyz.us:80/RonDenston/15.05.19/2767
+#EXTINF:-1 tvg-logo="" group-title="SPAIN CHANNEL",ES: LA LIGA TV 3 SD
+http://boyztoyz.us:80/RonDenston/15.05.19/2766
+#EXTINF:-1 tvg-logo="" group-title="SPAIN CHANNEL",ES: LA LIGA TV 4 SD
+http://boyztoyz.us:80/RonDenston/15.05.19/2765
+#EXTINF:-1 tvg-logo="" group-title="SPAIN CHANNEL",ES: LA LIGA TV 5 SD
+http://boyztoyz.us:80/RonDenston/15.05.19/2764
+#EXTINF:-1 tvg-logo="" group-title="SPAIN CHANNEL",ES: LA LIGA TV 6 SD
+http://boyztoyz.us:80/RonDenston/15.05.19/2763
+#EXTINF:-1 tvg-logo="" group-title="SPAIN CHANNEL",ES: LA LIGA TV 7 SD
+http://boyztoyz.us:80/RonDenston/15.05.19/2762
+#EXTINF:-1 tvg-logo="" group-title="SPAIN CHANNEL",ES: LA LIGA TV 8 SD
+http://boyztoyz.us:80/RonDenston/15.05.19/2761
+#EXTINF:-1 tvg-logo="" group-title="SPAIN CHANNEL",ES: La Liga TV Bar
+http://boyztoyz.us:80/RonDenston/15.05.19/2773
+#EXTINF:-1 tvg-logo="" group-title="SPAIN CHANNEL",ES: LA LIGA TV BAR HD
+http://boyztoyz.us:80/RonDenston/15.05.19/2772
+#EXTINF:-1 tvg-logo="" group-title="SPAIN CHANNEL",ES: La Sexta
+http://boyztoyz.us:80/RonDenston/15.05.19/2873
+#EXTINF:-1 tvg-logo="" group-title="SPAIN CHANNEL",ES: La Sexta HD
+http://boyztoyz.us:80/RonDenston/15.05.19/2874
+#EXTINF:-1 tvg-logo="" group-title="SPAIN CHANNEL",ES: M. Accion
+http://boyztoyz.us:80/RonDenston/15.05.19/2841
+#EXTINF:-1 tvg-logo="" group-title="SPAIN CHANNEL",ES: M. ACCION HD
+http://boyztoyz.us:80/RonDenston/15.05.19/2842
+#EXTINF:-1 tvg-logo="" group-title="SPAIN CHANNEL",ES: M. Comedia
+http://boyztoyz.us:80/RonDenston/15.05.19/2839
+#EXTINF:-1 tvg-logo="" group-title="SPAIN CHANNEL",ES: M. COMEDIA FHD
+http://boyztoyz.us:80/RonDenston/15.05.19/2840
+#EXTINF:-1 tvg-logo="" group-title="SPAIN CHANNEL",ES: M. Dcine
+http://boyztoyz.us:80/RonDenston/15.05.19/2837
+#EXTINF:-1 tvg-logo="" group-title="SPAIN CHANNEL",ES: M. DCINE HD
+http://boyztoyz.us:80/RonDenston/15.05.19/2838
+#EXTINF:-1 tvg-logo="" group-title="SPAIN CHANNEL",ES: M. DEPORTES 1 HD
+http://boyztoyz.us:80/RonDenston/15.05.19/2790
+#EXTINF:-1 tvg-logo="" group-title="SPAIN CHANNEL",ES: M. Deportes 2
+http://boyztoyz.us:80/RonDenston/15.05.19/2787
+#EXTINF:-1 tvg-logo="" group-title="SPAIN CHANNEL",ES: M. DEPORTES 2 HD
+http://boyztoyz.us:80/RonDenston/15.05.19/2788
+#EXTINF:-1 tvg-logo="" group-title="SPAIN CHANNEL",ES: M. Depotes 1
+http://boyztoyz.us:80/RonDenston/15.05.19/2789
+#EXTINF:-1 tvg-logo="" group-title="SPAIN CHANNEL",ES: M. ESTRENOS FHD
+http://boyztoyz.us:80/RonDenston/15.05.19/2844
+#EXTINF:-1 tvg-logo="" group-title="SPAIN CHANNEL",ES: M. Formula 1
+http://boyztoyz.us:80/RonDenston/15.05.19/2785
+#EXTINF:-1 tvg-logo="" group-title="SPAIN CHANNEL",ES: M. Formula 1 FHD
+http://boyztoyz.us:80/RonDenston/15.05.19/2786
+#EXTINF:-1 tvg-logo="" group-title="SPAIN CHANNEL",ES: M. Futbol
+http://boyztoyz.us:80/RonDenston/15.05.19/2792
+#EXTINF:-1 tvg-logo="" group-title="SPAIN CHANNEL",ES: M. FUTBOL FHD
+http://boyztoyz.us:80/RonDenston/15.05.19/2793
+#EXTINF:-1 tvg-logo="" group-title="SPAIN CHANNEL",ES: M. GOLF
+http://boyztoyz.us:80/RonDenston/15.05.19/2791
+#EXTINF:-1 tvg-logo="" group-title="SPAIN CHANNEL",ES: M. GOLF HD
+http://boyztoyz.us:80/RonDenston/15.05.19/2784
+#EXTINF:-1 tvg-logo="" group-title="SPAIN CHANNEL",ES: M. MOTO GP HD
+http://boyztoyz.us:80/RonDenston/15.05.19/2797
+#EXTINF:-1 tvg-logo="" group-title="SPAIN CHANNEL",ES: M. MotoGp
+http://boyztoyz.us:80/RonDenston/15.05.19/2796
+#EXTINF:-1 tvg-logo="" group-title="SPAIN CHANNEL",ES: M. PARTIDAZO HD
+http://boyztoyz.us:80/RonDenston/15.05.19/2783
+#EXTINF:-1 tvg-logo="" group-title="SPAIN CHANNEL",ES: M. Series
+http://boyztoyz.us:80/RonDenston/15.05.19/2833
+#EXTINF:-1 tvg-logo="" group-title="SPAIN CHANNEL",ES: M. SERIES HD
+http://boyztoyz.us:80/RonDenston/15.05.19/2834
+#EXTINF:-1 tvg-logo="" group-title="SPAIN CHANNEL",ES: M. Series Xtra
+http://boyztoyz.us:80/RonDenston/15.05.19/2831
+#EXTINF:-1 tvg-logo="" group-title="SPAIN CHANNEL",ES: M. SERIES XTRA FHD
+http://boyztoyz.us:80/RonDenston/15.05.19/2832
+#EXTINF:-1 tvg-logo="" group-title="SPAIN CHANNEL",ES: M. XTRA
+http://boyztoyz.us:80/RonDenston/15.05.19/2835
+#EXTINF:-1 tvg-logo="" group-title="SPAIN CHANNEL",ES: M. XTRA FHD
+http://boyztoyz.us:80/RonDenston/15.05.19/2836
+#EXTINF:-1 tvg-logo="" group-title="SPAIN CHANNEL",ES: M.Estrenos
+http://boyztoyz.us:80/RonDenston/15.05.19/2843
+#EXTINF:-1 tvg-logo="" group-title="SPAIN CHANNEL",ES: Mega Tv
+http://boyztoyz.us:80/RonDenston/15.05.19/2870
+#EXTINF:-1 tvg-logo="" group-title="SPAIN CHANNEL",ES: MTV Espana
+http://boyztoyz.us:80/RonDenston/15.05.19/2743
+#EXTINF:-1 tvg-logo="" group-title="SPAIN CHANNEL",ES: MULTIDEPORTES 1
+http://boyztoyz.us:80/RonDenston/15.05.19/2749
+#EXTINF:-1 tvg-logo="" group-title="SPAIN CHANNEL",ES: MULTIDEPORTES 2
+http://boyztoyz.us:80/RonDenston/15.05.19/2748
+#EXTINF:-1 tvg-logo="" group-title="SPAIN CHANNEL",ES: MULTIDEPORTES 3
+http://boyztoyz.us:80/RonDenston/15.05.19/2747
+#EXTINF:-1 tvg-logo="" group-title="SPAIN CHANNEL",ES: MULTIDEPORTES 4
+http://boyztoyz.us:80/RonDenston/15.05.19/2746
+#EXTINF:-1 tvg-logo="" group-title="SPAIN CHANNEL",ES: National Geo
+http://boyztoyz.us:80/RonDenston/15.05.19/2849
+#EXTINF:-1 tvg-logo="" group-title="SPAIN CHANNEL",ES: National Geo HD
+http://boyztoyz.us:80/RonDenston/15.05.19/2850
+#EXTINF:-1 tvg-logo="" group-title="SPAIN CHANNEL",ES: National Geo Wild
+http://boyztoyz.us:80/RonDenston/15.05.19/2847
+#EXTINF:-1 tvg-logo="" group-title="SPAIN CHANNEL",ES: National Geo Wild FHD
+http://boyztoyz.us:80/RonDenston/15.05.19/2848
+#EXTINF:-1 tvg-logo="" group-title="SPAIN CHANNEL",ES: Neox
+http://boyztoyz.us:80/RonDenston/15.05.19/2872
+#EXTINF:-1 tvg-logo="" group-title="SPAIN CHANNEL",ES: Nick Jr.
+http://boyztoyz.us:80/RonDenston/15.05.19/2855
+#EXTINF:-1 tvg-logo="" group-title="SPAIN CHANNEL",ES: NICKELODEON FHD
+http://boyztoyz.us:80/RonDenston/15.05.19/2854
+#EXTINF:-1 tvg-logo="" group-title="SPAIN CHANNEL",ES: NON STOP PEOPLE
+http://boyztoyz.us:80/RonDenston/15.05.19/2845
+#EXTINF:-1 tvg-logo="" group-title="SPAIN CHANNEL",ES: NOVA
+http://boyztoyz.us:80/RonDenston/15.05.19/2871
+#EXTINF:-1 tvg-logo="" group-title="SPAIN CHANNEL",ES: PARAMOUNT
+http://boyztoyz.us:80/RonDenston/15.05.19/2812
+#EXTINF:-1 tvg-logo="" group-title="SPAIN CHANNEL",ES: Proyecto 40
+http://boyztoyz.us:80/RonDenston/15.05.19/2741
+#EXTINF:-1 tvg-logo="" group-title="SPAIN CHANNEL",ES: Real Madrid
+http://boyztoyz.us:80/RonDenston/15.05.19/2782
+#EXTINF:-1 tvg-logo="" group-title="SPAIN CHANNEL",ES: Sol Musica
+http://boyztoyz.us:80/RonDenston/15.05.19/2744
+#EXTINF:-1 tvg-logo="" group-title="SPAIN CHANNEL",ES: SYFY
+http://boyztoyz.us:80/RonDenston/15.05.19/2818
+#EXTINF:-1 tvg-logo="" group-title="SPAIN CHANNEL",ES: SYFY HD
+http://boyztoyz.us:80/RonDenston/15.05.19/2819
+#EXTINF:-1 tvg-logo="" group-title="SPAIN CHANNEL",ES: Taquilla 1
+http://boyztoyz.us:80/RonDenston/15.05.19/2811
+#EXTINF:-1 tvg-logo="" group-title="SPAIN CHANNEL",ES: Taquilla 10
+http://boyztoyz.us:80/RonDenston/15.05.19/2802
+#EXTINF:-1 tvg-logo="" group-title="SPAIN CHANNEL",ES: Taquilla 2
+http://boyztoyz.us:80/RonDenston/15.05.19/2810
+#EXTINF:-1 tvg-logo="" group-title="SPAIN CHANNEL",ES: Taquilla 3
+http://boyztoyz.us:80/RonDenston/15.05.19/2809
+#EXTINF:-1 tvg-logo="" group-title="SPAIN CHANNEL",ES: Taquilla 4
+http://boyztoyz.us:80/RonDenston/15.05.19/2808
+#EXTINF:-1 tvg-logo="" group-title="SPAIN CHANNEL",ES: Taquilla 5
+http://boyztoyz.us:80/RonDenston/15.05.19/2807
+#EXTINF:-1 tvg-logo="" group-title="SPAIN CHANNEL",ES: Taquilla 6
+http://boyztoyz.us:80/RonDenston/15.05.19/2806
+#EXTINF:-1 tvg-logo="" group-title="SPAIN CHANNEL",ES: Taquilla 7
+http://boyztoyz.us:80/RonDenston/15.05.19/2805
+#EXTINF:-1 tvg-logo="" group-title="SPAIN CHANNEL",ES: Taquilla 8
+http://boyztoyz.us:80/RonDenston/15.05.19/2804
+#EXTINF:-1 tvg-logo="" group-title="SPAIN CHANNEL",ES: Taquilla 9
+http://boyztoyz.us:80/RonDenston/15.05.19/2803
+#EXTINF:-1 tvg-logo="" group-title="SPAIN CHANNEL",ES: TCM
+http://boyztoyz.us:80/RonDenston/15.05.19/2816
+#EXTINF:-1 tvg-logo="" group-title="SPAIN CHANNEL",ES: TCM HD
+http://boyztoyz.us:80/RonDenston/15.05.19/2817
+#EXTINF:-1 tvg-logo="" group-title="SPAIN CHANNEL",ES: TELECINCO
+http://boyztoyz.us:80/RonDenston/15.05.19/2875
+#EXTINF:-1 tvg-logo="" group-title="SPAIN CHANNEL",ES: TELECINCO FHD
+http://boyztoyz.us:80/RonDenston/15.05.19/2876
+#EXTINF:-1 tvg-logo="" group-title="SPAIN CHANNEL",ES: Teledeporte
+http://boyztoyz.us:80/RonDenston/15.05.19/2745
+#EXTINF:-1 tvg-logo="" group-title="SPAIN CHANNEL",ES: TELEVISA HD
+http://boyztoyz.us:80/RonDenston/15.05.19/2739
+#EXTINF:-1 tvg-logo="" group-title="SPAIN CHANNEL",ES: TNT
+http://boyztoyz.us:80/RonDenston/15.05.19/2815
+#EXTINF:-1 tvg-logo="" group-title="SPAIN CHANNEL",ES: TNT FHD
+http://boyztoyz.us:80/RonDenston/15.05.19/2814
+#EXTINF:-1 tvg-logo="" group-title="SPAIN CHANNEL",ES: TOROS HD
+http://boyztoyz.us:80/RonDenston/15.05.19/2801
+#EXTINF:-1 tvg-logo="" group-title="SPAIN CHANNEL",ES: Toros Tv
+http://boyztoyz.us:80/RonDenston/15.05.19/2800
+#EXTINF:-1 tvg-logo="" group-title="SPAIN CHANNEL",ES: TV Galicia
+http://boyztoyz.us:80/RonDenston/15.05.19/2865
+#EXTINF:-1 tvg-logo="" group-title="SPAIN CHANNEL",ES: VH1
+http://boyztoyz.us:80/RonDenston/15.05.19/2742
+#EXTINF:-1 tvg-logo="" group-title="SPAIN CHANNEL",ES: Viajar FHD
+http://boyztoyz.us:80/RonDenston/15.05.19/2852
+
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",Sky Sports Red Button 1
+http://boyztoyz.us:80/RonDenston/15.05.19/6605
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",Sky Sports Red Button 2
+http://boyztoyz.us:80/RonDenston/15.05.19/6604
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",Sky Sports Red Button 3
+http://boyztoyz.us:80/RonDenston/15.05.19/6603
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",Sky Sports Red Button 4
+http://boyztoyz.us:80/RonDenston/15.05.19/6602
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",Sky Sports Red Button 5
+http://boyztoyz.us:80/RonDenston/15.05.19/6601
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",Sky Sports Red Button 6
+http://boyztoyz.us:80/RonDenston/15.05.19/6600
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",Sky Sports Red Button 7
+http://boyztoyz.us:80/RonDenston/15.05.19/6599
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",Sky Sports Red Button 8
+http://boyztoyz.us:80/RonDenston/15.05.19/6598
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",Sky Sports Red Button 9
+http://boyztoyz.us:80/RonDenston/15.05.19/6597
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",Sky Sports Red Button 10
+http://boyztoyz.us:80/RonDenston/15.05.19/6596
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",BBC Red Button 1 HD
+http://boyztoyz.us:80/RonDenston/15.05.19/880
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",BBC Red Button 2 HD
+http://boyztoyz.us:80/RonDenston/15.05.19/881
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",BBC Red Button 3 HD
+http://boyztoyz.us:80/RonDenston/15.05.19/882
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",BBC Red Button 4 HD
+http://boyztoyz.us:80/RonDenston/15.05.19/883
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",BBC Red Button 5 HD
+http://boyztoyz.us:80/RonDenston/15.05.19/884
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",BBC Red Button 6 HD
+http://boyztoyz.us:80/RonDenston/15.05.19/885
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",BBC Red Button 7 HD
+http://boyztoyz.us:80/RonDenston/15.05.19/886
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",BBC Red Button 8 HD
+http://boyztoyz.us:80/RonDenston/15.05.19/887
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",BBC Red Button 9 HD
+http://boyztoyz.us:80/RonDenston/15.05.19/888
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",BT Sports Extra 1
+http://boyztoyz.us:80/RonDenston/15.05.19/889
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",BT Sports Extra 2
+http://boyztoyz.us:80/RonDenston/15.05.19/890
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",BT Sports Extra 3
+http://boyztoyz.us:80/RonDenston/15.05.19/891
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",BT Sports Extra 4
+http://boyztoyz.us:80/RonDenston/15.05.19/1039
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",BT Sports Extra 5
+http://boyztoyz.us:80/RonDenston/15.05.19/1040
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",BT Sports Extra 6
+http://boyztoyz.us:80/RonDenston/15.05.19/1041
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",BT Sports 1 HD 1080p
+http://boyztoyz.us:80/RonDenston/15.05.19/374
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",BT Sports 1 HD 720p
+http://boyztoyz.us:80/RonDenston/15.05.19/237
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",BT Sports 2 HD 1080p
+http://boyztoyz.us:80/RonDenston/15.05.19/375
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",BT Sports 2 HD 720p
+http://boyztoyz.us:80/RonDenston/15.05.19/238
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",BT Sports 3 HD 1080p
+http://boyztoyz.us:80/RonDenston/15.05.19/26
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",BT Sports 3 HD 720p
+http://boyztoyz.us:80/RonDenston/15.05.19/241
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",BT Sports ESPN HD 1080p
+http://boyztoyz.us:80/RonDenston/15.05.19/4367
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",BT Sports ESPN HD 720p
+http://boyztoyz.us:80/RonDenston/15.05.19/423
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",SkySports Mix HD 1080p
+http://boyztoyz.us:80/RonDenston/15.05.19/4366
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",SkySports Mix HD 720p
+http://boyztoyz.us:80/RonDenston/15.05.19/1635
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",SkySports Main Event HD 1080p
+http://boyztoyz.us:80/RonDenston/15.05.19/367
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",SkySports Main Event HD 720p
+http://boyztoyz.us:80/RonDenston/15.05.19/230
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",SkySports Cricket HD 1080p
+http://boyztoyz.us:80/RonDenston/15.05.19/368
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",SkySports Cricket HD 720p
+http://boyztoyz.us:80/RonDenston/15.05.19/231
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",SkySports Action HD 1080p
+http://boyztoyz.us:80/RonDenston/15.05.19/369
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",SkySports Action HD 720p
+http://boyztoyz.us:80/RonDenston/15.05.19/232
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",SkySports Golf HD 1080p
+http://boyztoyz.us:80/RonDenston/15.05.19/370
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",SkySports Golf HD 720p
+http://boyztoyz.us:80/RonDenston/15.05.19/233
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",SkySports Premier League HD 1080p
+http://boyztoyz.us:80/RonDenston/15.05.19/371
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",SkySports Premier League HD 720p
+http://boyztoyz.us:80/RonDenston/15.05.19/234
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",SkySports F1 HD 1080p
+http://boyztoyz.us:80/RonDenston/15.05.19/372
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",SkySports F1 HD 720p
+http://boyztoyz.us:80/RonDenston/15.05.19/235
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",SkySports Arena HD 1080p
+http://boyztoyz.us:80/RonDenston/15.05.19/2256
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",SkySports Arena HD 720p
+http://boyztoyz.us:80/RonDenston/15.05.19/2253
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",SkySports Football HD 1080p
+http://boyztoyz.us:80/RonDenston/15.05.19/2255
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",SkySports Football HD 720p
+http://boyztoyz.us:80/RonDenston/15.05.19/2254
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",SkySports Racing HD 1080p
+http://boyztoyz.us:80/RonDenston/15.05.19/52
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",SkySports News HD 1080p
+http://boyztoyz.us:80/RonDenston/15.05.19/4365
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",SkySports News HD 720p
+http://boyztoyz.us:80/RonDenston/15.05.19/373
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",BT Sports 1 SD
+http://boyztoyz.us:80/RonDenston/15.05.19/10
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",BT Sports 2 SD
+http://boyztoyz.us:80/RonDenston/15.05.19/11
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",BT Sports 3 SD
+http://boyztoyz.us:80/RonDenston/15.05.19/87
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",SkySports Mix SD
+http://boyztoyz.us:80/RonDenston/15.05.19/2250
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",SkySports Main Event SD
+http://boyztoyz.us:80/RonDenston/15.05.19/1
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",SkySports Cricket SD
+http://boyztoyz.us:80/RonDenston/15.05.19/2
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",SkySports Action SD
+http://boyztoyz.us:80/RonDenston/15.05.19/3
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",SkySports Golf SD
+http://boyztoyz.us:80/RonDenston/15.05.19/4
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",SkySports Premier League SD
+http://boyztoyz.us:80/RonDenston/15.05.19/5
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",SkySports F1 SD
+http://boyztoyz.us:80/RonDenston/15.05.19/6
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",SkySports Arena SD
+http://boyztoyz.us:80/RonDenston/15.05.19/3939
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",SkySports Football SD
+http://boyztoyz.us:80/RonDenston/15.05.19/3938
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",SkySports News SD
+http://boyztoyz.us:80/RonDenston/15.05.19/7
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",Bt Sports 1 HQ
+http://boyztoyz.us:80/RonDenston/15.05.19/121
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",Bt Sports 2 HQ
+http://boyztoyz.us:80/RonDenston/15.05.19/122
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",Bt Sports 3 HQ
+http://boyztoyz.us:80/RonDenston/15.05.19/348
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",SkySports Main Event HQ
+http://boyztoyz.us:80/RonDenston/15.05.19/114
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",SkySports Cricket HQ
+http://boyztoyz.us:80/RonDenston/15.05.19/115
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",SkySports Action HQ
+http://boyztoyz.us:80/RonDenston/15.05.19/116
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",SkySports Golf HQ
+http://boyztoyz.us:80/RonDenston/15.05.19/117
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",SkySports Premier League HQ
+http://boyztoyz.us:80/RonDenston/15.05.19/118
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",SkySports F1 HQ
+http://boyztoyz.us:80/RonDenston/15.05.19/119
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",SkySports Arena HQ
+http://boyztoyz.us:80/RonDenston/15.05.19/1743
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",SkySports Football HQ
+http://boyztoyz.us:80/RonDenston/15.05.19/1742
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",SkySports News HQ
+http://boyztoyz.us:80/RonDenston/15.05.19/120
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",BT Sports ESPN SD
+http://boyztoyz.us:80/RonDenston/15.05.19/14
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",Eir Sport 1
+http://boyztoyz.us:80/RonDenston/15.05.19/179
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",Eir Sport 2 HD
+http://boyztoyz.us:80/RonDenston/15.05.19/442
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",Premier Sports HD 1080p
+http://boyztoyz.us:80/RonDenston/15.05.19/805
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",Premier Sports
+http://boyztoyz.us:80/RonDenston/15.05.19/9
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",Premier Sports 2 HD 1080p
+http://boyztoyz.us:80/RonDenston/15.05.19/7828
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",Premier Sports 2
+http://boyztoyz.us:80/RonDenston/15.05.19/5252
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",Racing UK HD 1080p
+http://boyztoyz.us:80/RonDenston/15.05.19/202
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",Racing UK
+http://boyztoyz.us:80/RonDenston/15.05.19/53
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",BoxNation HD
+http://boyztoyz.us:80/RonDenston/15.05.19/2260
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",BoxNation
+http://boyztoyz.us:80/RonDenston/15.05.19/15
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",Eurosport 1
+http://boyztoyz.us:80/RonDenston/15.05.19/12
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",UK: Eurosports 1 HD 1080p
+http://boyztoyz.us:80/RonDenston/15.05.19/4399
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",Eurosport 2
+http://boyztoyz.us:80/RonDenston/15.05.19/13
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",UK: Eurosports 2 HD 1080p
+http://boyztoyz.us:80/RonDenston/15.05.19/4398
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",Motors TV UK
+http://boyztoyz.us:80/RonDenston/15.05.19/366
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",MUTV HD
+http://boyztoyz.us:80/RonDenston/15.05.19/1031
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",MUTV
+http://boyztoyz.us:80/RonDenston/15.05.19/343
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",Liverpool Tv HD
+http://boyztoyz.us:80/RonDenston/15.05.19/1617
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",Liverpool TV
+http://boyztoyz.us:80/RonDenston/15.05.19/61
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",Chelsea Tv HD
+http://boyztoyz.us:80/RonDenston/15.05.19/1748
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",Chelsea TV
+http://boyztoyz.us:80/RonDenston/15.05.19/91
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",Barca Tv
+http://boyztoyz.us:80/RonDenston/15.05.19/90
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",Bayern FC TV HD
+http://boyztoyz.us:80/RonDenston/15.05.19/2388
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",UK: La Liga HD 1080p
+http://boyztoyz.us:80/RonDenston/15.05.19/6547
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",UK: La Liga HD
+http://boyztoyz.us:80/RonDenston/15.05.19/5445
