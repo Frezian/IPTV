@@ -87,14 +87,10 @@ http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Str
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_animax_small.png" group-title="INDONESIA KIDS", ANIMAX
 https://vcdnjt.useetv.com/joss/14/animax/chunklist_w739131567_b684100_sleng_70005.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_animax_small.png" group-title="INDONESIA KIDS", ANIMAX
-http://nonton.site:8888/trTtest/MmTeYGpH0M/3630
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_aniplus_big1.png" group-title="INDONESIA KIDS",ANIPLUS
 https://vcdnjt.useetv.com/joss/14/aniplus/chunklist_w1639792963_b684100_sleng_70259.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_aniplus_big1.png" group-title="INDONESIA KIDS",ANIPLUS HD
-http://nonton.site:8888/trTtest/MmTeYGpH0M/2
 
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/cartoon_network.png" group-title="INDONESIA KIDS",CARTOON NETWORK
 https://vcdnjt.useetv.com/joss/14/cartoonnetwork/chunklist_w1073351013_b684100_sleng_54935.m3u8
@@ -150,12 +146,8 @@ http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/03.m3u8
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/axn_150x150.jpg" group-title="INDONESIA MOVIES", AXN
 https://vcdnjt.useetv.com:443/joss/15/axn/chunklist_w1332206438_b684100_sleng_177560.m3u8?enc=oKFj9Xw1YXcLgJJxFI-NrA&exp=1587470166
 
-#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/axn_150x150.jpg" group-title="INDONESIA MOVIES", AXN HD
-http://nonton.site:8888/trTtest/MmTeYGpH0M/3631
-
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_blueant_small.png" group-title="INDONESIA MOVIES",BLUE ANT ENTERTAINMENT
 http://210.210.155.35:80/dr9445/h/h16/01.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_blueantext_small.png" group-title="INDONESIA MOVIES",BLUE ANT EXTREME
 http://210.210.155.35:80/dr9445/h/h15/01.m3u8
@@ -166,74 +158,6 @@ https://vcdnjt.useetv.com/joss/14/celestialmovie/chunklist_w1671904161_b684100_s
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cinemaworld_small.png" group-title="INDONESIA MOVIES",CINEMA WORLD
 https://vcdnjt.useetv.com/joss/14/cinemaworld/chunklist_w1529108846_b684100_sleng_62660.m3u8
 
-#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_14.png" group-title="INDONESIA MOVIES",FOX Movies HD
-http://nonton.site:8888/trTtest/MmTeYGpH0M/98
-
-#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_14.png" group-title="INDONESIA MOVIES",FOX Movies FHD
-http://nonton.site:8888/trTtest/MmTeYGpH0M/1205
-
-#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_16.png" group-title="INDONESIA MOVIES",FOX Action Movies HD
-http://nonton.site:8888/trTtest/MmTeYGpH0M/99
-
-#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_16.png" group-title="INDONESIA MOVIES",FOX Action Movies FHD
-http://nonton.site:8888/trTtest/MmTeYGpH0M/1478
-
-#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_16.png" group-title="INDONESIA MOVIES",FOX Action Movies SD
-http://nonton.site:8888/trTtest/MmTeYGpH0M/1125
-
-#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_15.png" group-title="INDONESIA MOVIES",FOX Family Movies ID
-http://nonton.site:8888/trTtest/MmTeYGpH0M/14994
-
-#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_152.png" group-title="INDONESIA MOVIES",FOX Crime HD
-http://nonton.site:8888/trTtest/MmTeYGpH0M/763
-
-#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_437.png" group-title="INDONESIA MOVIES",FOX HD
-http://nonton.site:8888/trTtest/MmTeYGpH0M/95
-
-#EXTINF:-1 tvg-logo="https://assets.fxnetworks.com/shows/fxnetworks/photos/logos/fx.jpg" group-title="INDONESIA MOVIES",FX HD
-http://nonton.site:8888/trTtest/MmTeYGpH0M/776
-
-#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/hbo.png" group-title="INDONESIA MOVIES",HBO HD
-http://nonton.site:8888/trTtest/MmTeYGpH0M/210
-
-#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/hbo.png" group-title="INDONESIA MOVIES",HBO FHD
-http://nonton.site:8888/trTtest/MmTeYGpH0M/1496
-
-#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_hits.png" group-title="INDONESIA MOVIES",HBO Hits HD
-http://nonton.site:8888/trTtest/MmTeYGpH0M/591
-
-#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_hits.png" group-title="INDONESIA MOVIES",HBO Hits FHD
-http://nonton.site:8888/trTtest/MmTeYGpH0M/11492
-
-#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_family.png" group-title="INDONESIA MOVIES",HBO Family HD
-http://nonton.site:8888/trTtest/MmTeYGpH0M/592
-
-#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_signature.png" group-title="INDONESIA MOVIES",HBO Signature HD
-http://nonton.site:8888/trTtest/MmTeYGpH0M/873
-
-#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_signature.png" group-title="INDONESIA MOVIES",HBO Signature FHD
-http://nonton.site:8888/trTtest/MmTeYGpH0M/1498
-
-#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/cinemax.jpg" group-title="INDONESIA MOVIES",Cinemax ID
-http://nonton.site:8888/trTtest/MmTeYGpH0M/2156
-
-#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/hbo.png" group-title="INDONESIA MOVIES",HBO SD
-http://nonton.site:8888/trTtest/MmTeYGpH0M/26595
-
-#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_hits.png" group-title="INDONESIA MOVIES",HBO Hits SD
-http://nonton.site:8888/trTtest/MmTeYGpH0M/26596
-
-#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_signature.png" group-title="INDONESIA MOVIES",HBO Signature SD
-http://nonton.site:8888/trTtest/MmTeYGpH0M/26597
-
-#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_family.png" group-title="INDONESIA MOVIES",HBO Family SD
-http://nonton.site:8888/trTtest/MmTeYGpH0M/26598
-
-#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/cinemax.jpg" group-title="INDONESIA MOVIES",Cinemax SD
-http://nonton.site:8888/trTtest/MmTeYGpH0M/26599
-
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_chinesedrama_small.png" group-title="INDONESIA MOVIES",Star Chinese Movies HD
-http://nonton.site:8888/trTtest/MmTeYGpH0M/780
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_imc_small.png" group-title="INDONESIA MOVIES",IMC
 https://vcdnjt.useetv.com/joss/14/imc/chunklist_w569228584_b684100_sleng_23992.m3u8
