@@ -6,8 +6,14 @@ https://cdn-livetv5.metube.id/hls/rcti_480/index.m3u8
 #EXTINF:-1 tvg-id="MNCTV.id" tvg-name="MNC TV ID" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_82.png" group-title="INDONESIA", MNC
 https://cdn-livetv5.metube.id/hls/mnctv_480/index.m3u8
 
+#EXTINF:-1 tvg-id="MNCTV.id" tvg-name="MNC TV ID" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_82.png" group-title="INDONESIA",MNC TV ID
+http://tv2ip.nl:80/9205011494/9205011494/81660
+
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_antv_small1.png" group-title="INDONESIA", ANTV
 https://vcdnjt.useetv.com/joss/15/antv/chunklist_w226638633_b894100_sleng_87965.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_antv_small1.png" group-title="INDONESIA",ANTV ID
+http://tv2ip.nl:80/9205011494/9205011494/81652
 
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_81.png" group-title="INDONESIA", GTV
 http://mantul.biz.id:8888/Handi5/Handi5ok/192
@@ -17,6 +23,9 @@ https://vcdnjt.useetv.com/joss/15/sctv/chunklist_w1027229960_b1344100_sleng_8871
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_indosiar_small1.png" group-title="INDONESIA",INDOSIAR
 https://cdnmdc2.useetv.com/joss/15/indosiar/chunklist_w72459728_b894100_sleng_108233.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_indosiar_small1.png" group-title="INDONESIA",INDOSIAR ID
+http://tv2ip.nl:80/9205011494/9205011494/81650
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_net_small1.png" group-title="INDONESIA", NET TV
 https://cdnbpp1.useetv.com/joss/15/net/chunklist_w1761005650_b894100_sleng_310393.m3u8
@@ -32,6 +41,9 @@ http://video.detik.com/trans7/smil:trans7.smil/chunklist_w1925750281_b384000_sle
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvone_small1.png" group-title="INDONESIA", TV ONE
 https://cdn-accedo-01.akamaized.net/Content/HLS/Live/channel(7e352a4d-dcc4-4c48-b06c-38c7b36b14d4)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvone_small1.png" group-title="INDONESIA",TVONE ID
+http://tv2ip.nl:80/9205011494/9205011494/81653
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_transtv_small1.png" group-title="INDONESIA", TRANS TV
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1825142121_b280000_sleng.m3u8
@@ -895,6 +907,29 @@ http://boyztoyz.us:80/RonDenston/15.05.19/7634
 #EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: Yesterday
 http://boyztoyz.us:80/RonDenston/15.05.19/3902
 
+#EXTINF:-1 tvg-logo="" group-title="UK KIDS",ᵁᴷ Boomerang
+http://tv2ip.nl:80/9205011494/9205011494/9748
+#EXTINF:-1 tvg-logo="" group-title="UK KIDS",ᵁᴷ Baby TV
+http://tv2ip.nl:80/9205011494/9205011494/9789
+#EXTINF:-1 tvg-logo="" group-title="UK KIDS",ᵁᴷ Cartoon Network
+http://tv2ip.nl:80/9205011494/9205011494/9742
+#EXTINF:-1 tvg-logo="" group-title="UK KIDS",ᵁᴷ Disney XD
+http://tv2ip.nl:80/9205011494/9205011494/9751
+#EXTINF:-1 tvg-logo="" group-title="UK KIDS",ᵁᴷ Disney Junior
+http://tv2ip.nl:80/9205011494/9205011494/9750
+#EXTINF:-1 tvg-logo="" group-title="UK KIDS",ᵁᴷ Disney Channel
+http://tv2ip.nl:80/9205011494/9205011494/9749
+#EXTINF:-1 tvg-logo="" group-title="UK KIDS",ᵁᴷ Nickelodeon
+http://tv2ip.nl:80/9205011494/9205011494/9752
+#EXTINF:-1 tvg-logo="" group-title="UK KIDS",ᵁᴷ NickToons
+http://tv2ip.nl:80/9205011494/9205011494/9753
+#EXTINF:-1 tvg-logo="" group-title="UK KIDS",ᵁᴷ Nick JR
+http://tv2ip.nl:80/9205011494/9205011494/9754
+#EXTINF:-1 tvg-logo="" group-title="UK KIDS",ᵁᴷ Nick Jr Too
+http://tv2ip.nl:80/9205011494/9205011494/15608
+#EXTINF:-1 tvg-logo="" group-title="UK KIDS",ᵁᴷ Cartoonito HD
+http://tv2ip.nl:80/9205011494/9205011494/104195
+
 #EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | A&E HD
 http://boyztoyz.us:80/RonDenston/15.05.19/6873
 #EXTINF:-1 tvg-logo="" group-title="USA CHANNEL",USA | Abc Atlanta
@@ -1723,18 +1758,20 @@ http://a2.skynets.tv:8880/czw6m008/utWeSIaLbv/28132
 http://a2.skynets.tv:8880/czw6m008/utWeSIaLbv/28196
 #EXTINF:-1 tvg-logo="" group-title="FRANCE SPORTS",FR329:Foot +
 http://a2.skynets.tv:8880/czw6m008/utWeSIaLbv/27980
-#EXTINF:-1 tvg-logo="" group-title="FRANCE SPORTS",FR349:RMC SPORT 1 HD
-http://a2.skynets.tv:8880/czw6m008/utWeSIaLbv/27960
-#EXTINF:-1 tvg-logo="" group-title="FRANCE SPORTS",FR350:RMC SPORT 2 HD
-http://a2.skynets.tv:8880/czw6m008/utWeSIaLbv/27959
-#EXTINF:-1 tvg-logo="" group-title="FRANCE SPORTS",FR351:RMC SPORT 3 HD
-http://a2.skynets.tv:8880/czw6m008/utWeSIaLbv/27958
-#EXTINF:-1 tvg-logo="" group-title="FRANCE SPORTS",FR352:RMC SPORT 4 HD
-http://a2.skynets.tv:8880/czw6m008/utWeSIaLbv/27957
-#EXTINF:-1 tvg-logo="" group-title="FRANCE SPORTS",FR337:RMC ACCESS 1
-http://a2.skynets.tv:8880/czw6m008/utWeSIaLbv/27972
-#EXTINF:-1 tvg-logo="" group-title="FRANCE SPORTS",FR338:RMC ACCESS  2
-http://a2.skynets.tv:8880/czw6m008/utWeSIaLbv/27971
+#EXTINF:-1 tvg-logo="" group-title="FRANCE SPORTS",RMC Sport 1 UHD
+http://tv2ip.nl:80/9205011494/9205011494/48687
+#EXTINF:-1 tvg-logo="" group-title="FRANCE SPORTS",RMC Sport 2 UHD
+http://tv2ip.nl:80/9205011494/9205011494/48686
+#EXTINF:-1 tvg-logo="" group-title="FRANCE SPORTS",RMC Sport 3 UHD
+http://tv2ip.nl:80/9205011494/9205011494/48685
+#EXTINF:-1 tvg-logo="" group-title="FRANCE SPORTS",RMC Sport 4 UHD
+http://tv2ip.nl:80/9205011494/9205011494/48684
+#EXTINF:-1 tvg-logo="" group-title="FRANCE SPORTS",RMC Sport Access 1 UHD
+http://tv2ip.nl:80/9205011494/9205011494/58064
+#EXTINF:-1 tvg-logo="" group-title="FRANCE SPORTS",RMC Sport Access 2 UHD
+http://tv2ip.nl:80/9205011494/9205011494/58063
+#EXTINF:-1 tvg-logo="" group-title="FRANCE SPORTS",RMC Sport Access 3 UHD
+http://tv2ip.nl:80/9205011494/9205011494/58062
 
 #EXTINF:-1 tvg-logo="" group-title="NETHERLAND SPORTS",NL001:Ziggo Sport Select FHD 1080
 http://a2.skynets.tv:8880/czw6m008/utWeSIaLbv/31530
@@ -1820,6 +1857,164 @@ http://a2.skynets.tv:8880/czw6m008/utWeSIaLbv/31404
 http://a2.skynets.tv:8880/czw6m008/utWeSIaLbv/31379
 #EXTINF:-1 tvg-logo="" group-title="NETHERLAND SPORTS",NL165:Ziggo Sport GOLF HD
 http://a2.skynets.tv:8880/czw6m008/utWeSIaLbv/31366
+
+#EXTINF:-1 tvg-logo="" group-title="CROATIA SPORTS",Arena Sport 1 FHD HR.
+http://tv2ip.nl:80/9205011494/9205011494/93915
+#EXTINF:-1 tvg-logo="" group-title="CROATIA SPORTS",Arena Sport 1 HD HR.
+http://tv2ip.nl:80/9205011494/9205011494/93914
+#EXTINF:-1 tvg-logo="" group-title="CROATIA SPORTS",Arena Sport 2 FHD HR.
+http://tv2ip.nl:80/9205011494/9205011494/93917
+#EXTINF:-1 tvg-logo="" group-title="CROATIA SPORTS",Arena Sport 2 HD HR.
+http://tv2ip.nl:80/9205011494/9205011494/93916
+#EXTINF:-1 tvg-logo="" group-title="CROATIA SPORTS",Arena Sport 3 FHD HR.
+http://tv2ip.nl:80/9205011494/9205011494/93919
+#EXTINF:-1 tvg-logo="" group-title="CROATIA SPORTS",Arena Sport 3 HD HR.
+http://tv2ip.nl:80/9205011494/9205011494/93918
+#EXTINF:-1 tvg-logo="" group-title="CROATIA SPORTS",Arena Sport 4 FHD HR.
+http://tv2ip.nl:80/9205011494/9205011494/93921
+#EXTINF:-1 tvg-logo="" group-title="CROATIA SPORTS",Arena Sport 4 HD HR.
+http://tv2ip.nl:80/9205011494/9205011494/93920
+#EXTINF:-1 tvg-logo="" group-title="CROATIA SPORTS",Arena Sport 5 FHD HR.
+http://tv2ip.nl:80/9205011494/9205011494/93922
+#EXTINF:-1 tvg-logo="" group-title="CROATIA SPORTS",Arena Sport 6 FHD HR.
+http://tv2ip.nl:80/9205011494/9205011494/93923
+
+#EXTINF:-1 tvg-logo="" group-title="ITALY SPORTS",Eleven_Sport 1 FHD IT.
+http://tv2ip.nl:80/9205011494/9205011494/98393
+#EXTINF:-1 tvg-logo="" group-title="ITALY SPORTS",Eleven_Sport 2 FHD IT.
+http://tv2ip.nl:80/9205011494/9205011494/98394
+#EXTINF:-1 tvg-logo="" group-title="ITALY SPORTS",Eleven_Sport 3 FHD IT.
+http://tv2ip.nl:80/9205011494/9205011494/98395
+#EXTINF:-1 tvg-logo="" group-title="ITALY SPORTS",Eleven_Sport 4 HD IT.
+http://tv2ip.nl:80/9205011494/9205011494/98396
+#EXTINF:-1 tvg-logo="" group-title="ITALY SPORTS",Eurosport 1 FHD IT.
+http://tv2ip.nl:80/9205011494/9205011494/98447
+#EXTINF:-1 tvg-logo="" group-title="ITALY SPORTS",Eurosport 1 HD IT.
+http://tv2ip.nl:80/9205011494/9205011494/98263
+#EXTINF:-1 tvg-logo="" group-title="ITALY SPORTS",Eurosport 2 FHD IT.
+http://tv2ip.nl:80/9205011494/9205011494/98448
+#EXTINF:-1 tvg-logo="" group-title="ITALY SPORTS",Eurosport 2 HD IT.
+http://tv2ip.nl:80/9205011494/9205011494/98264
+
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORTS",ᴰᴱ DAZN Bar 1 FHD
+http://tv2ip.nl:80/9205011494/9205011494/69732
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORTS",ᴰᴱ DAZN Bar 2 FHD
+http://tv2ip.nl:80/9205011494/9205011494/54648
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORTS",ᴰᴱ Eurosport 1 FHD
+http://tv2ip.nl:80/9205011494/9205011494/85823
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORTS",ᴰᴱ Eurosport 2 FHD
+http://tv2ip.nl:80/9205011494/9205011494/67223
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORTS",ᴰᴱ Eurosport 2 XTRA
+http://tv2ip.nl:80/9205011494/9205011494/85827
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORTS",ᴰᴱ Sky Sport News FHD
+http://tv2ip.nl:80/9205011494/9205011494/67235
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORTS",ᴰᴱ Sky Sport 1 2K
+http://tv2ip.nl:80/9205011494/9205011494/67227
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORTS",ᴰᴱ Sky Sport 1 FHD
+http://tv2ip.nl:80/9205011494/9205011494/67237
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORTS",ᴰᴱ Sky Sport 2 2K
+http://tv2ip.nl:80/9205011494/9205011494/67225
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORTS",ᴰᴱ Sky Sport 2 FHD
+http://tv2ip.nl:80/9205011494/9205011494/69739
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORTS",ᴰᴱ Sky Sport 3 FHD
+http://tv2ip.nl:80/9205011494/9205011494/84666
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORTS",ᴰᴱ Sky Sport 4 FHD
+http://tv2ip.nl:80/9205011494/9205011494/84667
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORTS",ᴰᴱ Sky Sport 5 FHD
+http://tv2ip.nl:80/9205011494/9205011494/84668
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORTS",ᴰᴱ Sky Sport 6 FHD
+http://tv2ip.nl:80/9205011494/9205011494/84669
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORTS",ᴰᴱ Sky Sport 7 FHD
+http://tv2ip.nl:80/9205011494/9205011494/84670
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORTS",ᴰᴱ Sky Sport 8 FHD
+http://tv2ip.nl:80/9205011494/9205011494/84671
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORTS",ᴰᴱ Sky Sport 11 FHD
+http://tv2ip.nl:80/9205011494/9205011494/84672
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORTS",ᴰᴱ Sky Sport 12 FHD
+http://tv2ip.nl:80/9205011494/9205011494/84673
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORTS",ᴰᴱ Sky Sport 13 FHD
+http://tv2ip.nl:80/9205011494/9205011494/84674
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORTS",ᴰᴱ Sky Sport 14 FHD
+http://tv2ip.nl:80/9205011494/9205011494/84675
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORTS",ᴰᴱ Sky Bundesliga 1 FHD*
+http://tv2ip.nl:80/9205011494/9205011494/67259
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORTS",ᴰᴱ Sky Bundesliga 1 FHD
+http://tv2ip.nl:80/9205011494/9205011494/76349
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORTS",ᴰᴱ Sky Bundesliga 2 FHD
+http://tv2ip.nl:80/9205011494/9205011494/76350
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORTS",ᴰᴱ Sky Bundesliga 2 HD*
+http://tv2ip.nl:80/9205011494/9205011494/67258
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORTS",ᴰᴱ Sky Bundesliga 3 HD*
+http://tv2ip.nl:80/9205011494/9205011494/67257
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORTS",ᴰᴱ Sky Bundesliga 3 FHD
+http://tv2ip.nl:80/9205011494/9205011494/78093
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORTS",ᴰᴱ Sky Bundesliga 4 HD*
+http://tv2ip.nl:80/9205011494/9205011494/67256
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORTS",ᴰᴱ Sky Bundesliga 4 FHD
+http://tv2ip.nl:80/9205011494/9205011494/78092
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORTS",ᴰᴱ Sky Bundesliga 5 HD*
+http://tv2ip.nl:80/9205011494/9205011494/67255
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORTS",ᴰᴱ Sky Bundesliga 5 FHD
+http://tv2ip.nl:80/9205011494/9205011494/78091
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORTS",ᴰᴱ Sky Bundesliga 6 HD*
+http://tv2ip.nl:80/9205011494/9205011494/67254
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORTS",ᴰᴱ Sky Bundesliga 6 FHD
+http://tv2ip.nl:80/9205011494/9205011494/78090
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORTS",ᴰᴱ Sky Bundesliga 7 HD*
+http://tv2ip.nl:80/9205011494/9205011494/67253
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORTS",ᴰᴱ Sky Bundesliga 7 FHD
+http://tv2ip.nl:80/9205011494/9205011494/78089
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORTS",ᴰᴱ Sky Bundesliga 8 HD*
+http://tv2ip.nl:80/9205011494/9205011494/67252
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORTS",ᴰᴱ Sky Bundesliga 8 FHD
+http://tv2ip.nl:80/9205011494/9205011494/78088
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORTS",ᴰᴱ Sky Bundesliga 9 HD*
+http://tv2ip.nl:80/9205011494/9205011494/67251
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORTS",ᴰᴱ Sky Bundesliga 9 FHD
+http://tv2ip.nl:80/9205011494/9205011494/78087
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORTS",ᴰᴱ Sky Bundesliga 10 FHD
+http://tv2ip.nl:80/9205011494/9205011494/78086
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORTS",ᴰᴱ Sky Bundesliga 10 FHD
+http://tv2ip.nl:80/9205011494/9205011494/78085
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORTS",ᴰᴱ Sky Bundesliga 10 HD*
+http://tv2ip.nl:80/9205011494/9205011494/67250
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORTS",ᴰᴱ My Sport 1 HD*
+http://tv2ip.nl:80/9205011494/9205011494/67222
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORTS",ᴰᴱ Telekom Sport 1 HD*
+http://tv2ip.nl:80/9205011494/9205011494/67221
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORTS",ᴰᴱ Telekom Sport 2 HD*
+http://tv2ip.nl:80/9205011494/9205011494/67220
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORTS",ᴰᴱ Sport Digital FHD
+http://tv2ip.nl:80/9205011494/9205011494/69738
+
+#EXTINF:-1 tvg-logo="" group-title="PORTUGAL SPORTS",Eleven Sports 1 FHD VIP PT
+http://tv2ip.nl:80/9205011494/9205011494/71203
+#EXTINF:-1 tvg-logo="" group-title="PORTUGAL SPORTS",Eleven Sports 1 HD VIP PT
+http://tv2ip.nl:80/9205011494/9205011494/71202
+#EXTINF:-1 tvg-logo="" group-title="PORTUGAL SPORTS",Eleven Sports 2 FHD VIP PT
+http://tv2ip.nl:80/9205011494/9205011494/71206
+#EXTINF:-1 tvg-logo="" group-title="PORTUGAL SPORTS",Eleven Sports 2 HD VIP PT
+http://tv2ip.nl:80/9205011494/9205011494/71205
+#EXTINF:-1 tvg-logo="" group-title="PORTUGAL SPORTS",Eleven Sports 3 FHD VIP PT
+http://tv2ip.nl:80/9205011494/9205011494/71209
+#EXTINF:-1 tvg-logo="" group-title="PORTUGAL SPORTS",Eleven Sports 3 HD VIP PT
+http://tv2ip.nl:80/9205011494/9205011494/71208
+#EXTINF:-1 tvg-logo="" group-title="PORTUGAL SPORTS",Eleven Sports 4 FHD VIP PT
+http://tv2ip.nl:80/9205011494/9205011494/71212
+#EXTINF:-1 tvg-logo="" group-title="PORTUGAL SPORTS",Eleven Sports 4 HD VIP PT
+http://tv2ip.nl:80/9205011494/9205011494/71211
+#EXTINF:-1 tvg-logo="" group-title="PORTUGAL SPORTS",Eleven Sports 5 FHD VIP PT
+http://tv2ip.nl:80/9205011494/9205011494/71215
+#EXTINF:-1 tvg-logo="" group-title="PORTUGAL SPORTS",Eleven Sports 5 HD VIP PT
+http://tv2ip.nl:80/9205011494/9205011494/71214
+#EXTINF:-1 tvg-logo="" group-title="PORTUGAL SPORTS",Eleven Sports 6 FHD VIP PT
+http://tv2ip.nl:80/9205011494/9205011494/71218
+#EXTINF:-1 tvg-logo="" group-title="PORTUGAL SPORTS",Eleven Sports 6 HD VIP PT
+http://tv2ip.nl:80/9205011494/9205011494/71217
+#EXTINF:-1 tvg-logo="" group-title="PORTUGAL SPORTS",Eurosport 1 ᴾᵀ
+http://tv2ip.nl:80/9205011494/9205011494/70476
+#EXTINF:-1 tvg-logo="" group-title="PORTUGAL SPORTS",Eurosport 2 ᴾᵀ
+http://tv2ip.nl:80/9205011494/9205011494/70475
 
 #EXTINF:-1 tvg-logo="" group-title="INDIA CHANNEL",INDIA-MOVIES | And Pictures HD
 http://boyztoyz.us:80/RonDenston/15.05.19/4732
@@ -2238,6 +2433,12 @@ http://boyztoyz.us:80/RonDenston/15.05.19/2742
 #EXTINF:-1 tvg-logo="" group-title="SPAIN CHANNEL",ES: Viajar FHD
 http://boyztoyz.us:80/RonDenston/15.05.19/2852
 
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",ᵁᴷ VIP BT Sports 1 FHD
+http://tv2ip.nl:80/9205011494/9205011494/60026
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",ᵁᴷ VIP BT Sports 2 FHD
+http://tv2ip.nl:80/9205011494/9205011494/60025
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",ᵁᴷ VIP BT Sports 3 FHD
+http://tv2ip.nl:80/9205011494/9205011494/60024
 #EXTINF:-1 tvg-logo="" group-title="UK SPORTS",Sky Sports Red Button 1
 http://boyztoyz.us:80/RonDenston/15.05.19/6605
 #EXTINF:-1 tvg-logo="" group-title="UK SPORTS",Sky Sports Red Button 2
