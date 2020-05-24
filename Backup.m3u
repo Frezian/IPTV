@@ -542,13 +542,13 @@ http://boyztoyz.us:80/RonDenston/15.05.19/7837
 http://boyztoyz.us:80/RonDenston/15.05.19/1045
 #EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: Blaze
 http://boyztoyz.us:80/RonDenston/15.05.19/3913
-#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: Bloomberg HD
+#EXTINF:-1 tvg-id="bloomberg" tvg-logo="" group-title="UK CHANNEL",UK: Bloomberg HD
 http://boyztoyz.us:80/RonDenston/15.05.19/2258
 #EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: Boomerang
 http://boyztoyz.us:80/RonDenston/15.05.19/240
 #EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: Brit Asia
 http://boyztoyz.us:80/RonDenston/15.05.19/3898
-#EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: Cartoon Network
+#EXTINF:-1 tvg-id="cartoon" tvg-logo="" group-title="UK CHANNEL",UK: Cartoon Network
 http://boyztoyz.us:80/RonDenston/15.05.19/227
 #EXTINF:-1 tvg-logo="" group-title="UK CHANNEL",UK: Cartoon Network HD 1080p
 http://boyztoyz.us:80/RonDenston/15.05.19/4407
