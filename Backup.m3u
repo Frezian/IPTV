@@ -1879,22 +1879,140 @@ http://tv2ip.nl:80/9205011494/9205011494/93922
 #EXTINF:-1 tvg-logo="" group-title="CROATIA SPORTS",Arena Sport 6 FHD HR.
 http://tv2ip.nl:80/9205011494/9205011494/93923
 
-#EXTINF:-1 tvg-logo="" group-title="ITALY SPORTS",Eleven_Sport 1 FHD IT.
-http://tv2ip.nl:80/9205011494/9205011494/98393
-#EXTINF:-1 tvg-logo="" group-title="ITALY SPORTS",Eleven_Sport 2 FHD IT.
-http://tv2ip.nl:80/9205011494/9205011494/98394
-#EXTINF:-1 tvg-logo="" group-title="ITALY SPORTS",Eleven_Sport 3 FHD IT.
-http://tv2ip.nl:80/9205011494/9205011494/98395
-#EXTINF:-1 tvg-logo="" group-title="ITALY SPORTS",Eleven_Sport 4 HD IT.
-http://tv2ip.nl:80/9205011494/9205011494/98396
-#EXTINF:-1 tvg-logo="" group-title="ITALY SPORTS",Eurosport 1 FHD IT.
-http://tv2ip.nl:80/9205011494/9205011494/98447
-#EXTINF:-1 tvg-logo="" group-title="ITALY SPORTS",Eurosport 1 HD IT.
-http://tv2ip.nl:80/9205011494/9205011494/98263
-#EXTINF:-1 tvg-logo="" group-title="ITALY SPORTS",Eurosport 2 FHD IT.
-http://tv2ip.nl:80/9205011494/9205011494/98448
-#EXTINF:-1 tvg-logo="" group-title="ITALY SPORTS",Eurosport 2 HD IT.
-http://tv2ip.nl:80/9205011494/9205011494/98264
+#EXTINF:-1 tvg-logo="" group-title="ITALY SPORTS",IT015:Euro Sport 1 IT
+http://a2.skynets.tv:8880/czw6m008/utWeSIaLbv/2757
+#EXTINF:-1 tvg-logo="" group-title="ITALY SPORTS",IT016:Euro Sport 2 IT
+http://a2.skynets.tv:8880/czw6m008/utWeSIaLbv/2756
+#EXTINF:-1 tvg-logo="" group-title="ITALY SPORTS",IT022:Inter Channel
+http://a2.skynets.tv:8880/czw6m008/utWeSIaLbv/2750
+#EXTINF:-1 tvg-logo="" group-title="ITALY SPORTS",IT029:Dazn1 Sat
+http://a2.skynets.tv:8880/czw6m008/utWeSIaLbv/2743
+#EXTINF:-1 tvg-logo="" group-title="ITALY SPORTS",IT066:Crime Investigation
+http://a2.skynets.tv:8880/czw6m008/utWeSIaLbv/2706
+#EXTINF:-1 tvg-logo="" group-title="ITALY SPORTS",IT074:Sky Moto GP
+http://a2.skynets.tv:8880/czw6m008/utWeSIaLbv/2698
+#EXTINF:-1 tvg-logo="" group-title="ITALY SPORTS",IT076:Sky Sport 24
+http://a2.skynets.tv:8880/czw6m008/utWeSIaLbv/2696
+#EXTINF:-1 tvg-logo="" group-title="ITALY SPORTS",IT077:Sky Sport F1
+http://a2.skynets.tv:8880/czw6m008/utWeSIaLbv/2695
+#EXTINF:-1 tvg-logo="" group-title="ITALY SPORTS",IT078:Sky Sport 1
+http://a2.skynets.tv:8880/czw6m008/utWeSIaLbv/2694
+#EXTINF:-1 tvg-logo="" group-title="ITALY SPORTS",IT079:Sky Sport 2
+http://a2.skynets.tv:8880/czw6m008/utWeSIaLbv/2693
+#EXTINF:-1 tvg-logo="" group-title="ITALY SPORTS",IT080:Sky Sport 3
+http://a2.skynets.tv:8880/czw6m008/utWeSIaLbv/2692
+#EXTINF:-1 tvg-logo="" group-title="ITALY SPORTS",IT083:Sport Italia
+http://a2.skynets.tv:8880/czw6m008/utWeSIaLbv/2689
+#EXTINF:-1 tvg-logo="" group-title="ITALY SPORTS",IT084:Super Tennis
+http://a2.skynets.tv:8880/czw6m008/utWeSIaLbv/2688
+#EXTINF:-1 tvg-logo="" group-title="ITALY SPORTS",IT089:Dazn1 Sat | UHD
+http://a2.skynets.tv:8880/czw6m008/utWeSIaLbv/28473
+#EXTINF:-1 tvg-logo="" group-title="ITALY SPORTS",IT090:Dazn1 Sat | HD
+http://a2.skynets.tv:8880/czw6m008/utWeSIaLbv/28472
+#EXTINF:-1 tvg-logo="" group-title="ITALY SPORTS",IT091:Dazn1 Sat | SD
+http://a2.skynets.tv:8880/czw6m008/utWeSIaLbv/28471
+#EXTINF:-1 tvg-logo="" group-title="ITALY SPORTS",IT092:Sky Sport Serie A | UHD
+http://a2.skynets.tv:8880/czw6m008/utWeSIaLbv/28470
+#EXTINF:-1 tvg-logo="" group-title="ITALY SPORTS",IT093:Sky Sport Serie A | HD
+http://a2.skynets.tv:8880/czw6m008/utWeSIaLbv/28469
+#EXTINF:-1 tvg-logo="" group-title="ITALY SPORTS",IT094:Sky Sport Serie A | SD
+http://a2.skynets.tv:8880/czw6m008/utWeSIaLbv/28468
+#EXTINF:-1 tvg-logo="" group-title="ITALY SPORTS",IT095:Sky Sport MotoGP | UHD
+http://a2.skynets.tv:8880/czw6m008/utWeSIaLbv/28467
+#EXTINF:-1 tvg-logo="" group-title="ITALY SPORTS",IT096:Sky Sport MotoGP | HD
+http://a2.skynets.tv:8880/czw6m008/utWeSIaLbv/28466
+#EXTINF:-1 tvg-logo="" group-title="ITALY SPORTS",IT097:Sky Sport MotoGP | SD
+http://a2.skynets.tv:8880/czw6m008/utWeSIaLbv/28465
+#EXTINF:-1 tvg-logo="" group-title="ITALY SPORTS",IT105:FOX Sport HD
+http://a2.skynets.tv:8880/czw6m008/utWeSIaLbv/28457
+#EXTINF:-1 tvg-logo="" group-title="ITALY SPORTS",IT106:SKY SPORT MOTO GP
+http://a2.skynets.tv:8880/czw6m008/utWeSIaLbv/28456
+#EXTINF:-1 tvg-logo="" group-title="ITALY SPORTS",IT107:SKY F1 HD
+http://a2.skynets.tv:8880/czw6m008/utWeSIaLbv/28455
+#EXTINF:-1 tvg-logo="" group-title="ITALY SPORTS",IT110:SKY SPORT COLLECTION
+http://a2.skynets.tv:8880/czw6m008/utWeSIaLbv/28452
+#EXTINF:-1 tvg-logo="" group-title="ITALY SPORTS",IT114:SUPERTENNIS
+http://a2.skynets.tv:8880/czw6m008/utWeSIaLbv/28448
+#EXTINF:-1 tvg-logo="" group-title="ITALY SPORTS",IT115:Sky Sport 251
+http://a2.skynets.tv:8880/czw6m008/utWeSIaLbv/28447
+#EXTINF:-1 tvg-logo="" group-title="ITALY SPORTS",IT116:Sky Sport 252
+http://a2.skynets.tv:8880/czw6m008/utWeSIaLbv/28446
+#EXTINF:-1 tvg-logo="" group-title="ITALY SPORTS",IT117:Sky Sport 253
+http://a2.skynets.tv:8880/czw6m008/utWeSIaLbv/28445
+#EXTINF:-1 tvg-logo="" group-title="ITALY SPORTS",IT118:Sky Sport 254
+http://a2.skynets.tv:8880/czw6m008/utWeSIaLbv/28444
+#EXTINF:-1 tvg-logo="" group-title="ITALY SPORTS",IT119:Sky Sport 255
+http://a2.skynets.tv:8880/czw6m008/utWeSIaLbv/28443
+#EXTINF:-1 tvg-logo="" group-title="ITALY SPORTS",IT147:DAZN 1 HD
+http://a2.skynets.tv:8880/czw6m008/utWeSIaLbv/28415
+#EXTINF:-1 tvg-logo="" group-title="ITALY SPORTS",IT148:DAZN 2 HD
+http://a2.skynets.tv:8880/czw6m008/utWeSIaLbv/28414
+#EXTINF:-1 tvg-logo="" group-title="ITALY SPORTS",IT149:DAZN 3 HD
+http://a2.skynets.tv:8880/czw6m008/utWeSIaLbv/28413
+#EXTINF:-1 tvg-logo="" group-title="ITALY SPORTS",IT150:DAZN 4 HD
+http://a2.skynets.tv:8880/czw6m008/utWeSIaLbv/28412
+#EXTINF:-1 tvg-logo="" group-title="ITALY SPORTS",IT151:DAZN 5 HD
+http://a2.skynets.tv:8880/czw6m008/utWeSIaLbv/28411
+#EXTINF:-1 tvg-logo="" group-title="ITALY SPORTS",IT152:DAZN 6 HD
+http://a2.skynets.tv:8880/czw6m008/utWeSIaLbv/28410
+#EXTINF:-1 tvg-logo="" group-title="ITALY SPORTS",IT153:DAZN 7 HD
+http://a2.skynets.tv:8880/czw6m008/utWeSIaLbv/28409
+#EXTINF:-1 tvg-logo="" group-title="ITALY SPORTS",IT154:DAZN 8 HD
+http://a2.skynets.tv:8880/czw6m008/utWeSIaLbv/28408
+#EXTINF:-1 tvg-logo="" group-title="ITALY SPORTS",IT155:DAZN 9 HD
+http://a2.skynets.tv:8880/czw6m008/utWeSIaLbv/28407
+#EXTINF:-1 tvg-logo="" group-title="ITALY SPORTS",IT175:Hunting (Caccia)
+http://a2.skynets.tv:8880/czw6m008/utWeSIaLbv/28387
+#EXTINF:-1 tvg-logo="" group-title="ITALY SPORTS",IT206:LAZIO CHANNEL HD
+http://a2.skynets.tv:8880/czw6m008/utWeSIaLbv/28356
+#EXTINF:-1 tvg-logo="" group-title="ITALY SPORTS",IT207:Super J
+http://a2.skynets.tv:8880/czw6m008/utWeSIaLbv/28355
+#EXTINF:-1 tvg-logo="" group-title="ITALY SPORTS",IT215:MotoGP HD
+http://a2.skynets.tv:8880/czw6m008/utWeSIaLbv/28347
+#EXTINF:-1 tvg-logo="" group-title="ITALY SPORTS",IT227:SKY SUPER TENNIS HD
+http://a2.skynets.tv:8880/czw6m008/utWeSIaLbv/28335
+#EXTINF:-1 tvg-logo="" group-title="ITALY SPORTS",IT228:SKY SUPER CALCIO HD
+http://a2.skynets.tv:8880/czw6m008/utWeSIaLbv/28334
+#EXTINF:-1 tvg-logo="" group-title="ITALY SPORTS",IT230:Sky Sport Uno HD
+http://a2.skynets.tv:8880/czw6m008/utWeSIaLbv/28332
+#EXTINF:-1 tvg-logo="" group-title="ITALY SPORTS",IT238:Sky Sport Serie A HD
+http://a2.skynets.tv:8880/czw6m008/utWeSIaLbv/28324
+#EXTINF:-1 tvg-logo="" group-title="ITALY SPORTS",IT253:Sky Sport NBA HD
+http://a2.skynets.tv:8880/czw6m008/utWeSIaLbv/28309
+#EXTINF:-1 tvg-logo="" group-title="ITALY SPORTS",IT254:Sky Sport Golf HD
+http://a2.skynets.tv:8880/czw6m008/utWeSIaLbv/28308
+#EXTINF:-1 tvg-logo="" group-title="ITALY SPORTS",IT255:Sky Sport Football HD
+http://a2.skynets.tv:8880/czw6m008/utWeSIaLbv/28307
+#EXTINF:-1 tvg-logo="" group-title="ITALY SPORTS",IT256:Sky Sport Arena HD
+http://a2.skynets.tv:8880/czw6m008/utWeSIaLbv/28306
+#EXTINF:-1 tvg-logo="" group-title="ITALY SPORTS",IT265:RAI SPORT HD
+http://a2.skynets.tv:8880/czw6m008/utWeSIaLbv/28297
+#EXTINF:-1 tvg-logo="" group-title="ITALY SPORTS",IT269:ROMA CHANNEL HD
+http://a2.skynets.tv:8880/czw6m008/utWeSIaLbv/28293
+#EXTINF:-1 tvg-logo="" group-title="ITALY SPORTS",IT277:Supercalcio HD
+http://a2.skynets.tv:8880/czw6m008/utWeSIaLbv/28285
+#EXTINF:-1 tvg-logo="" group-title="ITALY SPORTS",IT278:Sky Calcio 6 HD
+http://a2.skynets.tv:8880/czw6m008/utWeSIaLbv/28284
+#EXTINF:-1 tvg-logo="" group-title="ITALY SPORTS",IT280:Sky Calcio 1 HD
+http://a2.skynets.tv:8880/czw6m008/utWeSIaLbv/28282
+#EXTINF:-1 tvg-logo="" group-title="ITALY SPORTS",IT281:Sky Calcio 2 HD
+http://a2.skynets.tv:8880/czw6m008/utWeSIaLbv/28281
+#EXTINF:-1 tvg-logo="" group-title="ITALY SPORTS",IT282:Sky Calcio 3 HD
+http://a2.skynets.tv:8880/czw6m008/utWeSIaLbv/28280
+#EXTINF:-1 tvg-logo="" group-title="ITALY SPORTS",IT283:Sky Calcio 4 HD
+http://a2.skynets.tv:8880/czw6m008/utWeSIaLbv/28279
+#EXTINF:-1 tvg-logo="" group-title="ITALY SPORTS",IT284:Sky Calcio 5 HD
+http://a2.skynets.tv:8880/czw6m008/utWeSIaLbv/28278
+#EXTINF:-1 tvg-logo="" group-title="ITALY SPORTS",IT285:Sky Serie A
+http://a2.skynets.tv:8880/czw6m008/utWeSIaLbv/28277
+#EXTINF:-1 tvg-logo="" group-title="ITALY SPORTS",IT286:Super!
+http://a2.skynets.tv:8880/czw6m008/utWeSIaLbv/28276
+#EXTINF:-1 tvg-logo="" group-title="ITALY SPORTS",IT289:Super J HD (Abruzzo)
+http://a2.skynets.tv:8880/czw6m008/utWeSIaLbv/28273
+#EXTINF:-1 tvg-logo="" group-title="ITALY SPORTS",IT290:Milan Channel
+http://a2.skynets.tv:8880/czw6m008/utWeSIaLbv/28272
+#EXTINF:-1 tvg-logo="" group-title="ITALY SPORTS",IT298:Sky F1 FHD
+http://a2.skynets.tv:8880/czw6m008/utWeSIaLbv/28264
 
 #EXTINF:-1 tvg-logo="" group-title="GERMANY SPORTS",ᴰᴱ DAZN Bar 1 FHD
 http://tv2ip.nl:80/9205011494/9205011494/69732
