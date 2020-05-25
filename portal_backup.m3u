@@ -1,0 +1,1370 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_80.png" group-title="INDONESIA", RCTI
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/62199
+
+#EXTINF:-1 tvg-id="MNCTV.id" tvg-name="MNC TV ID" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_82.png" group-title="INDONESIA", MNC
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/62214
+
+#EXTINF:-1 tvg-id="MNCTV.id" tvg-name="MNC TV ID" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_82.png" group-title="INDONESIA",MNC TV ID
+http://tv2ip.nl:80/9205011494/9205011494/81660
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_antv_small1.png" group-title="INDONESIA", ANTV
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/62297
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_antv_small1.png" group-title="INDONESIA",ANTV ID
+http://tv2ip.nl:80/9205011494/9205011494/81652
+
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_81.png" group-title="INDONESIA", GTV
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/62243
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_small1.png" group-title="INDONESIA", SCTV
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/62193
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_indosiar_small1.png" group-title="INDONESIA",INDOSIAR
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/62236
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_indosiar_small1.png" group-title="INDONESIA",INDOSIAR ID
+http://tv2ip.nl:80/9205011494/9205011494/81650
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_net_small1.png" group-title="INDONESIA", NET TV
+https://cdnbpp1.useetv.com/joss/15/net/chunklist_w1761005650_b894100_sleng_310393.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_net_small1.png" group-title="INDONESIA", NET TV HD
+https://cdnkbl1.useetv.com/joss/15/net/chunklist_w783957863_b1344100_sleng_35526.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_trans7_small1.png" group-title="INDONESIA", TRANS 7
+https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1271606575_b280000_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_trans7_small1.png" group-title="INDONESIA", TRANS 7 HD
+http://video.detik.com/trans7/smil:trans7.smil/chunklist_w1925750281_b384000_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvone_small1.png" group-title="INDONESIA", TV ONE
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/62195
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvone_small1.png" group-title="INDONESIA",TVONE ID
+http://tv2ip.nl:80/9205011494/9205011494/81653
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_transtv_small1.png" group-title="INDONESIA", TRANS TV
+https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1825142121_b280000_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_transtv_small1.png" group-title="INDONESIA", TRANS TV HD
+https://cdnkbl1.useetv.com/joss/15/transtv/chunklist_w865643091_b1344100_sleng_355283.m3u8
+
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_83.png" group-title="INDONESIA", INEWS
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/62235
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_rtv_small1.png" group-title="INDONESIA", RTV
+https://cdnkbl1.useetv.com/joss/14/rtv/chunklist_w1794295740_b684100_sleng_180671.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_beritasatu_small1.png" group-title="INDONESIA", BERITASATU
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b846000.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cnnindonesia_small1.png" group-title="INDONESIA", CNN INDONESIA
+https://live.cnnindonesia.com:443/livecnn/smil:cnntv.smil/chunklist_w1241960898_b192000_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cnnindonesia_small1.png" group-title="INDONESIA", CNN INDONESIA HD
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w825764297_b384000_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/cnbc.png" group-title="INDONESIA", CNBC INDONESIA
+https://live.cnbcindonesia.com:443/livecnbc/smil:cnbctv.smil/chunklist_w290751272_b192000_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_kompastv_small1.png" group-title="INDONESIA",KOMPAS TV
+https://cdnkbl1.useetv.com/joss/15/kompastv/chunklist_w853736691_b894100_sleng_366384.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_kompastv_small1.png" group-title="INDONESIA",KOMPAS TV mHD
+https://stream-02.sg1.dailymotion.com/sec(hq_e0q5VHX_FvDCk_Uz4G1DeTSXmlK3KSyY4q7i3QMc)/dm/3/x6pz4sa/d/live-3.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_metrotv_small1.png" group-title="INDONESIA", METRO TV
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvri_small1.png" group-title="INDONESIA", TVRI
+https://vcdnjt.useetv.com/joss/15/tvri/chunklist_w1013761133_b684100_sleng_270843.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvri_small1.png" group-title="INDONESIA", TVRI 2
+http://210.210.155.35:80/qwr9ew/s/s11/02.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvri_small1.png" group-title="INDONESIA", TVRI NASIONAL
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvri_small1.png" group-title="INDONESIA", TVRI DKI JAKARTA
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIDKI)/Stream(03)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvri_small1.png" group-title="INDONESIA", TVRI BUDAYA
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/Stream(03)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1111842868908318721/lMvLaebw_400x400.jpg" group-title="INDONESIA", TVRI SPORT HD
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_animax_small.png" group-title="INDONESIA KIDS", ANIMAX
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/62298
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_aniplus_big1.png" group-title="INDONESIA KIDS",ANIPLUS
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/62158
+
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/cartoon_network.png" group-title="INDONESIA KIDS",CARTOON NETWORK
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/62279
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_egg_small1.png" group-title="INDONESIA KIDS",EGG NETWORK
+https://cdnkbl1.useetv.com/joss/14/egg/chunklist_w1805008036_b684100_sleng_122487.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_babyfirst_small.png" group-title="INDONESIA KIDS", BABY FIRST
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/62292
+
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_39.jpg" group-title="INDONESIA KIDS", BOOMERANG
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/62281
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/1280px-2014_Disney_Channel_logo.svg.png" group-title="KIDS",Disney Channel
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/62267
+
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/disney_junior.png" group-title="INDONESIA KIDS", DISNEY JUNIOR
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/62266
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_duck_small1.png" group-title="INDONESIA KIDS", DUCK TV
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/62151
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_duniaanak_small1.png" group-title="INDONESIA KIDS", DUNIA ANAK
+https://vcdnjt.useetv.com/joss/14/duniaanak/chunklist_w208610592_b684100_sleng_69494.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_horee_small.png" group-title="INDONESIA KIDS", HOREE
+https://vcdnjt.useetv.com/joss/14/horee/chunklist_w2132513250_b684100_sleng_875.m3u8
+
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/nickjr.jpg" group-title="INDONESIA KIDS", NICK JR.
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/62201
+
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/nickelodeon.png" group-title="INDONESIA KIDS", NICKELODEON
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/62202
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_spacetoonplus_small1.png" group-title="INDONESIA KIDS", SPACETOON PLUS
+https://vcdnjt.useetv.com/joss/14/spacetoonplus/chunklist_w549968608_b684100_sleng_69630.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.maryville.edu/wp-content/uploads/2017/08/channel-logo-animal-planet-1.png" group-title="INDONESIA KNOWLEDGE",Animal Planet HD
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/62299
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/230px-CGTN.svg.png" group-title="INDONESIA KNOWLEDGE",CGTN
+https://cdnkbl1.useetv.com/joss/14/cgtndocumentary/chunklist_w688449162_b684100_sleng_122528.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/d1/60/9b/d1609bafd67a9eb5ac103a31da889098.png" group-title="INDONESIA KNOWLEDGE",Discovery Channel
+https://vcdnjt.useetv.com/joss/15/disco/chunklist_w149297996_b894100_sleng_99925.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/220px-History_Logo.svg.png" group-title="INDONESIA KNOWLEDGE",History
+http://203.153.218.28:9981/stream/channelid/1868154562?ticket=21CAD98B63EE6B1D16AFD5B33F7C68F48FA445CD&profile=pass
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeopeople_small.png" group-title="INDONESIA KNOWLEDGE",Nat Geo People
+http://203.153.218.28:9981/stream/channelid/1114683377?ticket=DB6A54311D3D267C877A5894268561D2577EE4D3&profile=pass
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeowild_small.png" group-title="INDONESIA KNOWLEDGE",Nat Geo Wild
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/03.m3u8
+
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/axn_150x150.jpg" group-title="INDONESIA MOVIES", AXN
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/62293
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_blueant_small.png" group-title="INDONESIA MOVIES",BLUE ANT ENTERTAINMENT
+http://210.210.155.35:80/dr9445/h/h16/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_blueantext_small.png" group-title="INDONESIA MOVIES",BLUE ANT EXTREME
+http://210.210.155.35:80/dr9445/h/h15/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/celestial.png" group-title="INDONESIA MOVIES",CELESTIAL MOVIES
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/62276
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cinemaworld_small.png" group-title="INDONESIA MOVIES",CINEMA WORLD
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/62274
+
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_14.png" group-title="INDONESIA MOVIES",FOX Movies HD
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/62251
+
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_16.png" group-title="INDONESIA MOVIES",FOX Action Movies HD
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/62250
+
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_15.png" group-title="INDONESIA MOVIES",FOX Family Movies HD
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/62253
+
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_152.png" group-title="INDONESIA MOVIES",FOX Crime HD
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/62254
+
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_439.png" group-title="MOVIES",Fox Life HD
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/62252
+
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_437.png" group-title="INDONESIA MOVIES",FOX HD
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/62255
+
+#EXTINF:-1 tvg-logo="https://assets.fxnetworks.com/shows/fxnetworks/photos/logos/fx.jpg" group-title="INDONESIA MOVIES",FX HD
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/62244
+
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/hbo.png" group-title="INDONESIA MOVIES",HBO HD
+http://nonton.site:8888/trTtest/MmTeYGpH0M/4828
+
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_hits.png" group-title="INDONESIA MOVIES",HBO Hits HD
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/62173
+
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_family.png" group-title="INDONESIA MOVIES",HBO Family HD
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/62172
+
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_signature.png" group-title="INDONESIA MOVIES",HBO Signature HD
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/62174
+
+#EXTINF:-1 tvg-logo="https://www.mewatch.sg/image/11230416/16x9/947/533/8f90074b9a37cc9f382566d31aa02071/gd/red-by-hbo.png" group-title="MOVIES",RED BY HBO
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/62171
+
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/cinemax.jpg" group-title="INDONESIA MOVIES",Cinemax ID
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/62170
+
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_imc_small.png" group-title="INDONESIA MOVIES",IMC
+https://vcdnjt.useetv.com/joss/14/imc/chunklist_w569228584_b684100_sleng_23992.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_dunialain_small.png" group-title="INDONESIA MOVIES",Dunia Lain
+https://vcdnjt.useetv.com/joss/14/dunialain/chunklist_w1967765240_b684100_sleng_1409.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_kplus_small1.png" group-title="INDONESIA MOVIES",K+
+https://vcdnjt.useetv.com/joss/15/kplus/chunklist_w298237442_b684100_sleng_255964.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_kplus_small1.png" group-title="INDONESIA MOVIES",K+ HD
+https://vcdnjt.useetv.com/joss/15/kplus/chunklist_w791475578_b1344100_sleng_90256.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sgem_small.png" group-title="INDONESIA MOVIES",SONY GEM
+https://vcdnjt.useetv.com/joss/15/sgem/chunklist_w401910324_b684100_sleng_256008.m3u8
+
+#EXTINF:-1 tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2018/01/SONY-CRIME-CHANNEL.png" group-title="INDONESIA MOVIES", Sony Crime
+http://178.159.5.210:1000/play/SonyCrime/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://sonymovies.co.uk/sites/all/themes/responsive/responsive_sony_movies/logo.png" group-title="INDONESIA MOVIES", Sony Movies
+http://178.159.5.210:1000/play/sonymovies/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bioskopindonesia_small1.png" group-title="INDONESIA MOVIES", BIOSKOP INDONESIA
+https://vcdnjt.useetv.com:443/joss/14/bioskopindonesia/chunklist_w1569483238_b684100_sleng_177560.m3u8?enc=S5Y2zs3_7VlB__d4ogl3iA&exp=1587471747
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_galaxy_small1.png" group-title="INDONESIA MOVIES", GALAXY
+https://vcdnjt.useetv.com:443/joss/15/galaxy/chunklist_w300453741_b684100_sleng_177560.m3u8?enc=l6rpqYqWLQ3V69S92YsbZg&exp=1587471181
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_imc_small.png" group-title="INDONESIA MOVIES", IMC
+https://vcdnjt.useetv.com:443/joss/14/imc/chunklist_w1486007674_b684100_sleng_177560.m3u8?enc=6lHd4R9KiWZ8awlo8hA7yA&exp=1587471876
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_flik_small1.png" group-title="INDONESIA MOVIES", FLIK
+https://vcdnjt.useetv.com:443/joss/15/flik/chunklist_w1315467241_b684100_sleng_177560.m3u8?enc=7a8bbpCJQ6mBgyNUWncrTg&exp=1587470989
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_kix_small.png" group-title="INDONESIA MOVIES", KIX
+https://vcdnjt.useetv.com/joss/15/kix/chunklist_w1419625362_b894100_sleng_471187.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_kix_small.png" group-title="INDONESIA MOVIES", KIX HD
+https://cdnjt25.useetv.com/joss/15/kix/chunklist_w2010473624_b1344100_sleng_471141.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvn_small.png" group-title="INDONESIA MOVIES", TVN
+https://vcdnjt.useetv.com:443/joss/15/tvn/chunklist_w828994627_b684100_sleng_177560.m3u8?enc=TcG4UU24km1DkwOLcEXhrw&exp=1585294859&encp=AjtUSiMQ7BYCxKmni52bYg&expp=1585303559
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvnmoviews_small.png" group-title="INDONESIA MOVIES", TVN MOVIES
+https://vcdnjt.useetv.com:443/joss/15/tvnmovies/chunklist_w612648122_b684100_sleng_177560.m3u8?enc=d62mNPSchE55ElLUcfFpsg&exp=1585294888&encp=lCcniWIdC5U1JwXixDiTjw&expp=1585303588
+
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="INDONESIA MOVIES", STAR CHINESE LEGEND
+https://cdn-laos.workpoint.news/sd-starchineselegend_480/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_thrill_small.png" group-title="INDONESIA MOVIES", THRILL
+https://vcdnjt.useetv.com/joss/14/thrill/chunklist_w822829107_b684100_sleng_67787.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_thrill_small.png" group-title="INDONESIA MOVIES", THRILL ID
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/62189
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_warner_small.png" group-title="INDONESIA MOVIES", WARNER TV
+https://vcdnjt.useetv.com/joss/15/warner/chunklist_w1318492207_b684100_sleng_355937.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_warner_small.png" group-title="INDONESIA MOVIES", WARNER TV HD
+https://edgejt7.useetv.com/joss/15/warner/chunklist_w1042470190_b1344100_sleng_481557.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_zbioskop_small1.png" group-title="INDONESIA MOVIES",ZEE BIOSKOP
+https://vcdnjt.useetv.com/joss/14/zbioskop/chunklist_w2085074683_b684100_sleng_63371.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports1_small.png" group-title="INDONESIA SPORTS", FOX SPORT 1 SD
+https://vcdnjt.useetv.com/joss/15/foxsport1/chunklist_w348496298_b894100_sleng_471035.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports1_small.png" group-title="INDONESIA SPORTS", FOX SPORT 1 HD
+https://vcdnjt.useetv.com/joss/15/foxsport1/chunklist_w662956550_b1344100_sleng_247649.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports1_small.png" group-title="INDONESIA SPORTS", FOX SPORT 2 SD
+https://vcdnjt.useetv.com/joss/15/foxsport2/chunklist_w602405053_b894100_sleng_471047.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports2_small.png" group-title="INDONESIA SPORTS", FOX SPORT 2 HD
+https://vcdnjt.useetv.com/joss/15/foxsport2/chunklist_w61448113_b1344100_sleng_247672.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports1_small.png" group-title="INDONESIA SPORTS", FOX SPORT 3 SD
+https://vcdnjt.useetv.com/joss/15/foxsport3/chunklist_w297336772_b894100_sleng_471053.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports3_small.png" group-title="INDONESIA SPORTS", FOX SPORT 3 HD
+https://vcdnjt.useetv.com/joss/15/foxsport3/chunklist_w659832811_b1344100_sleng_247687.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein1_small1.png" group-title="INDONESIA SPORTS", BEIN SPORT 1 SD
+https://vcdnjt.useetv.com/joss/15/bein1/chunklist_w1092737456_b894100_sleng_90025.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein1_small1.png" group-title="INDONESIA SPORTS", BEIN SPORT 1 HD
+https://vcdnjt.useetv.com/joss/15/bein1/chunklist_w1385039321_b1344100_sleng_247479.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein2_small2.png" group-title="INDONESIA SPORTS", BEIN SPORT 2 SD
+https://vcdnjt.useetv.com/joss/15/bein2/chunklist_w279048530_b894100_sleng_90041.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein2_small2.png" group-title="INDONESIA SPORTS", BEIN SPORT 2 HD
+https://vcdnjt.useetv.com/joss/15/bein2/chunklist_w1790348684_b1344100_sleng_247505.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ1_small.png" group-title="INDONESIA SPORTS", CHAMPION TV 1 SD
+https://vcdnjt.useetv.com:443/joss/15/champion1/chunklist_w888798869_b684100_sleng_177560.m3u8?enc=SgRpcH6S97eh9aWOJ-vngA&exp=1587471358
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ1_small.png" group-title="INDONESIA SPORTS", CHAMPION TV 1 HD
+https://cdnjt14.useetv.com/joss/15/champion1/chunklist_w854858626_b1344100_sleng_1262.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ2_small.png" group-title="INDONESIA SPORTS", CHAMPION TV 2 SD
+https://vcdnjt.useetv.com:443/joss/15/champion2/chunklist_w698562627_b684100_sleng_177560.m3u8?enc=ilVuzptnrtiN-CRXUtRLfw&exp=1587471401
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ2_small.png" group-title="INDONESIA SPORTS", CHAMPION TV 2 HD
+https://cdnjt14.useetv.com/joss/15/champion2/chunklist_w426217090_b1344100_sleng_30329.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesport_small.png" group-title="INDONESIA SPORTS", USEE SPORT 1
+https://vcdnjt.useetv.com:443/joss/15/useesport/chunklist_w1734341269_b894100_sleng_177560.m3u8?enc=04WgtycFcN-cMIKu6JcrMQ&exp=1587471571
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesports2_small.png" group-title="INDONESIA SPORTS", USEE SPORT 2
+https://vcdnjt.useetv.com:443/joss/15/useesports2/chunklist_w589224286_b684100_sleng_177560.m3u8?enc=RStWKB0CU75uFUk98ieI4Q&exp=1587471587
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1111842868908318721/lMvLaebw_400x400.jpg" group-title="INDONESIA SPORTS", TVRI SPORT
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_nba_small1.png" group-title="INDONESIA SPORTS", NBA TV
+https://vcdnjt.useetv.com/joss/15/nba/chunklist_w2141500514_b1344100_sleng_97037.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA CHANNEL",AMRITA TV MY
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/29527
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA CHANNEL",ANI PLUS HD MY
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18637
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA CHANNEL",ANIMAL PLANET MY
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18636
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA CHANNEL",ANIMAX HD KD MY
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18635
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA CHANNEL",ASIAN FOOD CHANNEL MY
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18634
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA CHANNEL",ASIANET ME MY
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/29528
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA CHANNEL",ASIANET MOVIES MY
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/29529
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA CHANNEL",ASIANET NEWS MY
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/29530
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA CHANNEL",ASIANET PLUS PLUS MY
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/29531
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA CHANNEL",ASIANET TV PLUS MY
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/29532
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA CHANNEL",bEIN MAX MY
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18633
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA CHANNEL",ASTRO ARENA HD MY
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18632
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA CHANNEL",ASTRO AWANI HD MY
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/29582
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA CHANNEL",ASTRO CERIA MY
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18630
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA CHANNEL",ASTRO CRICKET HD MY
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18629
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA CHANNEL",ASTRO OASIS HD MY
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18628
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA CHANNEL",ASTRO PRIMA HD MY
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18627
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA CHANNEL",ASTRO QUAN JIA HD MY
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18626
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA CHANNEL",ASTRO RIA HD MY
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18625
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA CHANNEL",ASTRO SHUANG XING HD MY
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18624
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA CHANNEL",ASTRO SUPERSPORTS 1 FHD MY
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18623
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA CHANNEL",ASTRO SUPERSPORTS 2 FHD MY
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18622
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA CHANNEL",ASTRO SUPERSPORTS 3 FHD MY
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18621
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA CHANNEL",ASTRO SUPERSPORTS 4 FHD MY
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18620
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA CHANNEL",CHUTTI TV MY
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18619
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA CHANNEL",ASTRO VAANAVIL HD MY
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18618
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA CHANNEL",ASTRO VINMEEN HD MY
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18617
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA CHANNEL",ASTRO WARNA HD MY
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18616
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA CHANNEL",COLORS HD MY
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18615
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA CHANNEL",ASTRO XIAO TAI YANG MY
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18614
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA CHANNEL",AXN HD MY
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18613
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA CHANNEL",Astro Awani MY
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/1373
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA CHANNEL",Astro SuperSport 1 MY
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/1366
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA CHANNEL",Astro SuperSport 2 HD MY
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/1365
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA CHANNEL",Astro SuperSport 3 HD MY
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/1364
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA CHANNEL",BABY FIRST MY
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18612
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA CHANNEL",BBC EARTH HD MY
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18610
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA CHANNEL",BBC LIFESTYLE MY
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18609
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA CHANNEL",BEIN SPORTS MY
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18608
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA CHANNEL",BLUE ANT EXTREME MY
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18607
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA CHANNEL",BOLLY ONE HD MY
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18606
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA CHANNEL",BOOMERANG HD KD MY
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18605
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA CHANNEL",CARTOON NETWORK MY
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18604
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA CHANNEL",CELESTIAL MOVIES MY
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18603
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA CHANNEL",CINEMA WORLD HD MY
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18601
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA CHANNEL",DD MALAYALAM MY
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/29533
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA CHANNEL",DISCOVERY CHANNEL MY
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18600
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA CHANNEL",DISNEY CH MY
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18599
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA CHANNEL",DISNEY JR MY
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18598
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA CHANNEL",DISNEY XD MY
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18597
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA CHANNEL",DIVA HD MY
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18596
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA CHANNEL",DUNIA SINEMA MY
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18595
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA CHANNEL",ASTRO RUGBY PASS TV MY
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18593
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA CHANNEL",FLOW SPORTS HD MY
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/29591
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA CHANNEL",FLOW SPORTS P.L HD MY
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/29592
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA CHANNEL",FLOWERS TV MY
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/29534
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA CHANNEL",FOX ACTION MOVIES HD MY
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/29583
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA CHANNEL",FOX FAMILY MOVIES HD MY
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18592
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA CHANNEL",FOX LIFE HD MY
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18591
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA CHANNEL",FOX MOVIES HD MY
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18590
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA CHANNEL",FOX SPORTS 1 MY
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18589
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA CHANNEL",FOX SPORTS 2 MY
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18588
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA CHANNEL",FOX SPORTS 3 MY
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18587
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA CHANNEL",FOX TV HD MY
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18586
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA CHANNEL",FX CINEMA HD MY
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18585
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA CHANNEL",Fox Movies Action HD MY
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/1362
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA CHANNEL",Fox Movies Premium MY
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/1361
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA CHANNEL",ASTRO NAURA MY
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/29535
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA CHANNEL",GNIX SPORTS HD MY
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18584
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA CHANNEL",SUN MUSIC MY
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/29536
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA CHANNEL",HARVEST TV ARABIA MY
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/29538
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA CHANNEL",HARVEST TV MY
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/29537
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA CHANNEL",HARVEST TV USA MY
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/29539
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA CHANNEL",HGTV MY
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18583
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA CHANNEL",GO SHOP GAAYA MY
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18582
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA CHANNEL",HITS HD MY
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18581
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA CHANNEL",HYPP SENSASI MY
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18580
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA CHANNEL",JANAM TV MY
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/29541
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA CHANNEL",JAYA MAX APAC Plus MY
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18548
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA CHANNEL",KAIRALI PEOPLE MY
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/29543
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA CHANNEL",KAPPA TV MY
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/29546
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA CHANNEL",KAUMUDY TV MY
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/29547
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA CHANNEL",KERALA VISION MY
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/29548
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA CHANNEL",KIX MY
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18575
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA CHANNEL",MANGLAM TV MY
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/29550
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA CHANNEL",MANORAMA NEWS MY
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/29551
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA CHANNEL",MARIAN TV MY
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/29552
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA CHANNEL",MATHRUBHUMI NEWS MY
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/29553
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA CHANNEL",MAZHAVIL MANORAMA HD MY
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/29555
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA CHANNEL",MAZHAVIL MANORAMA INT. MY
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/29556
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA CHANNEL",MAZHAVIL MANORAMA MY
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/29554
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA CHANNEL",MEDIA ONE MY
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/29557
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA CHANNEL",MTV ASIA MY
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18573
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA CHANNEL",MUTV HD MY
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18572
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA CHANNEL",NAT GEO ASIA HD MY
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18571
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA CHANNEL",NAT GEO PEOPLE HD MY
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18570
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA CHANNEL",NAT GEO WILD HD MY
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18569
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA CHANNEL",NEWS 18 KERALA MY
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/29558
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA CHANNEL",NICK JR KD MY
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18568
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA CHANNEL",NICK KD MY
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18567
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA CHANNEL",NOW TV CHINESE MY
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18566
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA CHANNEL",NTV7 MY
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/1360
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA CHANNEL",GO SHOP RUUMA MY
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18565
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA CHANNEL",PARAMAUNT CHANNEL MY
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18563
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA CHANNEL",PESONA HD MY
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18562
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA CHANNEL",RAJ NEWS MY
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/29560
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA CHANNEL",RED HBO HD MY
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18561
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA CHANNEL",REPORTER TV MY
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/29561
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA CHANNEL",SAFARI TV MY
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/29563
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA CHANNEL",SETANTA SPORTS HD MY
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18560
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA CHANNEL",SETi CHINESE MY
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18559
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA CHANNEL",SHALOM TV MY
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/29564
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA CHANNEL",SONY ONE HD MY
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18558
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA CHANNEL",SONY SAB APAC Plus MY
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18545
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA CHANNEL",SONY SETMAX APAC Plus MY
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18544
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA CHANNEL",SONY TV APAC Plus MY
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18543
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA CHANNEL",STAR CHINESE CHANNEL HD MY
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18557
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA CHANNEL",STAR VIJAY APAC Plus MY
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18546
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA CHANNEL",SURYA COMEDY MY
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/29565
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA CHANNEL",SURYA HD MY
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/29566
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA CHANNEL",SURYA MOVIES MY
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/29567
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA CHANNEL",SURYA MUSIC MY
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/29568
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA CHANNEL",SURYA TV MY
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/29569
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA CHANNEL",SkyNet Baby TV MY
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/9131
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA CHANNEL",SkyNet Dmax MY
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/9126
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA CHANNEL",SkyNet Fox Action Movies HD MY
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/9142
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA CHANNEL",SkyNet Fox Action Movies MY
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/9143
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA CHANNEL",SkyNet Golf HD MY
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/9123
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA CHANNEL",SkyNet MTV China MY
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/9122
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA CHANNEL",SkyNet Movies HD MY
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/9114
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA CHANNEL",SkyNet Music MY
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/9121
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA CHANNEL",SkyNet Sports 5 MY
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/1155
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA CHANNEL",SkyNet Sports HD MY
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/9113
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA CHANNEL",SkyNet Sports Plus HD MY
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/9110
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA CHANNEL",SkyNet Sports Plus MY
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/9112
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA CHANNEL",SkyNet ZEE TV MY
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/9135
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA CHANNEL",SkyNet Zing MY
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/9117
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA CHANNEL",Sport DREAM WORKS HD MY
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18638
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA CHANNEL",TLC MY
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18556
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA CHANNEL",TRAVEL CHANNEL HD MY
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18555
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA CHANNEL",TV ALHIJRA MY
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18554
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA CHANNEL",TV1 MY
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/1359
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA CHANNEL",TV2 MY
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/1358
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA CHANNEL",TV3 HD MY
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/29594
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA CHANNEL",TV3 MY
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/1357
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA CHANNEL",TV8 MY
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18553
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA CHANNEL",TV9 HD MY
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/29595
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA CHANNEL",TV9 MY
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/1356
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA CHANNEL",TVN HD MY
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18552
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA CHANNEL",TVN MOVIES MY
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18551
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA CHANNEL",WARNER TV HD MY
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18550
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA CHANNEL",WWE NETWORK HD MY
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18549
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA CHANNEL",ZEE TAMIL APAC Plus MY
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18547
+
+#EXTINF:-1 tvg-logo="" group-title="THAILAND SPORTS",PPTV 1 TH
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/8669
+#EXTINF:-1 tvg-logo="" group-title="THAILAND SPORTS",Skynet Sports 1 TH
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/8516
+#EXTINF:-1 tvg-logo="" group-title="THAILAND SPORTS",Skynet Sports 2 TH
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/8515
+#EXTINF:-1 tvg-logo="" group-title="THAILAND SPORTS",Skynet Sports 3 TH
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/8514
+#EXTINF:-1 tvg-logo="" group-title="THAILAND SPORTS",Skynet Sports 4 TH
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/8513
+#EXTINF:-1 tvg-logo="" group-title="THAILAND SPORTS",Skynet Sports 5 TH
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/8512
+#EXTINF:-1 tvg-logo="" group-title="THAILAND SPORTS",Skynet Sports 6 TH
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/8511
+#EXTINF:-1 tvg-logo="" group-title="THAILAND SPORTS",Skynet Sports HD TH
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/8518
+#EXTINF:-1 tvg-logo="" group-title="THAILAND SPORTS",Skynet Sports Plus TH
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/8517
+#EXTINF:-1 tvg-logo="" group-title="THAILAND SPORTS",Sony Six Sport TH
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/8682
+#EXTINF:-1 tvg-logo="" group-title="THAILAND SPORTS",True Premiere Football 1 HD TH
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/8508
+#EXTINF:-1 tvg-logo="" group-title="THAILAND SPORTS",True Premiere Football 2 TH
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/8685
+#EXTINF:-1 tvg-logo="" group-title="THAILAND SPORTS",True Premiere Football 3 HD TH
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/8684
+#EXTINF:-1 tvg-logo="" group-title="THAILAND SPORTS",True Premiere Football 4 HD TH
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/74293
+#EXTINF:-1 tvg-logo="" group-title="THAILAND SPORTS",True Premiere Football 5 HD TH
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/74292
+#EXTINF:-1 tvg-logo="" group-title="THAILAND SPORTS",beIN Sports 1 TH
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/8510
+#EXTINF:-1 tvg-logo="" group-title="THAILAND SPORTS",beIN Sports 2 HD TH
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/8505
+#EXTINF:-1 tvg-logo="" group-title="THAILAND SPORTS",beIN Sports 2 TH
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/8509
+#EXTINF:-1 tvg-logo="" group-title="THAILAND SPORTS",beIN Sports 3 HD TH
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/8504
+
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",BT Sport 1 FHD UK
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/5716
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",BT Sport 1 HD UK
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/370
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",BT Sport 1 UK
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/369
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",BT Sport 1 VIP UK
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/10751
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",BT Sport 2 FHD UK
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/5715
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",BT Sport 2 HD UK
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/368
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",BT Sport 2 UK
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/367
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",BT Sport 2 VIP UK
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/10749
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",BT Sport 3 FHD UK
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/5714
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",BT Sport 3 HD UK
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/366
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",BT Sport 3 UK
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/365
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",BT Sport 3 VIP UK
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/10748
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",BT Sport ESPN HD UK
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/1743
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",BT Sport ESPN UK
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/1819
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",BT Sport ESPN VIP UK
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/10750
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",BT Sport Extra 1 UK
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/1818
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",BT Sport Extra 1 VIP UK
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/10752
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",BT Sport Extra 2 UK
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/1817
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",BT Sport Extra 2 VIP UK
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/10741
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",BT Sport Extra 3 UK
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/1816
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",BT Sport Extra 3 VIP UK
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/10742
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",BT Sport Extra 4 UK
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/1815
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",BT Sport Extra 4 VIP UK
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/10743
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",BT Sport Extra 5 UK
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/1814
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",BT Sport Extra 5 VIP UK
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/10744
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",BT Sport Extra 6 VIP UK
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/10745
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",BT Sport Mosaic 2 UK
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/1813
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",BT Sports 1 FHD VIP UK
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/10878
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",BT Sports 1 HD VIP UK
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/10813
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",BT Sports 2 FHD VIP UK
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/10820
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",BT Sports 2 HD VIP UK
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/10812
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",BT Sports 3 FHD VIP UK
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/10877
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",BT Sports 3 HD VIP UK
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/10811
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",BT Sports ESPN FHD VIP UK
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/10876
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",BT Sports ESPN HD VIP UK
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/10810
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",CAPITAL TV UK
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/1778
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",Cartoon Network FHD VIP UK
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/10875
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",Cartoon Network UK
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/1857
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",Cartoonito UK
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/1865
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",eir Sport 1 UK
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/1804
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",Eir Sport 1 VIP UK
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/10717
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",eir Sport 2 FHD UK
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/5713
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",eir Sport 2 HD UK
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/1798
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",eir Sport 2 UK
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/1803
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",Eir Sport 2 VIP UK
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/10630
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",Eurosport 1 FHD VIP UK
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/10868
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",Eurosport 1 HD UK
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/1812
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",Eurosport 2 FHD VIP UK
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/10867
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",Eurosport 2 HD UK
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/1811
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",Sky Sports Action FHD UK
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/5720
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",Sky Sports Action FHD VIP UK
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/10835
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",Sky Sports Action HD UK
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/333
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",Sky Sports Action HD VIP UK
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/10800
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",Sky Sports Action UK
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/374
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",Sky Sports Arena FHD UK
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/6202
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",Sky Sports Arena FHD VIP UK
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/10834
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",Sky Sports Arena HD UK
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/6201
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",Sky Sports Arena HD VIP UK
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/10799
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",Sky Sports Arena UK
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/6200
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",Sky Sports Box Office FHD UK
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/7601
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",Sky Sports Box Office UK
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/1820
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",Sky Sports Cricket FHD UK
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/5721
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",Sky Sports Cricket FHD VIP UK
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/10833
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",Sky Sports Cricket HD UK
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/334
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",Sky Sports Cricket HD VIP UK
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/10798
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",Sky Sports Cricket UK
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/375
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",Sky Sports F1 FHD UK
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/5717
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",Sky Sports F1 FHD VIP UK
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/10832
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",Sky Sports F1 HD UK
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/371
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",Sky Sports F1 HD VIP UK
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/10797
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",Sky Sports F1 UK
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/337
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",Sky Sports Football FHD UK
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/6205
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",Sky Sports Football FHD VIP UK
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/10831
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",Sky Sports Football HD UK
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/6204
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",Sky Sports Football HD VIP UK
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/10796
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",Sky Sports Football UK
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/6203
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",Sky Sports Golf FHD UK
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/5719
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",Sky Sports Golf FHD VIP UK
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/10830
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",Sky Sports Golf HD UK
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/332
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",Sky Sports Golf HD VIP UK
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/10795
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",Sky Sports Golf UK
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/373
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",Sky Sports Main Event FHD UK
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/5722
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",Sky Sports Main Event FHD VIP UK
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/10829
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",Sky Sports Main Event HD UK
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/335
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",Sky Sports Main Event HD VIP UK
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/10794
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",Sky Sports Main Event UK
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/376
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",Sky Sports Mix FHD VIP UK
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/10828
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",Sky Sports Mix HD UK
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/1821
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",Sky Sports Mix HD VIP UK
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/10793
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",Sky Sports News FHD VIP UK
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/10827
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",Sky Sports News HQ UK
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/336
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",Sky Sports Premier League FHD UK
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/5718
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",Sky Sports Premier League FHD VIP UK
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/10826
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",Sky Sports Premier League HD UK
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/331
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",Sky Sports Premier League HD VIP UK
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/10792
+#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",Sky Sports Premier League UK
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/372
+
+#EXTINF:-1 tvg-logo="" group-title="USA SPORTS",UFC Fight Pass US
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/6421
+#EXTINF:-1 tvg-logo="" group-title="USA SPORTS",UFC Fight Pass VIP US
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/10130
+#EXTINF:-1 tvg-logo="" group-title="USA SPORTS",WWE HD US
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/562
+#EXTINF:-1 tvg-logo="" group-title="USA SPORTS",WWE HD VIP US
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/8966
+#EXTINF:-1 tvg-logo="" group-title="USA SPORTS",WWE Network FHD US
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/7544
+#EXTINF:-1 tvg-logo="" group-title="USA SPORTS",WWE US
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/7778
+#EXTINF:-1 tvg-logo="" group-title="USA SPORTS",Fox Sports 1 HD US
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/553
+#EXTINF:-1 tvg-logo="" group-title="USA SPORTS",Fox Sports 1 HD VIP US
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/8996
+#EXTINF:-1 tvg-logo="" group-title="USA SPORTS",Fox Sports 1 US
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/7786
+#EXTINF:-1 tvg-logo="" group-title="USA SPORTS",Fox Sports 2 FHD US
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/554
+#EXTINF:-1 tvg-logo="" group-title="USA SPORTS",Fox Sports 2 HD US
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/7759
+#EXTINF:-1 tvg-logo="" group-title="USA SPORTS",Fox Sports 2 HD VIP US
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/8995
+#EXTINF:-1 tvg-logo="" group-title="USA SPORTS",NBA HD US
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/533
+#EXTINF:-1 tvg-logo="" group-title="USA SPORTS",NBA Live 1 HD US
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/8538
+#EXTINF:-1 tvg-logo="" group-title="USA SPORTS",NBA Live 2 HD US [ Match Time Only ]
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/8537
+#EXTINF:-1 tvg-logo="" group-title="USA SPORTS",NBA Live 3 HD US [ Match Time Only ]
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/8536
+#EXTINF:-1 tvg-logo="" group-title="USA SPORTS",NBA Live 4 HD US [ Match Time Only ]
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/8535
+#EXTINF:-1 tvg-logo="" group-title="USA SPORTS",NBA Live 5 HD US [ Match Time Only ]
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/8534
+#EXTINF:-1 tvg-logo="" group-title="USA SPORTS",NBA Live 6 HD US [ Match Time Only ]
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/8533
+#EXTINF:-1 tvg-logo="" group-title="USA SPORTS",NBA Live 7 HD US [ Match Time Only ]
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/8532
+#EXTINF:-1 tvg-logo="" group-title="USA SPORTS",NBA Live 8 HD US [ Match Time Only ]
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/8531
+#EXTINF:-1 tvg-logo="" group-title="USA SPORTS",NBC Golf Channel FHD US
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/6147
+#EXTINF:-1 tvg-logo="" group-title="USA SPORTS",NBC Golf Channel HD US
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/6146
+#EXTINF:-1 tvg-logo="" group-title="USA SPORTS",NBC Golf HD US
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/7743
+#EXTINF:-1 tvg-logo="" group-title="USA SPORTS",NBC Golf HD VIP US
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/8986
+#EXTINF:-1 tvg-logo="" group-title="USA SPORTS",NFL Network 1 US
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/504
+#EXTINF:-1 tvg-logo="" group-title="USA SPORTS",NFL Network FHD US
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/505
+#EXTINF:-1 tvg-logo="" group-title="USA SPORTS",NFL Network HD US
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/556
+#EXTINF:-1 tvg-logo="" group-title="USA SPORTS",NFL Network HD VIP US
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/9010
+#EXTINF:-1 tvg-logo="" group-title="USA SPORTS",NFL Network US
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/7793
+#EXTINF:-1 tvg-logo="" group-title="USA SPORTS",NFL Now HD US
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/7773
+#EXTINF:-1 tvg-logo="" group-title="USA SPORTS",NFL Now HD VIP US
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/9011
+#EXTINF:-1 tvg-logo="" group-title="USA SPORTS",NFL Redzone HD US
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/7772
+#EXTINF:-1 tvg-logo="" group-title="USA SPORTS",NHL Network HD VIP US
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/8991
+#EXTINF:-1 tvg-logo="" group-title="USA SPORTS",NHL Network US
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/576
+
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORTS",DAZN 1 Bar FHD DE
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/16044
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORTS",DAZN 1 Bar HD DE
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18392
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORTS",DAZN 2 Bar FHD DE
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18393
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORTS",DAZN 2 Bar HD DE
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/16045
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORTS",Eurosport 2 Xtra FHD DE
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/6506
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORTS",Eurosport 2 Xtra HD DE
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/7430
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORTS",Sky Sport News DE
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/24381
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORTS",Sky Sport News HD DE
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/1315
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORTS",Sky Sport Bundesliga 1 HD DE
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/12700
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORTS",Sky Sport Bundesliga 1 FHD DE
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/4387
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORTS",Sky Sport Bundesliga 2 HD (Live Event) DE
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/1330
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORTS",Sky Sport Bundesliga 2 FHD DE
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/4386
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORTS",Sky Sport Bundesliga 3 HD (Live Event) DE
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/12699
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORTS",Sky Sport Bundesliga 3 FHD DE
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/4385
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORTS",Sky Sport Bundesliga 4 HD (Live Event) DE
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/1328
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORTS",Sky Sport Bundesliga 4 FHD DE
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/4384
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORTS",Sky Sport Bundesliga 5 HD (Live Event) DE
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/12698
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORTS",Sky Sport Bundesliga 5 FHD DE
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/4383
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORTS",Sky Sport Bundesliga 6 HD (Live Event) DE
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/1326
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORTS",Sky Sport Bundesliga 6 FHD DE
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/4382
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORTS",Sky Sport Bundesliga 7 FHD DE
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/4381
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORTS",Sky Sport Bundesliga 8 FHD DE
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/4380
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORTS",Sky Sport Bundesliga 9 FHD DE
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/4379
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORTS",Sky Sport Bundesliga 10 FHD DE
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/4378
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORTS",Sky Sport 1 DE
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/73835
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORTS",Sky Sport 1 HD DE
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/12697
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORTS",Sky Sport 1 FHD DE
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/4377
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORTS",Sky Sport 2 DE
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/73836
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORTS",Sky Sport 2 HD DE
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/12696
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORTS",Sky Sport 2 FHD DE
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/4376
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORTS",Sky Sport 3 HD (Live Event) DE
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/1323
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORTS",Sky Sport 3 FHD DE
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/4375
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORTS",Sky Sport 4 HD (Live Event) DE
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/1322
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORTS",Sky Sport 4 FHD DE
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/4374
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORTS",Sky Sport 5 HD (Live Event) DE
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/12695
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORTS",Sky Sport 5 FHD DE
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/4373
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORTS",Sky Sport 6 HD (Live Event) DE
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/1320
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORTS",Sky Sport 6 FHD DE
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/4372
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORTS",Sky Sport 7 HD (Live Event) DE
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/1319
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORTS",Sky Sport 7 FHD DE
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/4371
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORTS",Sky Sport 8 HD (Live Event) DE
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/12694
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORTS",Sky Sport 9 HD (Live Event) DE
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/8693
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORTS",Sky Sport 9 FHD DE
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/4369
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORTS",Sky Sport 10 FHD DE
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/4368
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORTS",Sky Sport 11 FHD DE
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/4367
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORTS",Sky Sport Austria HD DE
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/3176
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORTS",Sky Sport Austria FHD DE
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/5584
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORTS",Eurosport 1 HD DE
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/1316
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORTS",Eurosport 1 FHD DE
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/9345
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORTS",Eurosport 2 DE
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/97
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORTS",Eurosport 2 FHD DE
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/9344
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORTS",Sport1 HD DE
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/9271
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORTS",Sport1 FHD DE
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/3847
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORTS",Sport1+ FHD DE
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/9342
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORTS",Sport1+ HD DE
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/74999
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORTS",eSport1 US HD DE
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/9336
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORTS",SportDigital HD DE
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/3187
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORTS",Sportdigital FHD DE
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/9343
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORTS",Telekom Fussball 1 FHD VIP DE
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/15996
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORTS",Telekom Fussball 2 FHD VIP DE
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/15995
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORTS",Telekom Fussball 3 FHD VIP DE
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/15994
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORTS",Telekom Fussball 4 FHD VIP DE
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/15993
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORTS",Telekom Fussball 5 FHD VIP DE
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/15992
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORTS",Telekom Fussball 6 FHD VIP DE
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/15991
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORTS",Telekom Fussball 7 FHD VIP DE
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/15990
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORTS",Telekom Fussball 8 FHD VIP DE
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/15989
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORTS",FC Bayern TV HD DE
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/6491
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORTS",FC Bayern TV FHD DE
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/6492
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORTS",Auto Motor Sport TV HD DE
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/47546
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORTS",Auto Motor und Sport FHD DE
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/9340
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORTS",Motorvision TV DE
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/3181
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORTS",WWE DE
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/7795
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORTS",Olympic Channel HD VIP DE
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/13797
+
+#EXTINF:-1 tvg-logo="" group-title="EX-YU SPORTS",EuroSport 1 ex-Yu
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/594
+#EXTINF:-1 tvg-logo="" group-title="EX-YU SPORTS",EuroSport 2 ex-Yu
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/593
+#EXTINF:-1 tvg-logo="" group-title="EX-YU SPORTS",FightBox FHD VIP ex-Yu
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/10901
+#EXTINF:-1 tvg-logo="" group-title="EX-YU SPORTS",Arena Sport 1 Srb ex-Yu
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/2284
+#EXTINF:-1 tvg-logo="" group-title="EX-YU SPORTS",Arena Sport 2 Srb ex-Yu
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/2283
+#EXTINF:-1 tvg-logo="" group-title="EX-YU SPORTS",Arena Sport 3 Srb ex-Yu
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/2282
+#EXTINF:-1 tvg-logo="" group-title="EX-YU SPORTS",Arena Sport 4 Srb ex-Yu
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/2281
+#EXTINF:-1 tvg-logo="" group-title="EX-YU SPORTS",Arena Sport 5 Srb ex-Yu
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/2280
+#EXTINF:-1 tvg-logo="" group-title="EX-YU SPORTS",Arena Sport 1 HR HD ex-Yu
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/589
+#EXTINF:-1 tvg-logo="" group-title="EX-YU SPORTS",Arena Sport 2 HR HD ex-Yu
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/588
+#EXTINF:-1 tvg-logo="" group-title="EX-YU SPORTS",Arena Sport 3 HR HD ex-Yu
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/587
+#EXTINF:-1 tvg-logo="" group-title="EX-YU SPORTS",Arena Sport 4 HR HD ex-Yu
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/586
+#EXTINF:-1 tvg-logo="" group-title="EX-YU SPORTS",Arena Sport 5 HR HD ex-Yu
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/585
+#EXTINF:-1 tvg-logo="" group-title="EX-YU SPORTS",Moja TV Sport HD VIP ex-Yu
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/67260
+#EXTINF:-1 tvg-logo="" group-title="EX-YU SPORTS",Sport Klub 1 HD VIP ex-Yu
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/13966
+#EXTINF:-1 tvg-logo="" group-title="EX-YU SPORTS",Sport Klub 1 SRB ex-Yu
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/592
+#EXTINF:-1 tvg-logo="" group-title="EX-YU SPORTS",Sport Klub HD 1 Srb ex-Yu
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/2279
+#EXTINF:-1 tvg-logo="" group-title="EX-YU SPORTS",Sport Klub 1 FHD VIP ex-Yu
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/10900
+#EXTINF:-1 tvg-logo="" group-title="EX-YU SPORTS",Sport Klub 2 SRB ex-Yu
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/591
+#EXTINF:-1 tvg-logo="" group-title="EX-YU SPORTS",Sport Klub HD 2 Srb ex-Yu
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/2278
+#EXTINF:-1 tvg-logo="" group-title="EX-YU SPORTS",Sport Klub 2 HD VIP ex-Yu
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/10896
+#EXTINF:-1 tvg-logo="" group-title="EX-YU SPORTS",Sport Klub 2 FHD SRB/HRV/SLO VIP ex-Yu
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/10884
+#EXTINF:-1 tvg-logo="" group-title="EX-YU SPORTS",Sport Klub 3 SRB ex-Yu
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/590
+#EXTINF:-1 tvg-logo="" group-title="EX-YU SPORTS",Sport Klub HD 3 Srb ex-Yu
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/2277
+#EXTINF:-1 tvg-logo="" group-title="EX-YU SPORTS",Sport Klub 3 HD VIP ex-Yu
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/10897
+#EXTINF:-1 tvg-logo="" group-title="EX-YU SPORTS",Sport Klub 3 FHD SRB/HRV/SLO VIP ex-Yu
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/10883
+#EXTINF:-1 tvg-logo="" group-title="EX-YU SPORTS",Trace Sport Stars FHD VIP ex-Yu
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/10911
+#EXTINF:-1 tvg-logo="" group-title="EX-YU SPORTS",Planet Sport 1 FHD ex-Yu
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/25515
+#EXTINF:-1 tvg-logo="" group-title="EX-YU SPORTS",Planet Sport 2 HD ex-Yu
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/25516
+#EXTINF:-1 tvg-logo="" group-title="EX-YU SPORTS",Planet Sport 3 HD ex-Yu
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/78571
+#EXTINF:-1 tvg-logo="" group-title="EX-YU SPORTS",Planet Sport 4 HD ex-Yu
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/78572
+#EXTINF:-1 tvg-logo="" group-title="EX-YU SPORTS",Planet Sport 5 HD ex-Yu
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/78573
+#EXTINF:-1 tvg-logo="" group-title="EX-YU SPORTS",POSAVINA VIP ex-YU
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/78684
+#EXTINF:-1 tvg-logo="" group-title="EX-YU SPORTS",RTS Drama ex-YU
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/79204
+#EXTINF:-1 tvg-logo="" group-title="EX-YU SPORTS",Nova Sport HD SRB ex-YU
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/79722
+#EXTINF:-1 tvg-logo="" group-title="EX-YU SPORTS",Arena Sport 1 Srb FHD ex-Yu
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/79821
+#EXTINF:-1 tvg-logo="" group-title="EX-YU SPORTS",Arena Sport 2 Srb FHD ex-Yu
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/79822
+#EXTINF:-1 tvg-logo="" group-title="EX-YU SPORTS",Arena Sport 3 Srb FHD ex-Yu
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/79823
+#EXTINF:-1 tvg-logo="" group-title="EX-YU SPORTS",Arena Sport 4 Srb FHD ex-Yu
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/79824
+#EXTINF:-1 tvg-logo="" group-title="EX-YU SPORTS",Arena Sport 5 Srb FHD ex-Yu
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/79825
+#EXTINF:-1 tvg-logo="" group-title="EX-YU SPORTS",PRVA KICK ex-YU
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/80953
+#EXTINF:-1 tvg-logo="" group-title="EX-YU SPORTS",Cinestar Fantasy ex-YU
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/80954
+#EXTINF:-1 tvg-logo="" group-title="EX-YU SPORTS",Sport Klub Esports ex-YU
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/80955
+#EXTINF:-1 tvg-logo="" group-title="EX-YU SPORTS",Sport Klub 7 ex-Yu
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/80959
+#EXTINF:-1 tvg-logo="" group-title="EX-YU SPORTS",Sport Klub 8 ex-Yu
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/80960
+#EXTINF:-1 tvg-logo="" group-title="EX-YU SPORTS",Sport Klub 9 ex-Yu
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/80961
+#EXTINF:-1 tvg-logo="" group-title="EX-YU SPORTS",Sport Klub 10 ex-Yu
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/80962
+#EXTINF:-1 tvg-logo="" group-title="EX-YU SPORTS",Arena Sport 6 HR ex-Yu
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/80963
+#EXTINF:-1 tvg-logo="" group-title="EX-YU SPORTS",Pickbox ex-YU
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/78341
+#EXTINF:-1 tvg-logo="" group-title="EX-YU SPORTS",Epic Drama HD ex-YU
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/78228
+#EXTINF:-1 tvg-logo="" group-title="EX-YU SPORTS",STAR TV ex-YU
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/78229
+#EXTINF:-1 tvg-logo="" group-title="EX-YU SPORTS",Pink BH ex-YU
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/78221
+#EXTINF:-1 tvg-logo="" group-title="EX-YU SPORTS",Belle Amie TV ex-YU
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/78222
+#EXTINF:-1 tvg-logo="" group-title="EX-YU SPORTS",Fight Channel ex-YU
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/82740
+#EXTINF:-1 tvg-logo="" group-title="EX-YU SPORTS",RTS Svet FHD ex-YU
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/82746
+#EXTINF:-1 tvg-logo="" group-title="EX-YU SPORTS",Nova-M ex-YU
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/82747
+#EXTINF:-1 tvg-logo="" group-title="EX-YU SPORTS",Nova-M HD ex-YU
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/82748
+#EXTINF:-1 tvg-logo="" group-title="EX-YU SPORTS",N1 HR ex-YU
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/82765
+#EXTINF:-1 tvg-logo="" group-title="EX-YU SPORTS",N1 HR FHD ex-YU
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/82766
+#EXTINF:-1 tvg-logo="" group-title="EX-YU SPORTS",CINESTAR TV 2 HD ex-YU
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/83207
+#EXTINF:-1 tvg-logo="" group-title="EX-YU SPORTS",O Kanal HD ex-YU
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/83213
+
+#EXTINF:-1 tvg-logo="" group-title="FRANCE SPORTS",beIN SPORTS 1 FR
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/417
+#EXTINF:-1 tvg-logo="" group-title="FRANCE SPORTS",beIN SPORTS 1 SD+ FR
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/7538
+#EXTINF:-1 tvg-logo="" group-title="FRANCE SPORTS",beIN SPORTS 1 HD FR
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/418
+#EXTINF:-1 tvg-logo="" group-title="FRANCE SPORTS",beIN SPORTS 1 FHD FR
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/4093
+#EXTINF:-1 tvg-logo="" group-title="FRANCE SPORTS",beIN SPORTS 2 FR
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/415
+#EXTINF:-1 tvg-logo="" group-title="FRANCE SPORTS",beIN SPORTS 2 HD FR
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/416
+#EXTINF:-1 tvg-logo="" group-title="FRANCE SPORTS",beIN SPORTS 2 FHD FR
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/4092
+#EXTINF:-1 tvg-logo="" group-title="FRANCE SPORTS",beIN SPORTS 3 FR
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/413
+#EXTINF:-1 tvg-logo="" group-title="FRANCE SPORTS",beIN SPORTS 3 HD FR
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/414
+#EXTINF:-1 tvg-logo="" group-title="FRANCE SPORTS",beIN SPORTS 3 FHD FR
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/4091
+#EXTINF:-1 tvg-logo="" group-title="FRANCE SPORTS",beIN SPORTS MAX 4 HD FR
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/4090
+#EXTINF:-1 tvg-logo="" group-title="FRANCE SPORTS",beIN SPORTS MAX 4 FHD FR
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/8932
+#EXTINF:-1 tvg-logo="" group-title="FRANCE SPORTS",beIN SPORTS MAX 5 HD FR
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/4089
+#EXTINF:-1 tvg-logo="" group-title="FRANCE SPORTS",beIN SPORTS MAX 5 FHD FR
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/8931
+#EXTINF:-1 tvg-logo="" group-title="FRANCE SPORTS",beIN SPORTS MAX 6 HD FR
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/4088
+#EXTINF:-1 tvg-logo="" group-title="FRANCE SPORTS",beIN SPORTS MAX 6 FHD FR
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/8930
+#EXTINF:-1 tvg-logo="" group-title="FRANCE SPORTS",beIN SPORTS MAX 7 HD FR
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/4087
+#EXTINF:-1 tvg-logo="" group-title="FRANCE SPORTS",beIN SPORTS MAX 7 FHD FR
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/8929
+#EXTINF:-1 tvg-logo="" group-title="FRANCE SPORTS",beIN SPORTS MAX 8 FR
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/7536
+#EXTINF:-1 tvg-logo="" group-title="FRANCE SPORTS",beIN SPORTS MAX 8 HD FR
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/7537
+#EXTINF:-1 tvg-logo="" group-title="FRANCE SPORTS",beIN SPORTS MAX 8 FHD FR
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/8907
+#EXTINF:-1 tvg-logo="" group-title="FRANCE SPORTS",beIN SPORTS MAX 9 FHD FR
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/8906
+#EXTINF:-1 tvg-logo="" group-title="FRANCE SPORTS",beIN SPORTS MAX 10 FHD FR
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/8905
+#EXTINF:-1 tvg-logo="" group-title="FRANCE SPORTS",Equidia HD FR
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/1402
+#EXTINF:-1 tvg-logo="" group-title="FRANCE SPORTS",Equidia FR
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/1386
+#EXTINF:-1 tvg-logo="" group-title="FRANCE SPORTS",CANAL+ Sport HD FR
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/1392
+#EXTINF:-1 tvg-logo="" group-title="FRANCE SPORTS",CANAL+ Sport FHD FR
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/4094
+#EXTINF:-1 tvg-logo="" group-title="FRANCE SPORTS",Eurosport 1 FR
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/1389
+#EXTINF:-1 tvg-logo="" group-title="FRANCE SPORTS",Eurosport 1 FHD FR
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/6538
+#EXTINF:-1 tvg-logo="" group-title="FRANCE SPORTS",Eurosport 2 HD FR
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/1388
+#EXTINF:-1 tvg-logo="" group-title="FRANCE SPORTS",Eurosport 2 FHD FR
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/6537
+#EXTINF:-1 tvg-logo="" group-title="FRANCE SPORTS",FOOT+ 24/24 FR
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/1390
+#EXTINF:-1 tvg-logo="" group-title="FRANCE SPORTS",GOLF+ HD FR
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/8786
+#EXTINF:-1 tvg-logo="" group-title="FRANCE SPORTS",GOLF+ FHD FR
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/1378
+#EXTINF:-1 tvg-logo="" group-title="FRANCE SPORTS",Golf Channel HD FR
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/15967
+#EXTINF:-1 tvg-logo="" group-title="FRANCE SPORTS",Golf Channel FHD FR
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/8787
+#EXTINF:-1 tvg-logo="" group-title="FRANCE SPORTS",Trace Sport Stars FHD FR
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/8900
+#EXTINF:-1 tvg-logo="" group-title="FRANCE SPORTS",InfoSport+ HD FR
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/4047
+#EXTINF:-1 tvg-logo="" group-title="FRANCE SPORTS",InfoSport+ FHD FR
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/6536
+#EXTINF:-1 tvg-logo="" group-title="FRANCE SPORTS",RMC SPORT 1 ACCESS HD FR
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/36875
+#EXTINF:-1 tvg-logo="" group-title="FRANCE SPORTS",RMC SPORT 2 ACCESS HD FR
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/36876
+#EXTINF:-1 tvg-logo="" group-title="FRANCE SPORTS",RMC SPORT 3 ACCESS HD FR
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/36877
+#EXTINF:-1 tvg-logo="" group-title="FRANCE SPORTS",RMC Sport 1 FHD FR
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/4086
+#EXTINF:-1 tvg-logo="" group-title="FRANCE SPORTS",RMC Sport 2 HD FR
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/1169
+#EXTINF:-1 tvg-logo="" group-title="FRANCE SPORTS",RMC Sport 2 FHD FR
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/4085
+#EXTINF:-1 tvg-logo="" group-title="FRANCE SPORTS",RMC Sport 3 HD FR
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/1168
+#EXTINF:-1 tvg-logo="" group-title="FRANCE SPORTS",RMC Sport 3 FHD FR
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/4084
+#EXTINF:-1 tvg-logo="" group-title="FRANCE SPORTS",RMC Sport 4 FHD FR
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/4083
+#EXTINF:-1 tvg-logo="" group-title="FRANCE SPORTS",RMC Sport News FR
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/16003
+#EXTINF:-1 tvg-logo="" group-title="FRANCE SPORTS",RMC Sport News FHD FR
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/1167
+#EXTINF:-1 tvg-logo="" group-title="FRANCE SPORTS",MySports FHD FR [Multi-Language]
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/8091
+#EXTINF:-1 tvg-logo="" group-title="FRANCE SPORTS",MySports 1 FHD FR [Multi-Language]
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/8090
+
+#EXTINF:-1 tvg-logo="" group-title="SPAIN SPORTS",Movistar Deportes 1 ES
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/1064
+#EXTINF:-1 tvg-logo="" group-title="SPAIN SPORTS",Movistar  Deportes 1 FHD ES
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/6071
+#EXTINF:-1 tvg-logo="" group-title="SPAIN SPORTS",Movistar Fútbol ES
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/1063
+#EXTINF:-1 tvg-logo="" group-title="SPAIN SPORTS",Movistar Fútbol FHD ES
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/4406
+#EXTINF:-1 tvg-logo="" group-title="SPAIN SPORTS",beINSport HD ES
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/1043
+#EXTINF:-1 tvg-logo="" group-title="SPAIN SPORTS",beIN Sport FHD ES
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/4404
+#EXTINF:-1 tvg-logo="" group-title="SPAIN SPORTS",beIN SPORTS LaLiga ES
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/7428
+#EXTINF:-1 tvg-logo="" group-title="SPAIN SPORTS",beINSport LaLiga HD ES
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/1042
+#EXTINF:-1 tvg-logo="" group-title="SPAIN SPORTS",beIN LA Liga FHD ES
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/4403
+#EXTINF:-1 tvg-logo="" group-title="SPAIN SPORTS",LaLiga 123 FHD ES
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/8694
+#EXTINF:-1 tvg-logo="" group-title="SPAIN SPORTS",LaLiga TV Bar ES
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/1062
+#EXTINF:-1 tvg-logo="" group-title="SPAIN SPORTS",LaLigaTV FHD ES
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/6069
+#EXTINF:-1 tvg-logo="" group-title="SPAIN SPORTS",Barca TV ES
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/1038
+#EXTINF:-1 tvg-logo="" group-title="SPAIN SPORTS",Real Madrid TV ES
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/1037
+#EXTINF:-1 tvg-logo="" group-title="SPAIN SPORTS",TVE 24h ES
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/6092
+#EXTINF:-1 tvg-logo="" group-title="SPAIN SPORTS",Gol TV ES
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/1040
+#EXTINF:-1 tvg-logo="" group-title="SPAIN SPORTS",Gol TV HD ES
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/6066
+#EXTINF:-1 tvg-logo="" group-title="SPAIN SPORTS",EuroSport 1 HD ES
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/1036
+#EXTINF:-1 tvg-logo="" group-title="SPAIN SPORTS",Eurosport 1 FHD ES
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/6065
+#EXTINF:-1 tvg-logo="" group-title="SPAIN SPORTS",Eurosport 2 HD ES
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/6064
+#EXTINF:-1 tvg-logo="" group-title="SPAIN SPORTS",Movistar Formula 1 ES
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/1035
+#EXTINF:-1 tvg-logo="" group-title="SPAIN SPORTS",Movistar F1 FHD VIP ES
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/13960
+#EXTINF:-1 tvg-logo="" group-title="SPAIN SPORTS",Movistar Formula 1 FHD ES
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/4400
+#EXTINF:-1 tvg-logo="" group-title="SPAIN SPORTS",Movistar Golf ES
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/1061
+#EXTINF:-1 tvg-logo="" group-title="SPAIN SPORTS",Movistar Golf FHD ES
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/4402
+#EXTINF:-1 tvg-logo="" group-title="SPAIN SPORTS",Movistar Moto GP HD ES
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/1041
+#EXTINF:-1 tvg-logo="" group-title="SPAIN SPORTS",Movistar Moto GP FHD ES
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/4399
