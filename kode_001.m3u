@@ -158,6 +158,35 @@ https://vcdnjt.useetv.com/joss/14/celestialmovie/chunklist_w1671904161_b684100_s
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cinemaworld_small.png" group-title="INDONESIA MOVIES",CINEMA WORLD
 https://vcdnjt.useetv.com/joss/14/cinemaworld/chunklist_w1529108846_b684100_sleng_62660.m3u8
 
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://2.bp.blogspot.com/-57Lrt0ausB8/XebmrHEkgzI/AAAAAAAAo8k/jGS34O65oikNfgaSsR6qhAup9XfcmbjwQCLcBGAsYHQ/s1600/my-cinema-tv-channel-logo.png" group-title="MOVIES",MY CINEMA
+http://210.210.155.69/s/s31/S4/mnf.m3u8
+
+#EXTINF:0 tvg-logo="https://x1.cdn.broiptv.online/img/fox.png" group-title="MOVIES",FOX
+http://203.153.218.28:9981/stream/channelid/1910872088
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://macan.live/img/fox_action_movies.png" group-title="MOVIES",Fox Action Movies
+http://203.153.218.28:9981/stream/channelid/1744735983
+
+#EXTINF:0 tvg-logo="https://x1.cdn.broiptv.online/img/fox_family.png" group-title="MOVIES",FOX Family Movies 
+http://203.153.218.28:9981/stream/channelid/1949182550
+
+#EXTINF:0 tvg-logo="https://x1.cdn.broiptv.online/img/fox_movies.png" group-title="MOVIES",Fox Movies Premium
+http://203.153.218.28:9981/stream/channelid/756717990
+
+#EXTINF:-1 tvg-id="" tvg-name="HBO HD" tvg-logo="https://x1.cdn.broiptv.online/img/hbo.png" group-title="MOVIES", HBO
+http://203.153.218.28:9981/stream/channelid/1299824667
+
+#EXTINF:-1 tvg-ID="HBOFamily.id" group-title="MOVIES" tvg-logo="https://macan.live/img/hbo_family.png", HBO Family
+http://203.153.218.28:9981/stream/channelid/1316004766
+
+#EXTINF:-1 tvg-ID="HBOHits.id" group-title="MOVIES" tvg-logo="https://macan.live/img/hbo_hits.png", HBO Hits
+http://203.153.218.28:9981/stream/channelid/2038175895
+
+#EXTINF:-1 tvg-ID="HBOSignature.id" group-title="MOVIES" tvg-logo="https://macan.live/img/hbo_signature.png", HBO Signature
+http://203.153.218.28:9981/stream/channelid/1197019186
+
+#EXTINF:-1 tvg-ID="CineMax.id" group-title="MOVIES" tvg-logo="https://macan.live/img/cinemaxa.png", Cinemax by HBO
+http://203.153.218.28:9981/stream/channelid/255605374
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_imc_small.png" group-title="INDONESIA MOVIES",IMC
 https://vcdnjt.useetv.com/joss/14/imc/chunklist_w569228584_b684100_sleng_23992.m3u8
