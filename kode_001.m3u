@@ -141,10 +141,10 @@ http://tv2ip.nl:80/9205011494/9205011494/102903
 http://203.153.218.28:9981/stream/channelid/1868154562?ticket=21CAD98B63EE6B1D16AFD5B33F7C68F48FA445CD&profile=pass
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeopeople_small.png" group-title="INDONESIA KNOWLEDGE",Nat Geo People
-http://203.153.218.28:9981/stream/channelid/1114683377?ticket=DB6A54311D3D267C877A5894268561D2577EE4D3&profile=pass
+https://vcdnjt.useetv.com/joss/15/natgeopeople/chunklist_b1344100_sleng_.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeowild_small.png" group-title="INDONESIA KNOWLEDGE",Nat Geo Wild
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/03.m3u8
+https://vcdnjt.useetv.com/joss/15/natgeowild/chunklist_b1344100_sleng_.m3u8
 
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/axn_150x150.jpg" group-title="INDONESIA MOVIES", AXN
 https://vcdnjt.useetv.com:443/joss/15/axn/chunklist_w1332206438_b684100_sleng_177560.m3u8?enc=oKFj9Xw1YXcLgJJxFI-NrA&exp=1587470166
