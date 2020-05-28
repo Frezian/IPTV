@@ -174,7 +174,7 @@ http://203.153.218.28:9981/stream/channelid/1949182550
 http://203.153.218.28:9981/stream/channelid/756717990
 
 #EXTINF:-1 tvg-id="" tvg-name="HBO HD" tvg-logo="https://x1.cdn.broiptv.online/img/hbo.png" group-title="MOVIES", HBO
-http://jazoora.net:8000/Omani9455/Q52gFg1Gxo/4152
+http://tv2ip.nl:80/9205011494/9205011494/85535
 
 #EXTINF:-1 tvg-ID="HBOFamily.id" group-title="MOVIES" tvg-logo="https://macan.live/img/hbo_family.png", HBO Family
 http://203.153.218.28:9981/stream/channelid/1316004766
@@ -183,10 +183,10 @@ http://203.153.218.28:9981/stream/channelid/1316004766
 http://203.153.218.28:9981/stream/channelid/2038175895
 
 #EXTINF:-1 tvg-ID="HBOSignature.id" group-title="MOVIES" tvg-logo="https://macan.live/img/hbo_signature.png", HBO Signature
-http://203.153.218.28:9981/stream/channelid/1197019186
+http://tv2ip.nl:80/9205011494/9205011494/85534
 
 #EXTINF:-1 tvg-ID="CineMax.id" group-title="MOVIES" tvg-logo="https://macan.live/img/cinemaxa.png", Cinemax by HBO
-http://203.153.218.28:9981/stream/channelid/255605374
+http://reign.loginto.me:826/Ansantiago64/UZBejQHVYW/1282
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_imc_small.png" group-title="INDONESIA MOVIES",IMC
 https://vcdnjt.useetv.com/joss/14/imc/chunklist_w569228584_b684100_sleng_23992.m3u8
