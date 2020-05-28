@@ -37,7 +37,7 @@ http://tv2ip.nl:80/9205011494/9205011494/81653
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1825142121_b280000_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_transtv_small1.png" group-title="INDONESIA", TRANS TV HD
-https://cdnkbl1.useetv.com/joss/15/transtv/chunklist_w865643091_b1344100_sleng_355283.m3u8
+https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1730321520_b384000_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_83.png" group-title="INDONESIA", INEWS
 https://cdn-livetv6.metube.id/hls/inewstv_480/index.m3u8
