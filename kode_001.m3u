@@ -34,10 +34,10 @@ http://video.detik.com/trans7/smil:trans7.smil/chunklist_w1925750281_b384000_sle
 https://vcdnjt.useetv.com/joss/15/tvone/chunklist_b894100_sleng_.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_transtv_small1.png" group-title="INDONESIA", TRANS TV
-https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1825142121_b280000_sleng.m3u8
+https://cdnbpp1.useetv.com/joss/15/transtv/chunklist_w1076515494_b894100_sleng_560848.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_transtv_small1.png" group-title="INDONESIA", TRANS TV HD
-https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1730321520_b384000_sleng.m3u8
+https://cdnbpp1.useetv.com/joss/15/transtv/chunklist_w1076515494_b1344100_sleng_560849.m3u8
 
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_83.png" group-title="INDONESIA", INEWS
 https://cdn-livetv6.metube.id/hls/inewstv_480/index.m3u8
