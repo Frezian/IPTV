@@ -177,7 +177,7 @@ http://203.153.218.28:9981/stream/channelid/1949182550
 http://203.153.218.28:9981/stream/channelid/756717990
 
 #EXTINF:-1 tvg-id="" tvg-name="HBO HD" tvg-logo="https://x1.cdn.broiptv.online/img/hbo.png" group-title="MOVIES", HBO
-http://tv2ip.nl:80/9205011494/9205011494/85535
+https://sin-1.macan.live/free/hbo/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xLzIwMjAgNjoxMjozMCBBTSZoYXNoX3ZhbHVlPWd3NUJma240N3JTSEpDQTByMTRPNFE9PSZpZD1tYWNhbmdyYXRpc2FufE1BQ0FOSVBUVlBsYXllcnwzNi44NC4yMjEuMTcxfGhib3wxNTkwOTkyMjUwODY2fGVuZHVzZXJ8NWRiYWRlYjI2NTljMjE2YjYzYWFlMzNhJnZhbGlkbWludXRlcz0xNQ==&token=4afFPKnrb1ZIWU8KSZjpgqEVM3HiOi8hGCxt2a9uGABcZlfeMPy6UZcw2R4QnimbTQVHodwkPZjAf6gNJAnMy5GuqUul22gbHFcToXtGgg2cdf9MIYZI0E4ifxYLgDWjPGk4xYqhtufiU9IiTeB3HODPUg3dhq43TAgqEpeIFlC1O9Ro8nbypVuZGOr2Ft
 
 #EXTINF:-1 tvg-ID="HBOFamily.id" group-title="MOVIES" tvg-logo="https://macan.live/img/hbo_family.png", HBO Family
 http://203.153.218.28:9981/stream/channelid/1316004766
