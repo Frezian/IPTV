@@ -260,6 +260,9 @@ https://edgejt7.useetv.com/joss/15/warner/chunklist_w1042470190_b1344100_sleng_4
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_zbioskop_small1.png" group-title="INDONESIA MOVIES",ZEE BIOSKOP
 https://vcdnjt.useetv.com/joss/14/zbioskop/chunklist_w2085074683_b684100_sleng_63371.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YWwpVP9/IMG-20200425-081503-453.jpg" group-title="INDONESIA SPORTS", Mola Sport
+https://cdn-mxs-01.akamaized.net/Content/HLS/Live/channel(02d97239-cf8c-abac-8549-afd56a0b3924)/06.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports1_small.png" group-title="INDONESIA SPORTS", FOX SPORT 1 SD
 https://vcdnjt.useetv.com/joss/15/foxsport1/chunklist_w348496298_b894100_sleng_471035.m3u8
 
