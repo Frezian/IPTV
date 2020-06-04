@@ -313,3 +313,345 @@ http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Str
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_nba_small1.png" group-title="INDONESIA SPORTS", NBA TV
 https://vcdnjt.useetv.com/joss/15/nba/chunklist_w2141500514_b1344100_sleng_97037.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="World Sports",AR | beIN Sport 1 HD
+http://mobs.one:8080/t9LsajNtMs/vCI1dH6rys/53361
+#EXTINF:-1 tvg-logo="" group-title="World Sports",AR | beIN Sport 2 HD
+http://mobs.one:8080/t9LsajNtMs/vCI1dH6rys/53362
+#EXTINF:-1 tvg-logo="" group-title="World Sports",AR | beIN Sport 3 HD
+http://mobs.one:8080/t9LsajNtMs/vCI1dH6rys/53363
+#EXTINF:-1 tvg-logo="" group-title="World Sports",AR | beIN Sport 4 HD
+http://mobs.one:8080/t9LsajNtMs/vCI1dH6rys/53364
+#EXTINF:-1 tvg-logo="" group-title="World Sports",AR | beIN Sport 5 HD
+http://mobs.one:8080/t9LsajNtMs/vCI1dH6rys/53365
+#EXTINF:-1 tvg-logo="" group-title="World Sports",UK | BT Sports 1 FHD
+http://geckoservers.com:8080/u0fP7LQcEv/VzrMHEsGdI/221
+#EXTINF:-1 tvg-logo="" group-title="World Sports",UK | BT Sports 1 HD
+http://geckoservers.com:8080/u0fP7LQcEv/VzrMHEsGdI/222
+#EXTINF:-1 tvg-logo="" group-title="World Sports",UK | BT Sports 2 FHD
+http://geckoservers.com:8080/u0fP7LQcEv/VzrMHEsGdI/224
+#EXTINF:-1 tvg-logo="" group-title="World Sports",UK | BT Sports 2 HD
+http://geckoservers.com:8080/u0fP7LQcEv/VzrMHEsGdI/225
+#EXTINF:-1 tvg-logo="" group-title="World Sports",UK | BT Sports 3 FHD
+http://geckoservers.com:8080/u0fP7LQcEv/VzrMHEsGdI/227
+#EXTINF:-1 tvg-logo="" group-title="World Sports",UK | Eurosport 1 HD
+http://geckoservers.com:8080/u0fP7LQcEv/VzrMHEsGdI/230
+#EXTINF:-1 tvg-logo="" group-title="World Sports",UK | Eurosport 1
+http://geckoservers.com:8080/u0fP7LQcEv/VzrMHEsGdI/231
+#EXTINF:-1 tvg-logo="" group-title="World Sports",UK | EuroSport 2 HD
+http://geckoservers.com:8080/u0fP7LQcEv/VzrMHEsGdI/232
+#EXTINF:-1 tvg-logo="" group-title="World Sports",UK | Eurosport 2
+http://geckoservers.com:8080/u0fP7LQcEv/VzrMHEsGdI/233
+#EXTINF:-1 tvg-logo="" group-title="World Sports",UK | Premier Sports
+http://geckoservers.com:8080/u0fP7LQcEv/VzrMHEsGdI/235
+#EXTINF:-1 tvg-logo="" group-title="World Sports",USA | Fox Sports 1
+http://mobs.one:8080/t9LsajNtMs/vCI1dH6rys/53040
+#EXTINF:-1 tvg-logo="" group-title="World Sports",USA | Fox Sports 2
+http://mobs.one:8080/t9LsajNtMs/vCI1dH6rys/53041
+#EXTINF:-1 tvg-logo="" group-title="World Sports",DEU | Sky Sport Bundesliga 1 HD DE
+http://mobs.one:8080/t9LsajNtMs/vCI1dH6rys/110409
+#EXTINF:-1 tvg-logo="" group-title="World Sports",DEU | Eurosport 1 HD DE
+http://mobs.one:8080/t9LsajNtMs/vCI1dH6rys/110419
+#EXTINF:-1 tvg-logo="" group-title="World Sports",DEU | Eurosport 2 HD DE
+http://mobs.one:8080/t9LsajNtMs/vCI1dH6rys/110420
+#EXTINF:-1 tvg-logo="" group-title="World Sports",NL | FOX SPORTS 1 HD
+http://mobs.one:8080/t9LsajNtMs/vCI1dH6rys/53963
+#EXTINF:-1 tvg-logo="" group-title="World Sports",NL | FOX SPORTS 2 HD
+http://mobs.one:8080/t9LsajNtMs/vCI1dH6rys/53964
+
+
+#EXTINF:-1 tvg-logo="" group-title="Sports Backup",Astro SuperSport 1 MY
+http://mag.123tv.to:8080/CpYQmglRcZ/udLer317y4/1366
+#EXTINF:-1 tvg-logo="" group-title="Sports Backup",Astro SuperSport 2 HD MY
+http://mag.123tv.to:8080/CpYQmglRcZ/udLer317y4/1365
+#EXTINF:-1 tvg-logo="" group-title="Sports Backup",Astro SuperSport 3 HD MY
+http://mag.123tv.to:8080/CpYQmglRcZ/udLer317y4/1364
+#EXTINF:-1 tvg-logo="" group-title="Sports Backup",Astro SuperSport 4 HD MY
+http://mag.123tv.to:8080/CpYQmglRcZ/udLer317y4/1161
+#EXTINF:-1 tvg-logo="" group-title="Sports Backup",PPTV 1 TH
+http://mag.123tv.to:8080/CpYQmglRcZ/udLer317y4/8669
+#EXTINF:-1 tvg-logo="" group-title="Sports Backup",Fox Sports 1 ID
+http://mag.123tv.to:8080/CpYQmglRcZ/udLer317y4/62248
+#EXTINF:-1 tvg-logo="" group-title="Sports Backup",Fox Sports 2 ID
+http://mag.123tv.to:8080/CpYQmglRcZ/udLer317y4/62247
+#EXTINF:-1 tvg-logo="" group-title="Sports Backup",Fox Sports 3 ID
+http://mag.123tv.to:8080/CpYQmglRcZ/udLer317y4/62246
+
+#EXTINF:-1 tvg-logo="" group-title="Indonesia Backup",&TV HD ID
+http://mag.123tv.to:8080/CpYQmglRcZ/udLer317y4/62303
+#EXTINF:-1 tvg-logo="" group-title="Indonesia Backup",ABC Australia ID
+http://mag.123tv.to:8080/CpYQmglRcZ/udLer317y4/62302
+#EXTINF:-1 tvg-logo="" group-title="Indonesia Backup",ANTV ID
+http://mag.123tv.to:8080/CpYQmglRcZ/udLer317y4/62297
+#EXTINF:-1 tvg-logo="" group-title="Indonesia Backup",AXN ID
+http://mag.123tv.to:8080/CpYQmglRcZ/udLer317y4/62293
+#EXTINF:-1 tvg-logo="" group-title="Indonesia Backup",Al Jazeera English ID
+http://mag.123tv.to:8080/CpYQmglRcZ/udLer317y4/62301
+#EXTINF:-1 tvg-logo="" group-title="Indonesia Backup",Al Quran Al Karem ID
+http://mag.123tv.to:8080/CpYQmglRcZ/udLer317y4/62300
+#EXTINF:-1 tvg-logo="" group-title="Indonesia Backup",Animal Planet ID
+http://mag.123tv.to:8080/CpYQmglRcZ/udLer317y4/62299
+#EXTINF:-1 tvg-logo="" group-title="Indonesia Backup",Animax ID
+http://mag.123tv.to:8080/CpYQmglRcZ/udLer317y4/62298
+#EXTINF:-1 tvg-logo="" group-title="Indonesia Backup",Arirang Korea ID
+http://mag.123tv.to:8080/CpYQmglRcZ/udLer317y4/62296
+#EXTINF:-1 tvg-logo="" group-title="Indonesia Backup",Asian Food Channel ID
+http://mag.123tv.to:8080/CpYQmglRcZ/udLer317y4/62295
+#EXTINF:-1 tvg-logo="" group-title="Indonesia Backup",BBC Earth ID
+http://mag.123tv.to:8080/CpYQmglRcZ/udLer317y4/62289
+#EXTINF:-1 tvg-logo="" group-title="Indonesia Backup",BBC World News ID
+http://mag.123tv.to:8080/CpYQmglRcZ/udLer317y4/62288
+#EXTINF:-1 tvg-logo="" group-title="Indonesia Backup",Baby TV ID
+http://mag.123tv.to:8080/CpYQmglRcZ/udLer317y4/62292
+#EXTINF:-1 tvg-logo="" group-title="Indonesia Backup",Bali TV ID
+http://mag.123tv.to:8080/CpYQmglRcZ/udLer317y4/62291
+#EXTINF:-1 tvg-logo="" group-title="Indonesia Backup",Berita Satu ID
+http://mag.123tv.to:8080/CpYQmglRcZ/udLer317y4/62284
+#EXTINF:-1 tvg-logo="" group-title="Indonesia Backup",Besmart ID
+http://mag.123tv.to:8080/CpYQmglRcZ/udLer317y4/62283
+#EXTINF:-1 tvg-logo="" group-title="Indonesia Backup",Bloomberg ID
+http://mag.123tv.to:8080/CpYQmglRcZ/udLer317y4/62282
+#EXTINF:-1 tvg-logo="" group-title="Indonesia Backup",Boomerang 1 ID
+http://mag.123tv.to:8080/CpYQmglRcZ/udLer317y4/62281
+#EXTINF:-1 tvg-logo="" group-title="Indonesia Backup",CCM ID
+http://mag.123tv.to:8080/CpYQmglRcZ/udLer317y4/62278
+#EXTINF:-1 tvg-logo="" group-title="Indonesia Backup",CCTV4 ID
+http://mag.123tv.to:8080/CpYQmglRcZ/udLer317y4/62277
+#EXTINF:-1 tvg-logo="" group-title="Indonesia Backup",CNBC ID
+http://mag.123tv.to:8080/CpYQmglRcZ/udLer317y4/62273
+#EXTINF:-1 tvg-logo="" group-title="Indonesia Backup",CNN ID
+http://mag.123tv.to:8080/CpYQmglRcZ/udLer317y4/62272
+#EXTINF:-1 tvg-logo="" group-title="Indonesia Backup",Cartoon Network ID
+http://mag.123tv.to:8080/CpYQmglRcZ/udLer317y4/62279
+#EXTINF:-1 tvg-logo="" group-title="Indonesia Backup",Celestial Movies ID
+http://mag.123tv.to:8080/CpYQmglRcZ/udLer317y4/62276
+#EXTINF:-1 tvg-logo="" group-title="Indonesia Backup",Cinema World ID
+http://mag.123tv.to:8080/CpYQmglRcZ/udLer317y4/62274
+#EXTINF:-1 tvg-logo="" group-title="Indonesia Backup",MTA TV ID
+http://mag.123tv.to:8080/CpYQmglRcZ/udLer317y4/62271
+#EXTINF:-1 tvg-logo="" group-title="Indonesia Backup",Crime Investigation ID
+http://mag.123tv.to:8080/CpYQmglRcZ/udLer317y4/62270
+#EXTINF:-1 tvg-logo="" group-title="Indonesia Backup",DIVA ID
+http://mag.123tv.to:8080/CpYQmglRcZ/udLer317y4/62264
+#EXTINF:-1 tvg-logo="" group-title="Indonesia Backup",DW ID
+http://mag.123tv.to:8080/CpYQmglRcZ/udLer317y4/62262
+#EXTINF:-1 tvg-logo="" group-title="Indonesia Backup",Daai TV ID
+http://mag.123tv.to:8080/CpYQmglRcZ/udLer317y4/62269
+#EXTINF:-1 tvg-logo="" group-title="Indonesia Backup",Discovery Channel ID
+http://mag.123tv.to:8080/CpYQmglRcZ/udLer317y4/62268
+#EXTINF:-1 tvg-logo="" group-title="Indonesia Backup",Disney Channel ID
+http://mag.123tv.to:8080/CpYQmglRcZ/udLer317y4/62267
+#EXTINF:-1 tvg-logo="" group-title="Indonesia Backup",Disney Junior ID
+http://mag.123tv.to:8080/CpYQmglRcZ/udLer317y4/62266
+#EXTINF:-1 tvg-logo="" group-title="Indonesia Backup",Drama Channel ID
+http://mag.123tv.to:8080/CpYQmglRcZ/udLer317y4/62263
+#EXTINF:-1 tvg-logo="" group-title="Indonesia Backup",Padang TV ID
+http://mag.123tv.to:8080/CpYQmglRcZ/udLer317y4/62261
+#EXTINF:-1 tvg-logo="" group-title="Indonesia Backup",EWTN ID
+http://mag.123tv.to:8080/CpYQmglRcZ/udLer317y4/62259
+#EXTINF:-1 tvg-logo="" group-title="Indonesia Backup",Euronews ID
+http://mag.123tv.to:8080/CpYQmglRcZ/udLer317y4/62260
+#EXTINF:-1 tvg-logo="" group-title="Indonesia Backup",FMN ID
+http://mag.123tv.to:8080/CpYQmglRcZ/udLer317y4/62257
+#EXTINF:-1 tvg-logo="" group-title="Indonesia Backup",FX ID
+http://mag.123tv.to:8080/CpYQmglRcZ/udLer317y4/62244
+#EXTINF:-1 tvg-logo="" group-title="Indonesia Backup",Fight Sports ID
+http://mag.123tv.to:8080/CpYQmglRcZ/udLer317y4/62258
+#EXTINF:-1 tvg-logo="" group-title="Indonesia Backup",Reformed 21 ID
+http://mag.123tv.to:8080/CpYQmglRcZ/udLer317y4/62256
+#EXTINF:-1 tvg-logo="" group-title="Indonesia Backup",Fox Crime ID
+http://mag.123tv.to:8080/CpYQmglRcZ/udLer317y4/62254
+#EXTINF:-1 tvg-logo="" group-title="Indonesia Backup",Fox Family Movies ID
+http://mag.123tv.to:8080/CpYQmglRcZ/udLer317y4/62253
+#EXTINF:-1 tvg-logo="" group-title="Indonesia Backup",Fox ID
+http://mag.123tv.to:8080/CpYQmglRcZ/udLer317y4/62255
+#EXTINF:-1 tvg-logo="" group-title="Indonesia Backup",Fox Life ID
+http://mag.123tv.to:8080/CpYQmglRcZ/udLer317y4/62252
+#EXTINF:-1 tvg-logo="" group-title="Indonesia Backup",Fox Movies Action ID
+http://mag.123tv.to:8080/CpYQmglRcZ/udLer317y4/62250
+#EXTINF:-1 tvg-logo="" group-title="Indonesia Backup",Fox Movies ID
+http://mag.123tv.to:8080/CpYQmglRcZ/udLer317y4/62251
+#EXTINF:-1 tvg-logo="" group-title="Indonesia Backup",Fox News ID
+http://mag.123tv.to:8080/CpYQmglRcZ/udLer317y4/62249
+#EXTINF:-1 tvg-logo="" group-title="Indonesia Backup",Fox Sports 1 ID
+http://mag.123tv.to:8080/CpYQmglRcZ/udLer317y4/62248
+#EXTINF:-1 tvg-logo="" group-title="Indonesia Backup",Fox Sports 2 ID
+http://mag.123tv.to:8080/CpYQmglRcZ/udLer317y4/62247
+#EXTINF:-1 tvg-logo="" group-title="Indonesia Backup",Fox Sports 3 ID
+http://mag.123tv.to:8080/CpYQmglRcZ/udLer317y4/62246
+#EXTINF:-1 tvg-logo="" group-title="Indonesia Backup",France24 ID
+http://mag.123tv.to:8080/CpYQmglRcZ/udLer317y4/62245
+#EXTINF:-1 tvg-logo="" group-title="Indonesia Backup",GTV ID
+http://mag.123tv.to:8080/CpYQmglRcZ/udLer317y4/62243
+#EXTINF:-1 tvg-logo="" group-title="Indonesia Backup",HGTV ID
+http://mag.123tv.to:8080/CpYQmglRcZ/udLer317y4/62242
+#EXTINF:-1 tvg-logo="" group-title="Indonesia Backup",Hidayah ID
+http://mag.123tv.to:8080/CpYQmglRcZ/udLer317y4/62241
+#EXTINF:-1 tvg-logo="" group-title="Indonesia Backup",History ID
+http://mag.123tv.to:8080/CpYQmglRcZ/udLer317y4/62240
+#EXTINF:-1 tvg-logo="" group-title="Indonesia Backup",Hits ID
+http://mag.123tv.to:8080/CpYQmglRcZ/udLer317y4/62239
+#EXTINF:-1 tvg-logo="" group-title="Indonesia Backup",Hits Movies ID
+http://mag.123tv.to:8080/CpYQmglRcZ/udLer317y4/62238
+#EXTINF:-1 tvg-logo="" group-title="Indonesia Backup",IDX ID
+http://mag.123tv.to:8080/CpYQmglRcZ/udLer317y4/62237
+#EXTINF:-1 tvg-logo="" group-title="Indonesia Backup",Indosiar ID
+http://mag.123tv.to:8080/CpYQmglRcZ/udLer317y4/62236
+#EXTINF:-1 tvg-logo="" group-title="Indonesia Backup",Infotainment ID
+http://mag.123tv.to:8080/CpYQmglRcZ/udLer317y4/62234
+#EXTINF:-1 tvg-logo="" group-title="Indonesia Backup",JTV ID
+http://mag.123tv.to:8080/CpYQmglRcZ/udLer317y4/62232
+#EXTINF:-1 tvg-logo="" group-title="Indonesia Backup",Jak TV ID
+http://mag.123tv.to:8080/CpYQmglRcZ/udLer317y4/62233
+#EXTINF:-1 tvg-logo="" group-title="Indonesia Backup",KIX ID
+http://mag.123tv.to:8080/CpYQmglRcZ/udLer317y4/62230
+#EXTINF:-1 tvg-logo="" group-title="Indonesia Backup",Kids Channel ID
+http://mag.123tv.to:8080/CpYQmglRcZ/udLer317y4/62231
+#EXTINF:-1 tvg-logo="" group-title="Indonesia Backup",Kompas TV 1 ID
+http://mag.123tv.to:8080/CpYQmglRcZ/udLer317y4/62229
+#EXTINF:-1 tvg-logo="" group-title="Indonesia Backup",Life ID
+http://mag.123tv.to:8080/CpYQmglRcZ/udLer317y4/62227
+#EXTINF:-1 tvg-logo="" group-title="Indonesia Backup",Life Style Fashion ID
+http://mag.123tv.to:8080/CpYQmglRcZ/udLer317y4/62226
+#EXTINF:-1 tvg-logo="" group-title="Indonesia Backup",MNC Channel ID
+http://mag.123tv.to:8080/CpYQmglRcZ/udLer317y4/62222
+#EXTINF:-1 tvg-logo="" group-title="Indonesia Backup",MNC Entertainment ID
+http://mag.123tv.to:8080/CpYQmglRcZ/udLer317y4/62221
+#EXTINF:-1 tvg-logo="" group-title="Indonesia Backup",MNC News ID
+http://mag.123tv.to:8080/CpYQmglRcZ/udLer317y4/62220
+#EXTINF:-1 tvg-logo="" group-title="Indonesia Backup",MNC Shop Smart ID
+http://mag.123tv.to:8080/CpYQmglRcZ/udLer317y4/62219
+#EXTINF:-1 tvg-logo="" group-title="Indonesia Backup",MNC Shop Trendy ID
+http://mag.123tv.to:8080/CpYQmglRcZ/udLer317y4/62218
+#EXTINF:-1 tvg-logo="" group-title="Indonesia Backup",MNC Sports ID
+http://mag.123tv.to:8080/CpYQmglRcZ/udLer317y4/62216
+#EXTINF:-1 tvg-logo="" group-title="Indonesia Backup",MNCTV ID
+http://mag.123tv.to:8080/CpYQmglRcZ/udLer317y4/62214
+#EXTINF:-1 tvg-logo="" group-title="Indonesia Backup",MYTV ID
+http://mag.123tv.to:8080/CpYQmglRcZ/udLer317y4/62211
+#EXTINF:-1 tvg-logo="" group-title="Indonesia Backup",Metro TV ID
+http://mag.123tv.to:8080/CpYQmglRcZ/udLer317y4/62224
+#EXTINF:-1 tvg-logo="" group-title="Indonesia Backup",MiaoMI ID
+http://mag.123tv.to:8080/CpYQmglRcZ/udLer317y4/62223
+#EXTINF:-1 tvg-logo="" group-title="Indonesia Backup",Music Channel ID
+http://mag.123tv.to:8080/CpYQmglRcZ/udLer317y4/62212
+#EXTINF:-1 tvg-logo="" group-title="Indonesia Backup",NET.1 ID
+http://mag.123tv.to:8080/CpYQmglRcZ/udLer317y4/62207
+#EXTINF:-1 tvg-logo="" group-title="Indonesia Backup",NHK World Japan ID
+http://mag.123tv.to:8080/CpYQmglRcZ/udLer317y4/62204
+#EXTINF:-1 tvg-logo="" group-title="Indonesia Backup",Nat Geo ID
+http://mag.123tv.to:8080/CpYQmglRcZ/udLer317y4/62210
+#EXTINF:-1 tvg-logo="" group-title="Indonesia Backup",News Asia Channel ID
+http://mag.123tv.to:8080/CpYQmglRcZ/udLer317y4/62205
+#EXTINF:-1 tvg-logo="" group-title="Indonesia Backup",Nick ID
+http://mag.123tv.to:8080/CpYQmglRcZ/udLer317y4/62202
+#EXTINF:-1 tvg-logo="" group-title="Indonesia Backup",Nick JR ID
+http://mag.123tv.to:8080/CpYQmglRcZ/udLer317y4/62201
+#EXTINF:-1 tvg-logo="" group-title="Indonesia Backup",The Indonesia Channel ID
+http://mag.123tv.to:8080/CpYQmglRcZ/udLer317y4/62200
+#EXTINF:-1 tvg-logo="" group-title="Indonesia Backup",RCTI ID
+http://mag.123tv.to:8080/CpYQmglRcZ/udLer317y4/62199
+#EXTINF:-1 tvg-logo="" group-title="Indonesia Backup",RT English ID
+http://mag.123tv.to:8080/CpYQmglRcZ/udLer317y4/62198
+#EXTINF:-1 tvg-logo="" group-title="Indonesia Backup",RTV5 Makin Cakep 1 ID
+http://mag.123tv.to:8080/CpYQmglRcZ/udLer317y4/62197
+#EXTINF:-1 tvg-logo="" group-title="Indonesia Backup",tvOne ID
+http://mag.123tv.to:8080/CpYQmglRcZ/udLer317y4/62195
+#EXTINF:-1 tvg-logo="" group-title="Indonesia Backup",SCM Legend ID
+http://mag.123tv.to:8080/CpYQmglRcZ/udLer317y4/62194
+#EXTINF:-1 tvg-logo="" group-title="Indonesia Backup",SCTV ID
+http://mag.123tv.to:8080/CpYQmglRcZ/udLer317y4/62193
+#EXTINF:-1 tvg-logo="" group-title="Indonesia Backup",Sky News ID
+http://mag.123tv.to:8080/CpYQmglRcZ/udLer317y4/62192
+#EXTINF:-1 tvg-logo="" group-title="Indonesia Backup",RBTV ID
+http://mag.123tv.to:8080/CpYQmglRcZ/udLer317y4/62191
+#EXTINF:-1 tvg-logo="" group-title="Indonesia Backup",Sony One ID
+http://mag.123tv.to:8080/CpYQmglRcZ/udLer317y4/62190
+#EXTINF:-1 tvg-logo="" group-title="Indonesia Backup",TLC ID
+http://mag.123tv.to:8080/CpYQmglRcZ/udLer317y4/62188
+#EXTINF:-1 tvg-logo="" group-title="Indonesia Backup",TRT World ID
+http://mag.123tv.to:8080/CpYQmglRcZ/udLer317y4/62183
+#EXTINF:-1 tvg-logo="" group-title="Indonesia Backup",TV One ID
+http://mag.123tv.to:8080/CpYQmglRcZ/udLer317y4/62181
+#EXTINF:-1 tvg-logo="" group-title="Indonesia Backup",TV9 ID
+http://mag.123tv.to:8080/CpYQmglRcZ/udLer317y4/62180
+#EXTINF:-1 tvg-logo="" group-title="Indonesia Backup",TVN Movies ID
+http://mag.123tv.to:8080/CpYQmglRcZ/udLer317y4/62178
+#EXTINF:-1 tvg-logo="" group-title="Indonesia Backup",MIVO TV ID
+http://mag.123tv.to:8080/CpYQmglRcZ/udLer317y4/62176
+#EXTINF:-1 tvg-logo="" group-title="Indonesia Backup",Lifetime ID
+http://mag.123tv.to:8080/CpYQmglRcZ/udLer317y4/62175
+#EXTINF:-1 tvg-logo="" group-title="Indonesia Backup",HBO SIGNATURE ID
+http://mag.123tv.to:8080/CpYQmglRcZ/udLer317y4/62174
+#EXTINF:-1 tvg-logo="" group-title="Indonesia Backup",HBO HITS ID
+http://mag.123tv.to:8080/CpYQmglRcZ/udLer317y4/62173
+#EXTINF:-1 tvg-logo="" group-title="Indonesia Backup",HBO FAMILY ID
+http://mag.123tv.to:8080/CpYQmglRcZ/udLer317y4/62172
+#EXTINF:-1 tvg-logo="" group-title="Indonesia Backup",HBO RED ID
+http://mag.123tv.to:8080/CpYQmglRcZ/udLer317y4/62171
+#EXTINF:-1 tvg-logo="" group-title="Indonesia Backup",HBO CINEMAX ID
+http://mag.123tv.to:8080/CpYQmglRcZ/udLer317y4/62170
+#EXTINF:-1 tvg-logo="" group-title="Indonesia Backup",TVRI ID
+http://mag.123tv.to:8080/CpYQmglRcZ/udLer317y4/62177
+#EXTINF:-1 tvg-logo="" group-title="Indonesia Backup",Usee Prime ID
+http://mag.123tv.to:8080/CpYQmglRcZ/udLer317y4/62165
+#EXTINF:-1 tvg-logo="" group-title="Indonesia Backup",CNN Indonesia ID
+http://mag.123tv.to:8080/CpYQmglRcZ/udLer317y4/62163
+#EXTINF:-1 tvg-logo="" group-title="Indonesia Backup",Fashion TV ID
+http://mag.123tv.to:8080/CpYQmglRcZ/udLer317y4/62162
+#EXTINF:-1 tvg-logo="" group-title="Indonesia Backup",Fashion One HD ID
+http://mag.123tv.to:8080/CpYQmglRcZ/udLer317y4/62161
+#EXTINF:-1 tvg-logo="" group-title="Indonesia Backup",RCTV ID
+http://mag.123tv.to:8080/CpYQmglRcZ/udLer317y4/62159
+#EXTINF:-1 tvg-logo="" group-title="Indonesia Backup",ANIPlus ID
+http://mag.123tv.to:8080/CpYQmglRcZ/udLer317y4/62158
+#EXTINF:-1 tvg-logo="" group-title="Indonesia Backup",Asian Food Channel HD ID
+http://mag.123tv.to:8080/CpYQmglRcZ/udLer317y4/62156
+#EXTINF:-1 tvg-logo="" group-title="Indonesia Backup",Da Vinci Learning ID
+http://mag.123tv.to:8080/CpYQmglRcZ/udLer317y4/62152
+#EXTINF:-1 tvg-logo="" group-title="Indonesia Backup",Duck TV ID
+http://mag.123tv.to:8080/CpYQmglRcZ/udLer317y4/62151
+#EXTINF:-1 tvg-logo="" group-title="Indonesia Backup",Dreamworks ID
+http://mag.123tv.to:8080/CpYQmglRcZ/udLer317y4/62150
+#EXTINF:-1 tvg-logo="" group-title="Indonesia Backup",Thrill ID
+http://mag.123tv.to:8080/CpYQmglRcZ/udLer317y4/62189
+#EXTINF:-1 tvg-logo="" group-title="Indonesia Backup",Trans TV ID
+http://mag.123tv.to:8080/CpYQmglRcZ/udLer317y4/62186
+#EXTINF:-1 tvg-logo="" group-title="Indonesia Backup",Trans7 ID
+http://mag.123tv.to:8080/CpYQmglRcZ/udLer317y4/62187
+#EXTINF:-1 tvg-logo="" group-title="Indonesia Backup",Wesal TV ID
+http://mag.123tv.to:8080/CpYQmglRcZ/udLer317y4/62185
+#EXTINF:-1 tvg-logo="" group-title="Indonesia Backup",V Channel ID
+http://mag.123tv.to:8080/CpYQmglRcZ/udLer317y4/62144
+#EXTINF:-1 tvg-logo="" group-title="Indonesia Backup",Waku Waku Japan ID
+http://mag.123tv.to:8080/CpYQmglRcZ/udLer317y4/62143
+#EXTINF:-1 tvg-logo="" group-title="Indonesia Backup",Warner TV ID
+http://mag.123tv.to:8080/CpYQmglRcZ/udLer317y4/62142
+#EXTINF:-1 tvg-logo="" group-title="Indonesia Backup",Zee Bioskop ID
+http://mag.123tv.to:8080/CpYQmglRcZ/udLer317y4/62141
+#EXTINF:-1 tvg-logo="" group-title="Indonesia Backup",Zee Cinema ID
+http://mag.123tv.to:8080/CpYQmglRcZ/udLer317y4/62140
+#EXTINF:-1 tvg-logo="" group-title="Indonesia Backup",Zee News ID
+http://mag.123tv.to:8080/CpYQmglRcZ/udLer317y4/62139
+#EXTINF:-1 tvg-logo="" group-title="Indonesia Backup",Zee TV ID
+http://mag.123tv.to:8080/CpYQmglRcZ/udLer317y4/62138
+#EXTINF:-1 tvg-logo="" group-title="Indonesia Backup",Zing ID
+http://mag.123tv.to:8080/CpYQmglRcZ/udLer317y4/62137
+#EXTINF:-1 tvg-logo="" group-title="Indonesia Backup",beIN Sports 1 ID
+http://mag.123tv.to:8080/CpYQmglRcZ/udLer317y4/62286
+#EXTINF:-1 tvg-logo="" group-title="Indonesia Backup",beIN Sports 2 ID
+http://mag.123tv.to:8080/CpYQmglRcZ/udLer317y4/62287
+#EXTINF:-1 tvg-logo="" group-title="Indonesia Backup",Insan TV ID
+http://mag.123tv.to:8080/CpYQmglRcZ/udLer317y4/62285
+#EXTINF:-1 tvg-logo="" group-title="Indonesia Backup",MTA 3 ID
+http://mag.123tv.to:8080/CpYQmglRcZ/udLer317y4/6188
+#EXTINF:-1 tvg-logo="" group-title="Indonesia Backup",iNews ID
+http://mag.123tv.to:8080/CpYQmglRcZ/udLer317y4/62235
+#EXTINF:-1 tvg-logo="" group-title="Indonesia Backup",RRI NET ID
+http://mag.123tv.to:8080/CpYQmglRcZ/udLer317y4/78282
+#EXTINF:-1 tvg-logo="" group-title="Indonesia Backup",TV5Monde ID
+http://mag.123tv.to:8080/CpYQmglRcZ/udLer317y4/78288
+#EXTINF:-1 tvg-logo="" group-title="Indonesia Backup",TV Edukasi ID
+http://mag.123tv.to:8080/CpYQmglRcZ/udLer317y4/78289
+#EXTINF:-1 tvg-logo="" group-title="Indonesia Backup",TEGAR TV ID
+http://mag.123tv.to:8080/CpYQmglRcZ/udLer317y4/78290
