@@ -348,6 +348,10 @@ http://geckoservers.com:8080/u0fP7LQcEv/VzrMHEsGdI/235
 http://mobs.one:8080/t9LsajNtMs/vCI1dH6rys/53040
 #EXTINF:-1 tvg-logo="" group-title="World Sports",USA | Fox Sports 2
 http://mobs.one:8080/t9LsajNtMs/vCI1dH6rys/53041
+#EXTINF:-1 tvg-logo="" group-title="World Sports",USA | WWE Network
+http://mobs.one:8080/t9LsajNtMs/vCI1dH6rys/53062
+#EXTINF:-1 tvg-logo="" group-title="World Sports",USA | UFC Network
+http://geckoservers.com:8080/u0fP7LQcEv/VzrMHEsGdI/8988
 #EXTINF:-1 tvg-logo="" group-title="World Sports",DEU | Sky Sport Bundesliga 1 HD DE
 http://mobs.one:8080/t9LsajNtMs/vCI1dH6rys/110409
 #EXTINF:-1 tvg-logo="" group-title="World Sports",DEU | Eurosport 1 HD DE
