@@ -186,13 +186,13 @@ http://203.153.218.28:9981/stream/channelid/1316004766
 http://203.153.218.28:9981/stream/channelid/2038175895
 
 #EXTINF:-1 tvg-ID="HBOSignature.id" group-title="MOVIES" tvg-logo="https://macan.live/img/hbo_signature.png", HBO Signature
-https://delivery.macan.live/live/macangratisan/12345/76.ts
+https://bit.ly/3dE0DK8
 
 #EXTINF:-1 tvg-ID="HBOSignature.id" group-title="MOVIES" tvg-logo="https://macan.live/img/hbo_signature.png", RED By HBO
-https://delivery.macan.live/live/macangratisan/12345/77.ts
+https://bit.ly/2A7gItg
 
 #EXTINF:-1 tvg-ID="CineMax.id" group-title="MOVIES" tvg-logo="https://macan.live/img/cinemaxa.png", Cinemax by HBO
-https://delivery.macan.live/live/macangratisan/12345/78.ts
+https://bit.ly/2BAPbB4
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_imc_small.png" group-title="INDONESIA MOVIES",IMC
 https://vcdnjt.useetv.com/joss/14/imc/chunklist_w569228584_b684100_sleng_23992.m3u8
