@@ -177,7 +177,7 @@ http://203.153.218.28:9981/stream/channelid/1949182550
 http://203.153.218.28:9981/stream/channelid/756717990
 
 #EXTINF:-1 tvg-id="" tvg-name="HBO HD" tvg-logo="https://x1.cdn.broiptv.online/img/hbo.png" group-title="MOVIES", HBO
-https://delivery.macan.live/live/macangratisan/12345/73.ts
+http://iptv.rent:8080/lc6tx5tg9u/6ih112u12b/7780
 
 #EXTINF:-1 tvg-ID="HBOFamily.id" group-title="MOVIES" tvg-logo="https://macan.live/img/hbo_family.png", HBO Family
 http://203.153.218.28:9981/stream/channelid/1316004766
