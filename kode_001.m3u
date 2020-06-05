@@ -177,7 +177,7 @@ http://203.153.218.28:9981/stream/channelid/1949182550
 http://203.153.218.28:9981/stream/channelid/756717990
 
 #EXTINF:-1 tvg-id="" tvg-name="HBO HD" tvg-logo="https://x1.cdn.broiptv.online/img/hbo.png" group-title="MOVIES", HBO
-https://bit.ly/2MvFkyv
+http://iptv.iptvhunt.com:25461/sRz3AuZJhybjaqJ/PtLqpiUxQZZJsyU/58589
 
 #EXTINF:-1 tvg-ID="HBOFamily.id" group-title="MOVIES" tvg-logo="https://macan.live/img/hbo_family.png", HBO Family
 http://203.153.218.28:9981/stream/channelid/1316004766
@@ -186,13 +186,13 @@ http://203.153.218.28:9981/stream/channelid/1316004766
 http://203.153.218.28:9981/stream/channelid/2038175895
 
 #EXTINF:-1 tvg-ID="HBOSignature.id" group-title="MOVIES" tvg-logo="https://macan.live/img/hbo_signature.png", HBO Signature
-https://bit.ly/3dE0DK8
+http://cuvillier.gentv.to:8080/Nur/Ln5vkts42G/62174
 
 #EXTINF:-1 tvg-ID="HBOSignature.id" group-title="MOVIES" tvg-logo="https://macan.live/img/hbo_signature.png", RED By HBO
-https://bit.ly/2A7gItg
+http://cuvillier.gentv.to:8080/Nur/Ln5vkts42G/62171
 
 #EXTINF:-1 tvg-ID="CineMax.id" group-title="MOVIES" tvg-logo="https://macan.live/img/cinemaxa.png", Cinemax by HBO
-https://bit.ly/2BAPbB4
+http://cuvillier.gentv.to:8080/Nur/Ln5vkts42G/62170
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_imc_small.png" group-title="INDONESIA MOVIES",IMC
 https://vcdnjt.useetv.com/joss/14/imc/chunklist_w569228584_b684100_sleng_23992.m3u8
