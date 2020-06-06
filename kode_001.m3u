@@ -1,170 +1,171 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://macan.live/img/antv.png" group-title="SERVER ID : BACKUP", ANTV
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_antv_small1.png" group-title="SERVER ID : BACKUP", SERVER ID : ANTV
 https://delivery.macan.live/stream/id_antv/playlist.m3u8?token=CLK6e&v=20200308
 
-#EXTINF:-1 tvg-logo="https://macan.live/img/indosiar.png" group-title="SERVER ID : BACKUP",INDOSIAR
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_indosiar_small1.png" group-title="SERVER ID : BACKUP", SERVER ID :INDOSIAR
 https://delivery.macan.live/stream/id_indosiar/playlist.m3u8?token=CLK6e&v=20200308
 
-#EXTINF:-1 tvg-logo="https://macan.live/img/sctv.png" group-title="SERVER ID : BACKUP", SCTV
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_small1.png" group-title="SERVER ID : BACKUP", SERVER ID : SCTV
 https://delivery.macan.live/stream/id_sctv/playlist.m3u8?token=CLK6e&v=20200308
 
-#EXTINF:-1 tvg-logo="https://macan.live/img/net.png" group-title="SERVER ID : BACKUP", NET TV
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_net_small1.png" group-title="SERVER ID : BACKUP", SERVER ID : NET TV
 https://delivery.macan.live/stream/id_nettv/playlist.m3u8?token=CLK6e&v=20200308
 
-#EXTINF:-1 tvg-logo="https://macan.live/img/trans7.png" group-title="SERVER ID : BACKUP", TRANS 7
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_trans7_small1.png" group-title="SERVER ID : BACKUP", SERVER ID : TRANS 7
 https://delivery.macan.live/stream/id_trans7/playlist.m3u8?token=CLK6e&v=20200308
 
-#EXTINF:-1 tvg-logo="https://macan.live/img/transtv.png" group-title="SERVER ID : BACKUP", TRANS TV
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_transtv_small1.png" group-title="SERVER ID : BACKUP", SERVER ID : TRANS TV
 https://delivery.macan.live/stream/id_transtv/playlist.m3u8?token=CLK6e&v=20200308
 
-#EXTINF:-1 tvg-logo="https://macan.live/img/tvone.png" group-title="SERVER ID : BACKUP", TV ONE
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvone_small1.png" group-title="SERVER ID : BACKUP", SERVER ID : TV ONE
 https://delivery.macan.live/stream/id_tvone/playlist.m3u8?token=CLK6e&v=20200308
 
 
-#EXTINF:-1 tvg-logo="https://macan.live/img/kompastv.png" group-title="SERVER ID : BACKUP",KOMPAS TV
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_kompastv_small1.png" group-title="SERVER ID : BACKUP", SERVER ID :KOMPAS TV
 https://delivery.macan.live/stream/id_kompastv/playlist.m3u8?token=CLK6e&v=20200308
 
-#EXTINF:-1 tvg-logo="https://macan.live/img/animax.png" group-title="SERVER ID : BACKUP", ANIMAX
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_animax_small.png" group-title="SERVER ID : BACKUP", SERVER ID : ANIMAX
 https://delivery.macan.live/stream/id_animax/playlist.m3u8?token=CLK6e&v=20200308
 
-#EXTINF:-1 tvg-logo="https://macan.live/img/aniplus.png" group-title="SERVER ID : BACKUP",ANIPLUS
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_aniplus_big1.png" group-title="SERVER ID : BACKUP", SERVER ID :ANIPLUS
 https://delivery.macan.live/stream/id_aniplus/playlist.m3u8?token=CLK6e&v=20200308
 
-#EXTINF:-1 tvg-logo="https://macan.live/img/disneychannel.png" group-title="SERVER ID : BACKUP",Disney Channel
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/1280px-2014_Disney_Channel_logo.svg.png" group-title="SERVER ID : BACKUP", SERVER ID :Disney Channel
 https://delivery.macan.live/stream/id_disneychannel/playlist.m3u8?token=CLK6e&v=20200308
 
-#EXTINF:-1 tvg-logo="https://macan.live/img/disneyjunior.png" group-title="SERVER ID : BACKUP", DISNEY JUNIOR
+#EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/34-345109_transparent-disney-xd-logo-png-disney-junior-fandom.png" group-title="SERVER ID : BACKUP", SERVER ID : DISNEY JUNIOR
 https://delivery.macan.live/stream/disneyjunior/playlist.m3u8?token=CLK6e&v=20200308
 
-#EXTINF:-1  tvg-logo="https://macan.live/img/dreamworks.png" group-title="SERVER ID : BACKUP",Dreamworks
+#EXTINF:-1  tvg-logo="https://p.kindpng.com/picc/s/73-731408_dreamworks-animation-logo-png-transparent-png.png" group-title="SERVER ID : BACKUP", SERVER ID :Dreamworks
 https://delivery.macan.live/stream/dreamworks/playlist.m3u8?token=CLK6e&v=20200308
 
-#EXTINF:-1  tvg-logo="https://macan.live/img/duniaanak.png" group-title="SERVER ID : BACKUP",Dunia Anak
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/f4/Dunia_Anak_Transvision.png" group-title="SERVER ID : BACKUP", SERVER ID :Dunia Anak
 https://delivery.macan.live/stream/duniaanak/playlist.m3u8?token=CLK6e&v=20200308
 
-#EXTINF:-1  tvg-logo="https://macan.live/img/disneyxd.png" group-title="SERVER ID : BACKUP",Disney XD
+#EXTINF:-1  tvg-logo="https://i.ytimg.com/vi/2DK2OYQmSB4/maxresdefault.jpg" group-title="SERVER ID : BACKUP", SERVER ID :Disney XD
 https://delivery.macan.live/stream/disneyxd/playlist.m3u8?token=CLK6e&v=20200308
 
-#EXTINF:-1  tvg-logo="https://macan.live/img/boomerang.png" group-title="SERVER ID : BACKUP",Boomerang
+#EXTINF:-1  tvg-logo="https://mncvision.id/userfiles/image/channel/channel_39.jpg" group-title="SERVER ID : BACKUP", SERVER ID :Boomerang
 https://delivery.macan.live/stream/boomerang/playlist.m3u8?token=CLK6e&v=20200308
 
-#EXTINF:-1  tvg-logo="https://macan.live/img/cartoonnetwork.png" group-title="SERVER ID : BACKUP",Cartoon Network
+#EXTINF:-1  tvg-logo="https://mncvision.id/userfiles/image/channel/cartoon_network.png" group-title="SERVER ID : BACKUP", SERVER ID :Cartoon Network
 https://delivery.macan.live/stream/cartoonnetwork/playlist.m3u8?token=CLK6e&v=20200308
 
-#EXTINF:-1  tvg-logo="https://macan.live/img/nickelodeon.png" group-title="SERVER ID : BACKUP",Nickelodeon
+#EXTINF:-1  tvg-logo="https://www.groundedreason.com/wp-content/uploads/2018/08/nickelodeon_logo_1020.0-1024x257.jpg" group-title="SERVER ID : BACKUP", SERVER ID :Nickelodeon
 https://delivery.macan.live/stream/nickelodeon/playlist.m3u8?token=CLK6e&v=20200308
 
-#EXTINF:-1  tvg-logo="https://macan.live/img/nickjr.png" group-title="SERVER ID : BACKUP",Nick Jr
+#EXTINF:-1  tvg-logo="https://mncvision.id/userfiles/image/channel/nickjr.jpg" group-title="SERVER ID : BACKUP", SERVER ID :Nick Jr
 https://delivery.macan.live/stream/nickjr/playlist.m3u8?token=CLK6e&v=20200308
 
-#EXTINF:-1  tvg-logo="https://macan.live/img/babytv.png" group-title="SERVER ID : BACKUP",BabyTV
+#EXTINF:-1  tvg-logo="https://jsat.tv/gallery/var/albums/TV%20Logos/babytv.png?m=1458721481" group-title="SERVER ID : BACKUP", SERVER ID :BabyTV
 https://delivery.macan.live/stream/babytv/playlist.m3u8?token=CLK6e&v=20200308
 
 
 
-#EXTINF:-1  tvg-logo="https://macan.live/img/fx.png" group-title="SERVER ID : BACKUP",FX
+#EXTINF:-1  tvg-logo="https://mncvision.id/userfiles/image/channel/channel_159.png" group-title="SERVER ID : BACKUP", SERVER ID :FX
 https://delivery.macan.live/stream/id_fx/playlist.m3u8?token=CLK6e&v=20200308
 
-#EXTINF:-1  tvg-logo="https://x1.cdn.broiptv.online/img/fox.png" group-title="SERVER ID : BACKUP",FOX
+#EXTINF:-1  tvg-logo="https://x1.cdn.broiptv.online/img/fox.png" group-title="SERVER ID : BACKUP", SERVER ID :FOX
 https://delivery.macan.live/stream/id_fox/playlist.m3u8?token=CLK6e&v=20200308
 
-#EXTINF:-1  tvg-logo="https://mncvision.id/userfiles/image/channel/channel_152.png" group-title="SERVER ID : BACKUP",FOX Crime
+#EXTINF:-1  tvg-logo="https://mncvision.id/userfiles/image/channel/channel_152.png" group-title="SERVER ID : BACKUP", SERVER ID :FOX Crime
 https://delivery.macan.live/stream/id_foxcrime/playlist.m3u8?token=CLK6e&v=20200308
 
-#EXTINF:-1  tvg-logo="https://mncvision.id/userfiles/image/channel/channel_14.png" group-title="SERVER ID : BACKUP",FOX Movies Premium
+#EXTINF:-1  tvg-logo="https://mncvision.id/userfiles/image/channel/channel_14.png" group-title="SERVER ID : BACKUP", SERVER ID :FOX Movies Premium
 https://delivery.macan.live/stream/id_foxmoviespremium/playlist.m3u8?token=CLK6e&v=20200308
 
-#EXTINF:-1  tvg-logo="https://macan.live/img/fox_action_movies.png" group-title="SERVER ID : BACKUP",FOX Action Movies
+#EXTINF:-1  tvg-logo="https://macan.live/img/fox_action_movies.png" group-title="SERVER ID : BACKUP", SERVER ID :FOX Action Movies
 https://delivery.macan.live/stream/id_foxactionmovies/playlist.m3u8?token=CLK6e&v=20200308
 
-#EXTINF:-1  tvg-logo="https://x1.cdn.broiptv.online/img/fox_family.png" group-title="SERVER ID : BACKUP",FOX Family Movies
+#EXTINF:-1  tvg-logo="https://x1.cdn.broiptv.online/img/fox_family.png" group-title="SERVER ID : BACKUP", SERVER ID :FOX Family Movies
 https://delivery.macan.live/stream/foxfamilymovies_idn/playlist.m3u8?token=CLK6e&v=20200308
  
-#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/hbo.png" group-title="SERVER ID : BACKUP",HBO
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/hbo.png" group-title="SERVER ID : BACKUP", SERVER ID :HBO
 https://delivery.macan.live/stream/hbo/playlist.m3u8?token=CLK6e&v=20200308
 
-#EXTINF:-1 tvg-ID="HBOFamily.id" group-title="SERVER ID : BACKUP" tvg-logo="https://macan.live/img/hbo_family.png", HBO Family
+#EXTINF:-1 tvg-ID="HBOFamily.id" tvg-logo="https://macan.live/img/hbo_family.png" group-title="SERVER ID : BACKUP", SERVER ID : HBO Family
 https://delivery.macan.live/stream/hbo_family/playlist.m3u8?token=CLK6e&v=20200308
 
-#EXTINF:-1 tvg-ID="HBOHits.id" group-title="SERVER ID : BACKUP" tvg-logo="https://macan.live/img/hbo_hits.png", HBO Hits
+#EXTINF:-1 tvg-ID="HBOHits.id"tvg-logo="https://macan.live/img/hbo_hits.png" group-title="SERVER ID : BACKUP" , SERVER ID : HBO Hits
 https://delivery.macan.live/stream/hbo_hits/playlist.m3u8?token=CLK6e&v=20200308
 
-#EXTINF:-1 tvg-ID="HBOSignature.id" group-title="SERVER ID : BACKUP" tvg-logo="https://macan.live/img/hbo_signature.png", HBO Signature
+#EXTINF:-1 tvg-ID="HBOSignature.id"tvg-logo="https://macan.live/img/hbo_signature.png" group-title="SERVER ID : BACKUP" , SERVER ID : HBO Signature
 https://delivery.macan.live/stream/hbo_signature/playlist.m3u8?token=CLK6e&v=20200308
 
-#EXTINF:-1 tvg-ID="HBOSignature.id" group-title="SERVER ID : BACKUP" tvg-logo="https://macan.live/img/red_hbo.png", RED By HBO
+#EXTINF:-1 tvg-ID="HBOSignature.id" group-title="SERVER ID : BACKUP" tvg-logo="https://macan.live/img/red_hbo.png", SERVER ID : RED By HBO
 https://delivery.macan.live/stream/redhbo/playlist.m3u8?token=CLK6e&v=20200308
 
-#EXTINF:-1 tvg-ID="CineMax.id" group-title="SERVER ID : BACKUP" tvg-logo="https://macan.live/img/cinemaxa.png", Cinemax by HBO
+#EXTINF:-1 tvg-ID="CineMax.id" group-title="SERVER ID : BACKUP" tvg-logo="https://macan.live/img/cinemaxa.png", SERVER ID : Cinemax by HBO
 https://delivery.macan.live/stream/cinemax/playlist.m3u8?token=CLK6e&v=20200308
 
-#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/celestial.png" group-title="SERVER ID : BACKUP",CELESTIAL MOVIES
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/celestial.png" group-title="SERVER ID : BACKUP", SERVER ID :CELESTIAL MOVIES
 https://delivery.macan.live/stream/cm/playlist.m3u8?token=CLK6e&v=20200308
 
 
-#EXTINF:-1  tvg-logo="https://www.nowtv.now.com/media/logo/140-wbg-e.png" group-title="SERVER ID : BACKUP",SCM Legend
+#EXTINF:-1  tvg-logo="https://www.nowtv.now.com/media/logo/140-wbg-e.png" group-title="SERVER ID : BACKUP", SERVER ID :SCM Legend
 https://delivery.macan.live/stream/scmlegend/playlist.m3u8?token=CLK6e&v=20200308
 
-#EXTINF:-1  tvg-logo="https://i.dlpng.com/static/png/359808_preview.png" group-title="SERVER ID : BACKUP",Star Chinese Movies
+#EXTINF:-1  tvg-logo="https://i.dlpng.com/static/png/359808_preview.png" group-title="SERVER ID : BACKUP", SERVER ID :Star Chinese Movies
 https://delivery.macan.live/stream/id_scm/playlist.m3u8?token=CLK6e&v=20200308
 
-#EXTINF:-1 tvg-logo="https://macan.live/img/zeebioskop.png" group-title="SERVER ID : BACKUP",ZEE BIOSKOP
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_zbioskop_small1.png" group-title="SERVER ID : BACKUP", SERVER ID :ZEE BIOSKOP
 https://delivery.macan.live/stream/zeebioskop/playlist.m3u8?token=CLK6e&v=20200308
 
-#EXTINF:-1 tvg-logo="https://macan.live/img/thrill.png" group-title="SERVER ID : BACKUP", THRILL
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_thrill_small.png" group-title="SERVER ID : BACKUP", SERVER ID : THRILL
 https://delivery.macan.live/stream/thrill/playlist.m3u8?token=CLK6e&v=20200308
 
-#EXTINF:-1  tvg-logo="https://macan.live/img/hits.png" group-title="SERVER ID : BACKUP",HITS
+#EXTINF:-1  tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_hits.png" group-title="SERVER ID : BACKUP", SERVER ID :HITS
 https://delivery.macan.live/stream/hits/playlist.m3u8?token=CLK6e&v=20200308
 
-#EXTINF:-1  tvg-logo="https://macan.live/img/hitsmovies.png" group-title="SERVER ID : BACKUP",HITS Movies
+#EXTINF:-1  tvg-logo="https://www.tiviplus.tv/wp-content/uploads/2019/08/HITS-MOVIES-Logo-250x154.png" group-title="SERVER ID : BACKUP", SERVER ID :HITS Movies
 https://delivery.macan.live/stream/hits_movies/playlist.m3u8?token=CLK6e&v=20200308
 
-#EXTINF:-1 tvg-logo="https://macan.live/img/flik.png" group-title="SERVER ID : BACKUP", FLIK
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_flik_small1.png" group-title="SERVER ID : BACKUP", SERVER ID : FLIK
 https://delivery.macan.live/stream/flik/playlist.m3u8?token=CLK6e&v=20200308
 
-#EXTINF:-1 tvg-logo="https://macan.live/img/axn.png" group-title="SERVER ID : BACKUP", AXN
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/axn_150x150.jpg" group-title="SERVER ID : BACKUP", SERVER ID : AXN
 https://delivery.macan.live/stream/id_axn/playlist.m3u8?token=CLK6e&v=20200308
 
-#EXTINF:-1  tvg-logo="https://macan.live/img/sinemaindonesia.png" group-title="SERVER ID : BACKUP",Sinema Indonesia
+#EXTINF:-1  tvg-logo="https://myrepublic.co.id/wp-content/uploads/2019/02/sinema-indonesia.jpg" group-title="SERVER ID : BACKUP", SERVER ID :Sinema Indonesia
 https://delivery.macan.live/stream/sinema_indonesia/playlist.m3u8?token=CLK6e&v=20200308
 
-#EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_galaxy_small1.png" group-title="SERVER ID : BACKUP",Galaxy Premium
+#EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_galaxy_small1.png" group-title="SERVER ID : BACKUP", SERVER ID :Galaxy Premium
 https://delivery.macan.live/stream/galaxy_premium/playlist.m3u8?token=CLK6e&v=20200308
 
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1200px-2015_Fox_Sports_1_logo.svg.png" group-title="SERVER ID : BACKUP",FOX Sport 1
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1200px-2015_Fox_Sports_1_logo.svg.png" group-title="SERVER ID : BACKUP", SERVER ID :FOX Sport 1
 https://delivery.macan.live/stream/id_foxsport1/playlist.m3u8?token=CLK6e&v=20200308
 
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1200px-FS2_logo_2015.svg.png" group-title="SERVER ID : BACKUP",FOX Sport 2
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1200px-FS2_logo_2015.svg.png" group-title="SERVER ID : BACKUP", SERVER ID :FOX Sport 2
 https://delivery.macan.live/stream/id_foxsport2/playlist.m3u8?token=CLK6e&v=20200308
 
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/220px-Fox_Sports_logo1.svg.png" group-title="SERVER ID : BACKUP",FOX Sport 3
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/220px-Fox_Sports_logo1.svg.png" group-title="SERVER ID : BACKUP", SERVER ID :FOX Sport 3
 https://delivery.macan.live/stream/id_foxsport3/playlist.m3u8?token=CLK6e&v=20200308
 
-#EXTINF:-1  tvg-logo="https://www.fightsports.tv/wp-content/uploads/2017/04/FightSportsLogo2x.png" group-title="SERVER ID : BACKUP",Fight Sport
+#EXTINF:-1  tvg-logo="https://www.fightsports.tv/wp-content/uploads/2017/04/FightSportsLogo2x.png" group-title="SERVER ID : BACKUP", SERVER ID :Fight Sport
 https://delivery.macan.live/stream/fightsport/playlist.m3u8?token=CLK6e&v=20200308
 
-#EXTINF:-1  tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/94/BE_IN_SPORT_1_HD_2013.jpg" group-title="SERVER ID : BACKUP",beIN Sports 1 ID
+#EXTINF:-1  tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/94/BE_IN_SPORT_1_HD_2013.jpg" group-title="SERVER ID : BACKUP", SERVER ID :beIN Sports 1 ID
 https://delivery.macan.live/stream/macan_sport_1/playlist.m3u8?token=CLK6e&v=20200308
 
-#EXTINF:-1  tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/60/Beinsports2hd.jpg/" group-title="SERVER ID : BACKUP",beIN Sports 2 ID
+#EXTINF:-1  tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/60/Beinsports2hd.jpg/" group-title="SERVER ID : BACKUP", SERVER ID :beIN Sports 2 ID
 https://delivery.macan.live/stream/macan_sport_2/playlist.m3u8?token=CLK6e&v=20200308
 
-#EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesport_small.png" group-title="SERVER ID : BACKUP",Useesports 1
+#EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesport_small.png" group-title="SERVER ID : BACKUP", SERVER ID :Useesports 1
 https://delivery.macan.live/stream/macan_sport_3/playlist.m3u8?token=CLK6e&v=20200308
 
-#EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesports2_small.png" group-title="SERVER ID : BACKUP",Useesports 2
+#EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesports2_small.png" group-title="SERVER ID : BACKUP", SERVER ID :Useesports 2
 https://delivery.macan.live/stream/macan_sport_4/playlist.m3u8?token=CLK6e&v=20200308
 
-#EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ1_small.png" group-title="SERVER ID : BACKUP",Champions 1 TV
+#EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ1_small.png" group-title="SERVER ID : BACKUP", SERVER ID :Champions 1 TV
 https://delivery.macan.live/stream/macan_sport_5/playlist.m3u8?token=CLK6e&v=20200308
 
-#EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ2_small.png" group-title="SERVER ID : BACKUP",Champions 2 TV
+#EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ2_small.png" group-title="SERVER ID : BACKUP", SERVER ID :Champions 2 TV
 https://delivery.macan.live/stream/macan_sport_6/playlist.m3u8?token=CLK6e&v=20200308
 
-#EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_nba_small.png" group-title="SERVER ID : BACKUP",NBA TV
+#EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_nba_small1.png" group-title="SERVER ID : BACKUP", SERVER ID :NBA TV
 https://delivery.macan.live/stream/nbatv/playlist.m3u8?token=CLK6e&v=20200308
+
 
 
 #EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_80.png" group-title="INDONESIA", RCTI
