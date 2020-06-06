@@ -177,6 +177,9 @@ http://203.153.218.28:9981/stream/channelid/1949182550
 http://203.153.218.28:9981/stream/channelid/756717990
 
 #EXTINF:-1 tvg-id="" tvg-name="HBO HD" tvg-logo="https://x1.cdn.broiptv.online/img/hbo.png" group-title="MOVIES", HBO
+https://delivery.macan.live/stream/hbo/playlist.m3u8?token=CLK6e&v=20200308
+
+#EXTINF:-1 tvg-id="" tvg-name="HBO HD" tvg-logo="https://x1.cdn.broiptv.online/img/hbo.png" group-title="MOVIES", HBO Backup
 http://iptv.iptvhunt.com:25461/sRz3AuZJhybjaqJ/PtLqpiUxQZZJsyU/58589
 
 #EXTINF:-1 tvg-ID="HBOFamily.id" group-title="MOVIES" tvg-logo="https://macan.live/img/hbo_family.png", HBO Family
@@ -186,12 +189,21 @@ http://203.153.218.28:9981/stream/channelid/1316004766
 http://203.153.218.28:9981/stream/channelid/2038175895
 
 #EXTINF:-1 tvg-ID="HBOSignature.id" group-title="MOVIES" tvg-logo="https://macan.live/img/hbo_signature.png", HBO Signature
+https://delivery.macan.live/stream/hbo_signature/playlist.m3u8?token=CLK6e&v=20200308
+
+#EXTINF:-1 tvg-ID="HBOSignature.id" group-title="MOVIES" tvg-logo="https://macan.live/img/hbo_signature.png", HBO Signature Dub indo
 http://cuvillier.gentv.to:8080/Nur/Ln5vkts42G/62174
 
 #EXTINF:-1 tvg-ID="HBOSignature.id" group-title="MOVIES" tvg-logo="https://macan.live/img/hbo_signature.png", RED By HBO
+https://delivery.macan.live/stream/redhbo/playlist.m3u8?token=CLK6e&v=20200308
+
+#EXTINF:-1 tvg-ID="HBOSignature.id" group-title="MOVIES" tvg-logo="https://macan.live/img/hbo_signature.png", RED By HBO Dub indo
 http://cuvillier.gentv.to:8080/Nur/Ln5vkts42G/62171
 
 #EXTINF:-1 tvg-ID="CineMax.id" group-title="MOVIES" tvg-logo="https://macan.live/img/cinemaxa.png", Cinemax by HBO
+https://delivery.macan.live/stream/cinemax/playlist.m3u8?token=CLK6e&v=20200308
+
+#EXTINF:-1 tvg-ID="CineMax.id" group-title="MOVIES" tvg-logo="https://macan.live/img/cinemaxa.png", Cinemax by HBO Dub Indo
 http://cuvillier.gentv.to:8080/Nur/Ln5vkts42G/62170
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_imc_small.png" group-title="INDONESIA MOVIES",IMC
