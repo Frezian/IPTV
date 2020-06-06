@@ -133,37 +133,37 @@ https://delivery.macan.live/stream/sinema_indonesia/playlist.m3u8?token=CLK6e&v=
 #EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_galaxy_small1.png" group-title="SERVER ID : BACKUP",Galaxy Premium
 https://delivery.macan.live/stream/galaxy_premium/playlist.m3u8?token=CLK6e&v=20200308
 
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1200px-2015_Fox_Sports_1_logo.svg.png" group-title="SPORTS",FOX Sport 1
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1200px-2015_Fox_Sports_1_logo.svg.png" group-title="SERVER ID : BACKUP",FOX Sport 1
 https://delivery.macan.live/stream/id_foxsport1/playlist.m3u8?token=CLK6e&v=20200308
 
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1200px-FS2_logo_2015.svg.png" group-title="SPORTS",FOX Sport 2
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1200px-FS2_logo_2015.svg.png" group-title="SERVER ID : BACKUP",FOX Sport 2
 https://delivery.macan.live/stream/id_foxsport2/playlist.m3u8?token=CLK6e&v=20200308
 
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/220px-Fox_Sports_logo1.svg.png" group-title="SPORTS",FOX Sport 3
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/220px-Fox_Sports_logo1.svg.png" group-title="SERVER ID : BACKUP",FOX Sport 3
 https://delivery.macan.live/stream/id_foxsport3/playlist.m3u8?token=CLK6e&v=20200308
 
-#EXTINF:-1  tvg-logo="https://www.fightsports.tv/wp-content/uploads/2017/04/FightSportsLogo2x.png" group-title="SPORTS",Fight Sport
+#EXTINF:-1  tvg-logo="https://www.fightsports.tv/wp-content/uploads/2017/04/FightSportsLogo2x.png" group-title="SERVER ID : BACKUP",Fight Sport
 https://delivery.macan.live/stream/fightsport/playlist.m3u8?token=CLK6e&v=20200308
 
-#EXTINF:-1  tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/94/BE_IN_SPORT_1_HD_2013.jpg" group-title="SPORTS",beIN Sports 1 ID
+#EXTINF:-1  tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/94/BE_IN_SPORT_1_HD_2013.jpg" group-title="SERVER ID : BACKUP",beIN Sports 1 ID
 https://delivery.macan.live/stream/macan_sport_1/playlist.m3u8?token=CLK6e&v=20200308
 
-#EXTINF:-1  tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/60/Beinsports2hd.jpg/" group-title="SPORTS",beIN Sports 2 ID
+#EXTINF:-1  tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/60/Beinsports2hd.jpg/" group-title="SERVER ID : BACKUP",beIN Sports 2 ID
 https://delivery.macan.live/stream/macan_sport_2/playlist.m3u8?token=CLK6e&v=20200308
 
-#EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesport_small.png" group-title="SPORTS",Useesports 1
+#EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesport_small.png" group-title="SERVER ID : BACKUP",Useesports 1
 https://delivery.macan.live/stream/macan_sport_3/playlist.m3u8?token=CLK6e&v=20200308
 
-#EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesports2_small.png" group-title="SPORTS",Useesports 2
+#EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesports2_small.png" group-title="SERVER ID : BACKUP",Useesports 2
 https://delivery.macan.live/stream/macan_sport_4/playlist.m3u8?token=CLK6e&v=20200308
 
-#EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ1_small.png" group-title="SPORTS",Champions 1 TV
+#EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ1_small.png" group-title="SERVER ID : BACKUP",Champions 1 TV
 https://delivery.macan.live/stream/macan_sport_5/playlist.m3u8?token=CLK6e&v=20200308
 
-#EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ2_small.png" group-title="SPORTS",Champions 2 TV
+#EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ2_small.png" group-title="SERVER ID : BACKUP",Champions 2 TV
 https://delivery.macan.live/stream/macan_sport_6/playlist.m3u8?token=CLK6e&v=20200308
 
-#EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_nba_small.png" group-title="SPORTS",NBA TV
+#EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_nba_small.png" group-title="SERVER ID : BACKUP",NBA TV
 https://delivery.macan.live/stream/nbatv/playlist.m3u8?token=CLK6e&v=20200308
 
 
